@@ -33,8 +33,16 @@
         "evenement": "Convention PIMMS Isère - Bus France Services tous les mardis (29 pour, unanimité)"
       },
       {
+        "date": "2021-06-29",
+        "evenement": "Création poste Conseiller Numérique France Services"
+      },
+      {
         "date": "2022",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2022-05",
+        "evenement": "Projet création Pôle Services au Public - appel à propositions nom"
       },
       {
         "date": "2025-03-12",
@@ -187,6 +195,10 @@
         "evenement": "Choix promoteur par les médecins"
       },
       {
+        "date": "2022-02",
+        "evenement": "Mobilisation équipe municipale pour création maison médicale"
+      },
+      {
         "date": "2023",
         "evenement": "Installation provisoire médecins salle Avant-Garde"
       },
@@ -284,12 +296,20 @@
         "evenement": "CM: Convention 2024 MPA + 1er versement 16 000€"
       },
       {
+        "date": "2020-07-15",
+        "evenement": "Fixation 15 administrateurs CCAS (7 élus + 7 nommés + Maire)"
+      },
+      {
         "date": "2020-09-14",
         "evenement": "Désignation 7 représentants conseil administration CCAS"
       },
       {
         "date": "2021",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2021-06-29",
+        "evenement": "Signature charte réseau enseignement artistique AGGLO SUD-EST"
       },
       {
         "date": "2022-12-12",
@@ -518,6 +538,10 @@
         "evenement": "Réalisation"
       },
       {
+        "date": "2022-12",
+        "evenement": "Présentation projet aménagement friche Alliance"
+      },
+      {
         "date": "2023",
         "evenement": "Construction en cours"
       },
@@ -730,6 +754,10 @@
       {
         "date": "2023",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2023-05-03",
+        "evenement": "Déclaration projet nouveau stade chemin des Murs (21 pour, 5 contre)"
       }
     ],
     "details": "",
@@ -934,15 +962,27 @@
     "chiffres": [],
     "chronologie": [
       {
+        "date": "01/01/2015",
+        "evenement": "Métropole autorité organisatrice distribution chaleur"
+      },
+      {
+        "date": "2023-01-30",
+        "evenement": "Délibération d'intention réseau de chaleur Vizille"
+      },
+      {
         "date": "2025",
         "evenement": "Réalisation"
       },
       {
         "date": "2025-09-30",
         "evenement": "Création réseau de chaleur énergies renouvelables (26 pour, 2 abstentions)"
+      },
+      {
+        "date": "30/01/2023",
+        "evenement": "CM: Délibération d'intention"
       }
     ],
-    "details": "",
+    "details": "La Métropole, autorité organisatrice de la distribution de chaleur depuis 2015, étudie la création d'un réseau de chaleur à Vizille. Ce projet permettrait d'alimenter les bâtiments publics et logements collectifs en énergie renouvelable (biomasse, géothermie) à un tarif compétitif.",
     "sources": [
       {
         "type": "doc",
@@ -1335,6 +1375,10 @@
     "resume": "100-200-300€ selon jours",
     "chiffres": [],
     "chronologie": [
+      {
+        "date": "2020-07-15",
+        "evenement": "Délégués commission Finances/Réseaux/Accessibilité SMMAG"
+      },
       {
         "date": "2023",
         "evenement": "Réalisation"
@@ -1908,6 +1952,10 @@
       {
         "date": "2020",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2023-02-06",
+        "evenement": "Création poste adjoint patrimoine 17h30/sem"
       }
     ],
     "details": "",
@@ -2848,6 +2896,10 @@
         "evenement": "CM: Nouvel architecte Pierrick de Vaujany - demandes subventions renouvelées"
       },
       {
+        "date": "2020-07-15",
+        "evenement": "Demandes subventions DRAC, Département, Région pour études restauration (29 pour)"
+      },
+      {
         "date": "2023",
         "evenement": "Réalisation"
       },
@@ -3135,8 +3187,16 @@
     ],
     "chronologie": [
       {
+        "date": "2022-07",
+        "evenement": "Lancement projet végétalisation cour école Jean Jaurès"
+      },
+      {
         "date": "2023",
         "evenement": "Travaux de végétalisation"
+      },
+      {
+        "date": "2023-06-09",
+        "evenement": "Déclaration préalable désimperméabilisation cour Jean Jaurès"
       },
       {
         "date": "27 juin 2024",
@@ -4485,6 +4545,10 @@
         "evenement": "Réalisation"
       },
       {
+        "date": "2022-02",
+        "evenement": "Lancement inscriptions Grenoble-Vizille 2022"
+      },
+      {
         "date": "2022-12-12",
         "evenement": "Subvention 4000€ Entente Athlétique Grenoble - 9ème édition (27 pour)"
       }
@@ -4676,6 +4740,10 @@
       {
         "date": "2021",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2022-10-16",
+        "evenement": "Vide dressing organisé par Union Commerçante Vizilloise"
       },
       {
         "date": "2024-11-19",
@@ -6959,36 +7027,6 @@
     ]
   },
   {
-    "id": 199,
-    "theme": "Finance",
-    "icon": "💰",
-    "color": "#795548",
-    "statut": "Décidé",
-    "titre": "Budget primitif 2025",
-    "description": "Population 7 461 hab, épargne brute 8,91%, personnel 57,74% fonctionnement",
-    "annee": "2025",
-    "annee_fin": "",
-    "budget": 0,
-    "source": "BP 2025",
-    "importance": 1,
-    "resume": "Population 7 461 hab, épargne brute 8,91%, personnel 57,74% fonctionnement",
-    "chiffres": [],
-    "chronologie": [
-      {
-        "date": "2025",
-        "evenement": "Réalisation"
-      }
-    ],
-    "details": "",
-    "sources": [
-      {
-        "type": "doc",
-        "ref": "BP 2025",
-        "desc": ""
-      }
-    ]
-  },
-  {
     "id": 200,
     "theme": "Environnement",
     "icon": "🌿",
@@ -8012,41 +8050,6 @@
     ]
   },
   {
-    "id": 231,
-    "theme": "Solidarité",
-    "icon": "🤝",
-    "color": "#e74c3c",
-    "statut": "Réalisé",
-    "titre": "Don Mayotte cyclone Chido",
-    "description": "1 000€ fonds concours État",
-    "annee": "2025",
-    "annee_fin": "",
-    "budget": 1000,
-    "source": "Délib 2025-02-18-10",
-    "importance": 1,
-    "resume": "1 000€ fonds concours État",
-    "chiffres": [
-      {
-        "valeur": "1 000 €",
-        "label": "Budget"
-      }
-    ],
-    "chronologie": [
-      {
-        "date": "2025",
-        "evenement": "Réalisation"
-      }
-    ],
-    "details": "",
-    "sources": [
-      {
-        "type": "doc",
-        "ref": "Délib 2025-02-18-10",
-        "desc": ""
-      }
-    ]
-  },
-  {
     "id": 232,
     "theme": "Travaux",
     "icon": "🏗️",
@@ -8168,6 +8171,10 @@
     ],
     "chronologie": [
       {
+        "date": "2022-04-04",
+        "evenement": "Approbation compte gestion 2021"
+      },
+      {
         "date": "2025",
         "evenement": "Réalisation"
       }
@@ -8177,41 +8184,6 @@
       {
         "type": "doc",
         "ref": "Délib 2025-04-08-02/03",
-        "desc": ""
-      }
-    ]
-  },
-  {
-    "id": 237,
-    "theme": "Finance",
-    "icon": "💰",
-    "color": "#795548",
-    "statut": "Réalisé",
-    "titre": "Budget primitif 2025 voté : 15,6M€",
-    "description": "Fonctionnement 10,2M€ + Investissement 5,4M€",
-    "annee": "2025",
-    "annee_fin": "",
-    "budget": 15625426,
-    "source": "Délib 2025-04-08-04",
-    "importance": 1,
-    "resume": "Fonctionnement 10,2M€ + Investissement 5,4M€",
-    "chiffres": [
-      {
-        "valeur": "15 625 426 €",
-        "label": "Budget"
-      }
-    ],
-    "chronologie": [
-      {
-        "date": "2025",
-        "evenement": "Réalisation"
-      }
-    ],
-    "details": "",
-    "sources": [
-      {
-        "type": "doc",
-        "ref": "Délib 2025-04-08-04",
         "desc": ""
       }
     ]
@@ -8568,41 +8540,6 @@
       {
         "type": "doc",
         "ref": "Contrat tripartite",
-        "desc": ""
-      }
-    ]
-  },
-  {
-    "id": 249,
-    "theme": "Environnement",
-    "icon": "🌿",
-    "color": "#27ae60",
-    "statut": "En cours",
-    "titre": "Réseau de chaleur urbain au bois - Projet majeur",
-    "description": "7,9M€ HT, 8,7 GWh/an, 85% EnR, -75% CO2, mise en service 2028",
-    "annee": "2025",
-    "annee_fin": "2028",
-    "budget": 7900000,
-    "source": "Délib 2025-09-30-15",
-    "importance": 1,
-    "resume": "7,9M€ HT, 8,7 GWh/an, 85% EnR, -75% CO2, mise en service 2028",
-    "chiffres": [
-      {
-        "valeur": "7 900 000 €",
-        "label": "Budget"
-      }
-    ],
-    "chronologie": [
-      {
-        "date": "2025",
-        "evenement": "Réalisation"
-      }
-    ],
-    "details": "",
-    "sources": [
-      {
-        "type": "doc",
-        "ref": "Délib 2025-09-30-15",
         "desc": ""
       }
     ]
@@ -9274,45 +9211,6 @@
     ]
   },
   {
-    "id": 270,
-    "theme": "Économie",
-    "icon": "💼",
-    "color": "#f39c12",
-    "statut": "Réalisé",
-    "titre": "Plan sobriété énergétique communal",
-    "description": "Baisse température -2°C, isolation, LED, capteurs",
-    "annee": "2022",
-    "annee_fin": "",
-    "budget": 0,
-    "source": "Délib",
-    "importance": 2,
-    "resume": "Engagement dans le Plan Climat-Air-Énergie métropolitain depuis 2021. Nombreuses actions environnementales.",
-    "chiffres": [
-      {
-        "valeur": "11 500 kg",
-        "label": "Textiles collectés"
-      },
-      {
-        "valeur": "+30%",
-        "label": "Évolution collecte"
-      }
-    ],
-    "chronologie": [
-      {
-        "date": "2022",
-        "evenement": "Réalisation"
-      }
-    ],
-    "details": "La commune a adopté un plan de sobriété énergétique face à la hausse des coûts de l'énergie. Mesures : extinction partielle de l'éclairage public, optimisation du chauffage des bâtiments municipaux, sensibilisation des agents et usagers. Objectif : réduire la consommation et la facture énergétique.",
-    "sources": [
-      {
-        "type": "magazine",
-        "ref": "VàV n°160",
-        "desc": "Juillet 2024"
-      }
-    ]
-  },
-  {
     "id": 271,
     "theme": "Finance",
     "icon": "💰",
@@ -9419,30 +9317,6 @@
     "details": "Le semi-marathon Grenoble-Vizille (9ème édition en 2022) est organisé par l'Entente Athlétique Grenoble avec le soutien de la commune (4 000€ de subvention). Cette course populaire relie les deux villes en longeant la vallée de la Romanche, offrant un parcours spectaculaire aux coureurs."
   },
   {
-    "titre": "Réseau de chaleur Vizille (intention)",
-    "domaine": "Environnement",
-    "importance": 2,
-    "resume": "Délibération d'intention pour le développement d'un réseau de chaleur à Vizille.",
-    "chronologie": [
-      {
-        "date": "01/01/2015",
-        "evenement": "Métropole autorité organisatrice distribution chaleur"
-      },
-      {
-        "date": "30/01/2023",
-        "evenement": "CM: Délibération d'intention"
-      }
-    ],
-    "sources": [
-      {
-        "type": "cm",
-        "ref": "CM 30/01/2023",
-        "desc": "Délibération 2023-01-30-05"
-      }
-    ],
-    "details": "La Métropole, autorité organisatrice de la distribution de chaleur depuis 2015, étudie la création d'un réseau de chaleur à Vizille. Ce projet permettrait d'alimenter les bâtiments publics et logements collectifs en énergie renouvelable (biomasse, géothermie) à un tarif compétitif."
-  },
-  {
     "titre": "Vœu Gaza - cessez-le-feu et paix durable",
     "domaine": "Vie municipale",
     "importance": 2,
@@ -9471,6 +9345,10 @@
       {
         "date": "20/03/2024",
         "evenement": "CM: Contrats cession saison culturelle"
+      },
+      {
+        "date": "2021-06-29",
+        "evenement": "Programmation saison culturelle 2021-2022"
       }
     ],
     "chiffres": [
@@ -9674,6 +9552,10 @@
         "evenement": "Entrée au capital SPL ALEC (1/1200ème)"
       },
       {
+        "date": "2020-07-15",
+        "evenement": "Désignation Lionel Coiffard représentant SPL ALEC (22 pour, 7 abst)"
+      },
+      {
         "date": "2022-01-31",
         "evenement": "Rapport représentant Lionel Coiffard - exercice 2020"
       }
@@ -9759,5 +9641,331 @@
       }
     ],
     "sources": "CM 15/09/2021"
+  },
+  {
+    "titre": "Installation des 10 commissions municipales",
+    "domaine": "Vie municipale",
+    "resume": "Création et composition des 10 commissions thématiques du conseil municipal",
+    "statut": "Réalisé",
+    "importance": 2,
+    "chronologie": [
+      {
+        "date": "2020-07-15",
+        "evenement": "Installation 10 commissions (29 pour, unanimité)"
+      }
+    ],
+    "sources": "CM 15/07/2020",
+    "details": "10 commissions municipales créées :\n1. Animations urbaines, économie, participation, communication (Président: P. Bernard)\n2. Culture et patrimoine (Présidente: M-C. Argoud)\n3. Accès aux droits et action sociale (Président: B. Lamy)\n4. Jeunes vizillois et éducation (Présidente: M. El Kebir)\n5. Tranquillité publique, bien vivre ensemble (Président: M. Thuillier)\n6. Vie associative (Présidente: A-M. Tête)\n7. Travaux, urbanisme et logement (Président: L. Lamarca)\n8. Transition numérique et environnementale (Président: G. Forestier)\n9. Intercommunalité (Président: L. Coiffard)\n10. Budget et Personnel (Présidente: C. Troton)"
+  },
+  {
+    "titre": "Représentation au CA de l'EHPAD",
+    "domaine": "Social et solidarité",
+    "resume": "Désignation des représentants communaux au Conseil d'Administration de l'EHPAD",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2020-07-15",
+        "evenement": "Délégués : Maire (droit), B. Lamy, J. Dura (22 pour, 7 abst)"
+      }
+    ],
+    "sources": "CM 15/07/2020"
+  },
+  {
+    "titre": "Représentation au SEDI",
+    "domaine": "Environnement",
+    "resume": "Délégué au Syndicat des Energies du Département de l'Isère",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2020-07-15",
+        "evenement": "Délégué G. Forestier (tit), S. Garcia de la Rosa (suppl)"
+      }
+    ],
+    "sources": "CM 15/07/2020"
+  },
+  {
+    "titre": "Comité de Jumelage",
+    "domaine": "Culture et patrimoine",
+    "resume": "Délégués au Comité de Jumelage pour les relations avec les villes jumelles",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2020-07-15",
+        "evenement": "6 délégués désignés (25 pour, 4 contre)"
+      }
+    ],
+    "sources": "CM 15/07/2020"
+  },
+  {
+    "titre": "Représentation à l'AURG",
+    "domaine": "Urbanisme",
+    "resume": "Délégué à l'Agence d'Urbanisme de la Région Grenobloise",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2020-07-15",
+        "evenement": "Délégué : S. Lasserre (22 pour, 7 abst)"
+      }
+    ],
+    "sources": "CM 15/07/2020"
+  },
+  {
+    "titre": "Représentation SPL Eaux de Grenoble Alpes",
+    "domaine": "Services publics",
+    "resume": "Délégué à la SPL Eaux de Grenoble Alpes (gestion de l'eau potable)",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2020-07-15",
+        "evenement": "Délégué : L. Coiffard (22 pour, 7 abst)"
+      }
+    ],
+    "sources": "CM 15/07/2020"
+  },
+  {
+    "titre": "Renforcement encadrement écoles maternelles",
+    "domaine": "Éducation et jeunesse",
+    "resume": "Création de postes ATSEM pour l'accompagnement des enfants en maternelle",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2020-07-15",
+        "evenement": "Création 2 postes ATSEM catégorie C (29 pour, unanimité)"
+      }
+    ],
+    "sources": "CM 15/07/2020"
+  },
+  {
+    "titre": "Règlement intérieur du Conseil Municipal",
+    "domaine": "Vie municipale",
+    "resume": "Adoption du règlement intérieur du conseil municipal",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2020-12-15",
+        "evenement": "Adoption règlement intérieur CM (28 pour, unanimité)"
+      }
+    ],
+    "sources": "CM 15/12/2020"
+  },
+  {
+    "titre": "Motion soutien à la culture (COVID)",
+    "domaine": "Culture et patrimoine",
+    "resume": "Motion de soutien au monde de la culture pendant la crise sanitaire",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2020-12-15",
+        "evenement": "Motion soutien culture adoptée à l'unanimité"
+      }
+    ],
+    "sources": "CM 15/12/2020",
+    "details": "Motion dénonçant l'incohérence de laisser fermer les structures culturelles malgré les protocoles sanitaires rigoureux."
+  },
+  {
+    "titre": "Tournoi de Futsal",
+    "domaine": "Sport",
+    "resume": "Organisation annuelle du tournoi de Futsal",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2020-08",
+        "evenement": "Animation futsal été 2020"
+      },
+      {
+        "date": "2022-04-30",
+        "evenement": "Tournoi Futsal"
+      }
+    ],
+    "sources": "CM 15/07/2020, VàV n°137"
+  },
+  {
+    "titre": "Brocante Europuces",
+    "domaine": "Économie",
+    "resume": "Grande brocante annuelle Europuces à Vizille",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2022-11-06",
+        "evenement": "Brocante Europuces"
+      }
+    ],
+    "sources": "VàV n°141"
+  },
+  {
+    "titre": "Bourse aux skis Fusyski",
+    "domaine": "Sport",
+    "resume": "Bourse aux skis annuelle organisée par Fusyski",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2022-11",
+        "evenement": "Bourse aux skis 19-20 novembre, salle Locomotive"
+      }
+    ],
+    "sources": "VàV n°142"
+  },
+  {
+    "titre": "Sainte-Barbe des sapeurs-pompiers",
+    "domaine": "Sécurité",
+    "resume": "Célébration annuelle de la Sainte-Barbe par l'amicale des pompiers",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2022-11-12",
+        "evenement": "Sainte-Barbe + retraite aux flambeaux"
+      }
+    ],
+    "sources": "VàV n°142"
+  },
+  {
+    "titre": "Adhésion Fondation du Patrimoine",
+    "domaine": "Culture et patrimoine",
+    "resume": "Adhésion de la commune à la Fondation du Patrimoine",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2021-06-29",
+        "evenement": "Adhésion Fondation Patrimoine 300€ (unanimité)"
+      },
+      {
+        "date": "2023-03",
+        "evenement": "Renouvellement adhésion 2023"
+      }
+    ],
+    "sources": "CM 29/06/2021"
+  },
+  {
+    "titre": "Billetterie en ligne spectacles",
+    "domaine": "Culture et patrimoine",
+    "resume": "Convention de billetterie dématérialisée avec Billetweb",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2021-06-29",
+        "evenement": "Convention Billetweb billetterie spectacles (unanimité)"
+      }
+    ],
+    "sources": "CM 29/06/2021"
+  },
+  {
+    "titre": "Révision durées amortissement",
+    "domaine": "Finance",
+    "resume": "Actualisation des durées d'amortissement des immobilisations",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2021-12-14",
+        "evenement": "Nouvelles durées amortissement, seuil 500€ (unanimité)"
+      }
+    ],
+    "sources": "CM 14/12/2021"
+  },
+  {
+    "titre": "Affectation résultats 2021",
+    "domaine": "Finance",
+    "resume": "Affectation excédent 2021 : 707 870€ investissement + 300 000€ fonctionnement",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2022-04-04",
+        "evenement": "Affectation résultats (21 pour, 4 contre, 3 abst)"
+      }
+    ],
+    "sources": "CM 04/04/2022"
+  },
+  {
+    "titre": "Élection Audrey La Rocca 6e adjointe",
+    "domaine": "Vie municipale",
+    "resume": "Élection d'Audrey La Rocca comme 6e adjointe au Maire",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2022-06-27",
+        "evenement": "Élection A. La Rocca 6e adjointe (24 voix)"
+      }
+    ],
+    "sources": "CM 27/06/2022"
+  },
+  {
+    "titre": "Révision RIFSEEP agents",
+    "domaine": "Services publics",
+    "resume": "Révision du régime indemnitaire des agents territoriaux",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2023-06-20",
+        "evenement": "Révision RIFSEEP"
+      }
+    ],
+    "sources": "CM 20/06/2023"
+  },
+  {
+    "titre": "Comité Social Territorial commun",
+    "domaine": "Services publics",
+    "resume": "CST commun Commune + CCAS + Résidence Autonomie",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2022-05-17",
+        "evenement": "Création CST commun"
+      },
+      {
+        "date": "2022-12-08",
+        "evenement": "Élections professionnelles CST"
+      },
+      {
+        "date": "2023-01-30",
+        "evenement": "Composition CST adoptée (unanimité)"
+      }
+    ],
+    "sources": "CM 30/01/2023"
+  },
+  {
+    "titre": "Adhésion RTES",
+    "domaine": "Économie",
+    "resume": "Adhésion au Réseau des Territoires pour l'Économie Solidaire",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2023-12-05",
+        "evenement": "Renouvellement adhésion RTES (135€)"
+      }
+    ],
+    "sources": "CM 13/12/2023"
+  },
+  {
+    "titre": "Adhésion CAUE Isère",
+    "domaine": "Urbanisme",
+    "resume": "Adhésion au Conseil d'Architecture, d'Urbanisme et de l'Environnement",
+    "statut": "Réalisé",
+    "importance": 1,
+    "chronologie": [
+      {
+        "date": "2023-12-05",
+        "evenement": "Renouvellement adhésion CAUE (400€)"
+      }
+    ],
+    "sources": "CM 13/12/2023"
   }
 ]
