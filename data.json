@@ -12533,5 +12533,354 @@
         "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
+  },
+  {
+    "id": 320,
+    "theme": "Solidarité",
+    "icon": "🍽️",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Portage de repas à domicile - Évolution",
+    "description": "Service pour personnes âgées/handicapées. Évolution 2020-2024 : de 60 à 79 bénéficiaires (+32%), ~12 000 repas/an. Veille sociale quotidienne par 2 agents CCAS.",
+    "annee": "2020",
+    "annee_fin": "2024",
+    "budget": 100000,
+    "source": "Rapports CCAS 2020-2024",
+    "importance": 2,
+    "resume": "Service de portage de repas avec veille sociale quotidienne, en progression constante.",
+    "chiffres": [
+      {
+        "valeur": "79",
+        "label": "Bénéficiaires 2024"
+      },
+      {
+        "valeur": "+32%",
+        "label": "Progression"
+      },
+      {
+        "valeur": "12 000",
+        "label": "Repas/an"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "60 bénéficiaires"
+      },
+      {
+        "date": "2024",
+        "evenement": "79 bénéficiaires (+32%)"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "theme": "Solidarité",
+    "icon": "🛒",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "L'Escale - Épicerie sociale et espace de vie",
+    "description": "Espace de vie sociale + épicerie solidaire. 38-44 familles accompagnées/an. Groupes de parole VSA2 (addictions) depuis 2010. Critère : reste pour vivre <270€/mois.",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 10000,
+    "source": "Rapports CCAS 2020-2024",
+    "importance": 2,
+    "resume": "Épicerie solidaire et espace de vie sociale pour familles en difficulté.",
+    "chiffres": [
+      {
+        "valeur": "44",
+        "label": "Familles/an"
+      },
+      {
+        "valeur": "42",
+        "label": "Adhérents VSA2"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2010",
+        "evenement": "Création groupes VSA2"
+      },
+      {
+        "date": "2020-2024",
+        "evenement": "38-44 familles accompagnées/an"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "theme": "Solidarité",
+    "icon": "👴",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Coordination territoriale gérontologique",
+    "description": "Instance créée en 2021 avec la MRSI regroupant médecins, SSIAD, EHPAD, équipe mobile gériatrie, mandataires, services d'aide. 2-3 situations complexes étudiées/an.",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Rapport CCAS 2021",
+    "importance": 1,
+    "resume": "Instance pluridisciplinaire pour les situations gérontologiques complexes.",
+    "chiffres": [
+      {
+        "valeur": "2-3",
+        "label": "Situations/an"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Création de l'instance"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "theme": "Solidarité",
+    "icon": "🏠",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Action Aller-vers - Visites à domicile",
+    "description": "Démarche proactive contre le non-recours aux droits. Évolution : 62 visites (2020) → 134 (2023) → 101 (2024). 53 personnes visitées en 2024.",
+    "annee": "2020",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Rapports CCAS 2020-2024",
+    "importance": 2,
+    "resume": "Visites à domicile pour lutter contre le non-recours aux droits sociaux.",
+    "chiffres": [
+      {
+        "valeur": "+63%",
+        "label": "Visites 2020-2023"
+      },
+      {
+        "valeur": "53",
+        "label": "Personnes visitées 2024"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "62 visites"
+      },
+      {
+        "date": "2023",
+        "evenement": "134 visites (pic)"
+      },
+      {
+        "date": "2024",
+        "evenement": "101 visites, 53 personnes"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "theme": "Santé",
+    "icon": "💊",
+    "color": "#9c27b0",
+    "statut": "Réalisé",
+    "titre": "Permanence CSAPA addictologie",
+    "description": "Créée en octobre 2021. Un mardi sur deux (13h30-16h30) à La Source. Psychologue + travailleuse sociale du CSAPA SAM des Alpes.",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Rapport CCAS 2021",
+    "importance": 2,
+    "resume": "Permanence d'addictologie bimensuelle à La Source.",
+    "chiffres": [
+      {
+        "valeur": "2x/mois",
+        "label": "Fréquence"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "10/2021",
+        "evenement": "Création de la permanence"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "theme": "Santé",
+    "icon": "👨‍👩‍👧",
+    "color": "#9c27b0",
+    "statut": "Réalisé",
+    "titre": "Antenne CPEF - Planification familiale",
+    "description": "Permanences hebdomadaires depuis 2014 à la Maison Médicale de Garde. En 2024 : 85 consultations médicales, 91 entretiens d'écoute, 467 jeunes rencontrés via 26 animations scolaires.",
+    "annee": "2014",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Rapports CCAS 2020-2024",
+    "importance": 2,
+    "resume": "Centre de planification avec consultations et animations scolaires.",
+    "chiffres": [
+      {
+        "valeur": "85",
+        "label": "Consultations 2024"
+      },
+      {
+        "valeur": "467",
+        "label": "Jeunes rencontrés"
+      },
+      {
+        "valeur": "26",
+        "label": "Animations scolaires"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2014",
+        "evenement": "Ouverture de l'antenne"
+      },
+      {
+        "date": "2024",
+        "evenement": "85 consultations, 467 jeunes"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "theme": "Solidarité",
+    "icon": "🏢",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Résidence La Romanche - Réhabilitation ITE",
+    "description": "Travaux de réhabilitation thermique 2021 : façade entièrement refaite, huisseries et balcons changés. Fresque artistique sur pignon sud inaugurée 2022. 75 logements, 82 usagers.",
+    "annee": "2021",
+    "annee_fin": "2022",
+    "budget": 500000,
+    "source": "Rapport CCAS 2021",
+    "importance": 2,
+    "resume": "Rénovation thermique complète de la résidence autonomie.",
+    "chiffres": [
+      {
+        "valeur": "75",
+        "label": "Logements"
+      },
+      {
+        "valeur": "82",
+        "label": "Usagers"
+      },
+      {
+        "valeur": "90,6%",
+        "label": "Taux occupation"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Travaux ITE (façade, huisseries, balcons)"
+      },
+      {
+        "date": "2022",
+        "evenement": "Fresque artistique pignon sud"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "theme": "Solidarité",
+    "icon": "🎄",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Banquet des anciens et colis de Noël",
+    "description": "Banquet annuel Semaine Bleue ~200 convives (+65 ans). Colis de Noël : 600+ colis gourmands/an (+70 ans). 861 inscrits sur listes CCAS au 31/12/2024.",
+    "annee": "2020",
+    "annee_fin": "2024",
+    "budget": 15000,
+    "source": "Rapports CCAS 2020-2024",
+    "importance": 1,
+    "resume": "Événements festifs annuels pour les seniors vizillois.",
+    "chiffres": [
+      {
+        "valeur": "200",
+        "label": "Convives banquet"
+      },
+      {
+        "valeur": "600+",
+        "label": "Colis Noël"
+      },
+      {
+        "valeur": "861",
+        "label": "Inscrits CCAS"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020-2021",
+        "evenement": "Annulation COVID, colis pour tous"
+      },
+      {
+        "date": "2022-2024",
+        "evenement": "Reprise banquet + colis"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "theme": "Solidarité",
+    "icon": "📬",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Domiciliation et secours d'urgence",
+    "description": "Élection de domicile : 35 adultes/an, 480 courriers traités. Secours d'urgence : 46 ménages aidés en 2024, 759€ en tickets service. Reste pour vivre moyen : 18,35€/mois.",
+    "annee": "2020",
+    "annee_fin": "2024",
+    "budget": 5000,
+    "source": "Rapports CCAS 2020-2024",
+    "importance": 1,
+    "resume": "Services de domiciliation et aides d'urgence aux plus précaires.",
+    "chiffres": [
+      {
+        "valeur": "35",
+        "label": "Domiciliés/an"
+      },
+      {
+        "valeur": "46",
+        "label": "Ménages aidés 2024"
+      },
+      {
+        "valeur": "480",
+        "label": "Courriers traités"
+      }
+    ],
+    "chronologie": []
+  },
+  {
+    "id": 329,
+    "theme": "Solidarité",
+    "icon": "☀️",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Plan canicule et registre vulnérables",
+    "description": "Registre communal des personnes fragiles (14 inscrits 2024). Appels quotidiens en alerte canicule. 2024 : niveau 3 déclenché 2 fois. Nouvelle loi : ~200 personnes à contacter en alerte rouge.",
+    "annee": "2020",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Rapports CCAS 2020-2024",
+    "importance": 1,
+    "resume": "Dispositif de veille et d'alerte pour les personnes vulnérables.",
+    "chiffres": [
+      {
+        "valeur": "14",
+        "label": "Inscrits registre"
+      },
+      {
+        "valeur": "2",
+        "label": "Alertes niveau 3 en 2024"
+      },
+      {
+        "valeur": "~200",
+        "label": "Personnes alerte rouge"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "04/2024",
+        "evenement": "Nouvelle loi canicule"
+      }
+    ]
   }
 ]
