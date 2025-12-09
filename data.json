@@ -1,0 +1,8686 @@
+[
+  {
+    "id": 1,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Maison France Services La Source ouverte",
+    "description": "CCAS + MFS + accompagnement 3600 pers/an",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 28000,
+    "source": "Magazine+Délib",
+    "importance": 1,
+    "resume": "CCAS + MFS + accompagnement 3600 pers/an",
+    "chiffres": [
+      {
+        "valeur": "28 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Délib",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Bus France Services PIMMS",
+    "description": "Tous les mardis place du marché",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2021-04-27-04",
+    "importance": 1,
+    "resume": "Tous les mardis place du marché",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-04-27-04",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Médecins provisoires salle Avant-Garde",
+    "description": "3 médecins, capacité 6",
+    "annee": "2023",
+    "annee_fin": "",
+    "budget": 80000,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "3 médecins, capacité 6",
+    "chiffres": [
+      {
+        "valeur": "80 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Centre imagerie médicale rouvert",
+    "description": "157 rue Colonel Manhès, échographies, mammographies",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°165",
+    "importance": 1,
+    "resume": "157 rue Colonel Manhès, échographies, mammographies",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°165",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "En cours",
+    "titre": "Maison de Santé Pluriprofessionnelle",
+    "description": "Acquisition foncier nov 2025, convention SPL Isère Aménagement",
+    "annee": "2024",
+    "annee_fin": "2027",
+    "budget": 0,
+    "source": "Délib 2025-11-04-04",
+    "importance": 1,
+    "resume": "Acquisition foncier nov 2025, convention SPL Isère Aménagement",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-11-04-04",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "CPEF - 85 consultations + 91 entretiens",
+    "description": "Centre de Planification et Éducation Familiale",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Magazine n°166",
+    "importance": 1,
+    "resume": "Centre de Planification et Éducation Familiale",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°166",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Vaccination COVID accompagnement CCAS",
+    "description": "Personnes isolées 75 ans+",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Personnes isolées 75 ans+",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Conseil Local Santé Mentale créé",
+    "description": "Bassin Pays Vizillois",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Délib 2025-09-30-16",
+    "importance": 1,
+    "resume": "Bassin Pays Vizillois",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-09-30-16",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Permanence addictologie Mutualiste Alpes",
+    "description": "2 mardis/mois",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "2 mardis/mois",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Protection sociale complémentaire prévoyance",
+    "description": "Convention CDG38-COLLECTEAM/ALLIANZ",
+    "annee": "2025",
+    "annee_fin": "2030",
+    "budget": 0,
+    "source": "Délib 2024-10-02-01",
+    "importance": 1,
+    "resume": "Convention CDG38-COLLECTEAM/ALLIANZ",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-10-02-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "En cours",
+    "titre": "ORT - Opération Revitalisation Territoire",
+    "description": "Convention signée sept 2025, horizon 2030",
+    "annee": "2025",
+    "annee_fin": "2030",
+    "budget": 0,
+    "source": "Délib 2025-09-30-05",
+    "importance": 1,
+    "resume": "Convention signée sept 2025, horizon 2030",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-09-30-05",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "En cours",
+    "titre": "Secteur Tanneries / CROS",
+    "description": "5 ha, concertation 2024-2025, bilan sept 2025",
+    "annee": "2023",
+    "annee_fin": "2027",
+    "budget": 192000,
+    "source": "Délib 2025-09-30-06",
+    "importance": 1,
+    "resume": "5 ha, concertation 2024-2025, bilan sept 2025",
+    "chiffres": [
+      {
+        "valeur": "192 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-09-30-06",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "En cours",
+    "titre": "Friche Alliance Textile",
+    "description": "28 logements + Netto + SLS + CMP, livraison T2 2026",
+    "annee": "2022",
+    "annee_fin": "2026",
+    "budget": 0,
+    "source": "Magazine+Délib",
+    "importance": 1,
+    "resume": "28 logements + Netto + SLS + CMP, livraison T2 2026",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Délib",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "En cours",
+    "titre": "Terrasses de la Romanche",
+    "description": "52 logements accession PSLA, TVA 5,5%",
+    "annee": "2024",
+    "annee_fin": "2026",
+    "budget": 0,
+    "source": "Magazine n°164",
+    "importance": 1,
+    "resume": "52 logements accession PSLA, TVA 5,5%",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°164",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Réalisé",
+    "titre": "OPAH-RU Réno'Vizille signée",
+    "description": "3M€ sur 5 ans, 290k€ Vizille",
+    "annee": "2023",
+    "annee_fin": "2027",
+    "budget": 290000,
+    "source": "Délib 2022-12-12-01",
+    "importance": 1,
+    "resume": "3M€ sur 5 ans, 290k€ Vizille",
+    "chiffres": [
+      {
+        "valeur": "290 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-12-12-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Réalisé",
+    "titre": "Centralité vizilloise au PLUi",
+    "description": "Vote unanime Métropole déc 2021",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Délib+Magazine",
+    "importance": 1,
+    "resume": "Vote unanime Métropole déc 2021",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib+Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Réalisé",
+    "titre": "Déclaration projet stade municipal",
+    "description": "Relocalisation pour gendarmerie",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 0,
+    "source": "Délib 2023-05-03-01",
+    "importance": 1,
+    "resume": "Relocalisation pour gendarmerie",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-05-03-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Réalisé",
+    "titre": "Permis construire friche Alliance déposé",
+    "description": "Avril 2022",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Avril 2022",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Réalisé",
+    "titre": "Permis construire Maison médicale signé",
+    "description": "Novembre 2022",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 0,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Novembre 2022",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Signature Charte Plan Climat Air Énergie",
+    "description": "5 axes, 200 mesures, horizon 2030",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Délib 2021-06-29-02",
+    "importance": 1,
+    "resume": "5 axes, 200 mesures, horizon 2030",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-06-29-02",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Plan sobriété énergétique adopté",
+    "description": "-40% éclairage, -10% bâtiments",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2022-11-09-01",
+    "importance": 1,
+    "resume": "-40% éclairage, -10% bâtiments",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-11-09-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Zones Accélération Énergies Renouvelables",
+    "description": "Hydro, PV, réseau chaleur - unanimité",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Délib 2025-02-18-05",
+    "importance": 1,
+    "resume": "Hydro, PV, réseau chaleur - unanimité",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-02-18-05",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "En cours",
+    "titre": "Réseau de chaleur urbain",
+    "description": "Création votée sept 2025, secteur nord",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2025-09-30-15",
+    "importance": 1,
+    "resume": "Création votée sept 2025, secteur nord",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-09-30-15",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Extinction éclairage 22h-6h",
+    "description": "28% du parc, économie 30-45k€/an",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 45000,
+    "source": "Magazine+Délib",
+    "importance": 1,
+    "resume": "28% du parc, économie 30-45k€/an",
+    "chiffres": [
+      {
+        "valeur": "45 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Délib",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Remplacement LED 78 lanternes/an",
+    "description": "70 000€/an, objectif -60% horizon 2035",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 70000,
+    "source": "Délib 2022-11-09-01",
+    "importance": 1,
+    "resume": "70 000€/an, objectif -60% horizon 2035",
+    "chiffres": [
+      {
+        "valeur": "70 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-11-09-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Chaufferie fioul Corniers supprimée",
+    "description": "Pompe à chaleur réversible",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 17000,
+    "source": "Magazine+Bilan travaux",
+    "importance": 1,
+    "resume": "Pompe à chaleur réversible",
+    "chiffres": [
+      {
+        "valeur": "17 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Compostage quartier 3,3 tonnes",
+    "description": "Chantefeuille + Maison Enfant + école Château",
+    "annee": "2023",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°164",
+    "importance": 1,
+    "resume": "Chantefeuille + Maison Enfant + école Château",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°164",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Plantation forêt communale ~300 plants",
+    "description": "1 hectare, près Belvédère, Département/ONF",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°164",
+    "importance": 1,
+    "resume": "1 hectare, près Belvédère, Département/ONF",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°164",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Bornes textiles 4 conteneurs",
+    "description": "Gymnase Guy Mocquet, place Barbusse, etc.",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°164",
+    "importance": 1,
+    "resume": "Gymnase Guy Mocquet, place Barbusse, etc.",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°164",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Collectes textiles 11 500 kg",
+    "description": "+30% entre 2019 et 2021",
+    "annee": "2019",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "+30% entre 2019 et 2021",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2019",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Convention CITEO 5 ans",
+    "description": "3,2€/hab/an = 23 897,60€/an",
+    "annee": "2023",
+    "annee_fin": "2028",
+    "budget": 23898,
+    "source": "Délib 2023-11-28-12",
+    "importance": 1,
+    "resume": "3,2€/hab/an = 23 897,60€/an",
+    "chiffres": [
+      {
+        "valeur": "23 898 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-11-28-12",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "En cours",
+    "titre": "Candidature CITEO tri hors foyer",
+    "description": "85 corbeilles + nouvelles tri sélectif",
+    "annee": "2024",
+    "annee_fin": "2026",
+    "budget": 32000,
+    "source": "Délib 2024-10-02-10",
+    "importance": 1,
+    "resume": "85 corbeilles + nouvelles tri sélectif",
+    "chiffres": [
+      {
+        "valeur": "32 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-10-02-10",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Gestion différenciée espaces verts",
+    "description": "Zéro phyto",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Zéro phyto",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Convention Alcome cendriers de rue",
+    "description": "1,08€/hab/an",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°163",
+    "importance": 1,
+    "resume": "1,08€/hab/an",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°163",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Forfait Mobilités Durables instauré",
+    "description": "100-200-300€ selon jours",
+    "annee": "2023",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2023-11-28-10",
+    "importance": 1,
+    "resume": "100-200-300€ selon jours",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-11-28-10",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Convention SPEE Communes",
+    "description": "Service efficacité énergétique SPL ALEC",
+    "annee": "2021",
+    "annee_fin": "2023",
+    "budget": 2340,
+    "source": "Délib 2021-03-23-15",
+    "importance": 1,
+    "resume": "Service efficacité énergétique SPL ALEC",
+    "chiffres": [
+      {
+        "valeur": "2 340 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-03-23-15",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Piège à embâcles Vernon",
+    "description": "Dégrilleur Métropole",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Dégrilleur Métropole",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Convention stérilisation chats errants",
+    "description": "30 Millions d'Amis, 10-15 chats/an",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 550,
+    "source": "Délib 2021-06-29-38",
+    "importance": 1,
+    "resume": "30 Millions d'Amis, 10-15 chats/an",
+    "chiffres": [
+      {
+        "valeur": "550 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-06-29-38",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "5 corbeilles digues Romanche",
+    "description": "Convention SYMBHI",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Délib 2021-02-23-18",
+    "importance": 1,
+    "resume": "Convention SYMBHI",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-02-23-18",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "En cours",
+    "titre": "Campagne mesure îlots de chaleur",
+    "description": "À venir",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "À venir",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "En cours",
+    "titre": "Création étang dans le Plan",
+    "description": "Mare pédagogique zone verte",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Mare pédagogique zone verte",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Vidéo-protection 27 caméras",
+    "description": "Budget 223 623€, centre-ville, parkings, entrées",
+    "annee": "2021",
+    "annee_fin": "2024",
+    "budget": 223623,
+    "source": "Délib 2021-02-23-02",
+    "importance": 1,
+    "resume": "Budget 223 623€, centre-ville, parkings, entrées",
+    "chiffres": [
+      {
+        "valeur": "223 623 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-02-23-02",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Participation citoyenne 12 référents",
+    "description": "7 secteurs, formation gendarmerie",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°164",
+    "importance": 1,
+    "resume": "7 secteurs, formation gendarmerie",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°164",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Réserve Communale Sécurité Civile créée",
+    "description": "Unanimité 20 oct 2020",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib 2020-10-20-10",
+    "importance": 1,
+    "resume": "Unanimité 20 oct 2020",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2020-10-20-10",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Nouvelle capitaine gendarmerie",
+    "description": "Alexandrine Veyret, 34 gendarmes",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°164",
+    "importance": 1,
+    "resume": "Alexandrine Veyret, 34 gendarmes",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°164",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Indemnité spéciale police municipale",
+    "description": "ISFPE filière PM",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib 2024-12-17-08",
+    "importance": 1,
+    "resume": "ISFPE filière PM",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-12-17-08",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "En cours",
+    "titre": "Refonte Plan Communal Sauvegarde",
+    "description": "PCS",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2024-12-17-16",
+    "importance": 1,
+    "resume": "PCS",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-12-17-16",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Convention prévention risques Métropole",
+    "description": "49 communes, 385€/an",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 385,
+    "source": "Délib 2022-12-12-18",
+    "importance": 1,
+    "resume": "49 communes, 385€/an",
+    "chiffres": [
+      {
+        "valeur": "385 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-12-12-18",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Convention Plan Intercommunal Sauvegarde",
+    "description": "Métropole",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Délib 2025-09-30-13",
+    "importance": 1,
+    "resume": "Métropole",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-09-30-13",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Caméras détection dépôts sauvages",
+    "description": "PLDA",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°163",
+    "importance": 1,
+    "resume": "PLDA",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°163",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Gratuité Médiathèque Jules Vallès",
+    "description": "Pour tous les Vizillois",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib 2020-09-14-06",
+    "importance": 1,
+    "resume": "Pour tous les Vizillois",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2020-09-14-06",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Convention Cinémas Associés",
+    "description": "27-29 500€/an, +80 000 spectateurs 2024",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 29500,
+    "source": "Délib annuels",
+    "importance": 1,
+    "resume": "27-29 500€/an, +80 000 spectateurs 2024",
+    "chiffres": [
+      {
+        "valeur": "29 500 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib annuels",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Festival P'tits Mots P'tits Mômes",
+    "description": "30e édition 2025, mars chaque année",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 12000,
+    "source": "Magazine+Délib",
+    "importance": 1,
+    "resume": "30e édition 2025, mars chaque année",
+    "chiffres": [
+      {
+        "valeur": "12 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Délib",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Festival Film pour Enfants",
+    "description": "25e édition 2024, label national Jeune Public",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "25e édition 2024, label national Jeune Public",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Festival Rock'n Road",
+    "description": "13e édition 2025, avril",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "13e édition 2025, avril",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Estivales concerts gratuits",
+    "description": "7-8 concerts/été",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 7500,
+    "source": "Magazine+Délib",
+    "importance": 1,
+    "resume": "7-8 concerts/été",
+    "chiffres": [
+      {
+        "valeur": "7 500 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Délib",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Fête de la Science",
+    "description": "3e édition 2024, 500+ participants",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "3e édition 2024, 500+ participants",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Festival Ouverture Exceptionnelle",
+    "description": "1ère édition nov 2022",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 4000,
+    "source": "Délib 2022-12-12-21",
+    "importance": 1,
+    "resume": "1ère édition nov 2022",
+    "chiffres": [
+      {
+        "valeur": "4 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-12-12-21",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Saisons culturelles programmées",
+    "description": "10-13 spectacles/saison",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib annuels",
+    "importance": 1,
+    "resume": "10-13 spectacles/saison",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib annuels",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Street Art Fest 3 fresques",
+    "description": "Écoles Joliot-Curie, Péage, etc.",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 5000,
+    "source": "Délib 2022-05-16-08",
+    "importance": 1,
+    "resume": "Écoles Joliot-Curie, Péage, etc.",
+    "chiffres": [
+      {
+        "valeur": "5 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-05-16-08",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "MPA convention partenariat",
+    "description": "16-28k€/an, groupe Update",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 28000,
+    "source": "Délib annuels",
+    "importance": 1,
+    "resume": "16-28k€/an, groupe Update",
+    "chiffres": [
+      {
+        "valeur": "28 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib annuels",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Motion réouverture établissements culturels",
+    "description": "Soutien culture pendant COVID",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib 2020-12-15-15",
+    "importance": 1,
+    "resume": "Soutien culture pendant COVID",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2020-12-15-15",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "10 jours de la culture 2025",
+    "description": "",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Délib 2025-03-12-08",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-03-12-08",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Partenariat AHPV",
+    "description": "Revue Mémoire, conférences, parcours patrimoniaux",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Revue Mémoire, conférences, parcours patrimoniaux",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Partenariat Amis de l'Orgue",
+    "description": "~50 concerts en 10 ans, parrainage tuyaux",
+    "annee": "2015",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "~50 concerts en 10 ans, parrainage tuyaux",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2015",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Chorales La Mirandole + Atchapoly",
+    "description": "Vizille en Chœur, répertoire caucasien/balkanique",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Vizille en Chœur, répertoire caucasien/balkanique",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Cinéma plein air estival",
+    "description": "Un peuple et son roi, Marie-Antoinette, etc.",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Un peuple et son roi, Marie-Antoinette, etc.",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Exposition BD Vizille",
+    "description": "'Il sera une fois Vizille' mars-avril 2025",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°166",
+    "importance": 1,
+    "resume": "'Il sera une fois Vizille' mars-avril 2025",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°166",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Tournage Cuisine ouverte France 3",
+    "description": "Musée Révolution française",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°166",
+    "importance": 1,
+    "resume": "Musée Révolution française",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°166",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Label Territoire Numérique Libre grade 3/5",
+    "description": "Logiciels libres mairie",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Magazine n°163",
+    "importance": 1,
+    "resume": "Logiciels libres mairie",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°163",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Borne musicale Mélo résidence Romanche",
+    "description": "Subvention Département 80%",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 5800,
+    "source": "Magazine n°163",
+    "importance": 1,
+    "resume": "Subvention Département 80%",
+    "chiffres": [
+      {
+        "valeur": "5 800 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°163",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Réalisé",
+    "titre": "Espace Serge Gros inauguré",
+    "description": "Halles sous mairie, hommage ancien Maire",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 0,
+    "source": "Délib 2023-01-30-12",
+    "importance": 1,
+    "resume": "Halles sous mairie, hommage ancien Maire",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-01-30-12",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Réalisé",
+    "titre": "Adhésion Fédération Sites Clunisiens",
+    "description": "Demande AHPV, 1800€ total",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 1800,
+    "source": "Délib 2023-03-14-24",
+    "importance": 1,
+    "resume": "Demande AHPV, 1800€ total",
+    "chiffres": [
+      {
+        "valeur": "1 800 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-03-14-24",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Réalisé",
+    "titre": "Cession locomotive Brissonneau Lotz",
+    "description": "Dernier voyage 3/10/1964, devant La Locomotive",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 0,
+    "source": "Délib 2023-10-09-08",
+    "importance": 1,
+    "resume": "Dernier voyage 3/10/1964, devant La Locomotive",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-10-09-08",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "En cours",
+    "titre": "Restauration orgue église Sainte-Marie",
+    "description": "Buffet restauré, partie instrumentale en cours",
+    "annee": "2020",
+    "annee_fin": "2025",
+    "budget": 80000,
+    "source": "Délib+Bilan travaux",
+    "importance": 1,
+    "resume": "Buffet restauré, partie instrumentale en cours",
+    "chiffres": [
+      {
+        "valeur": "80 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib+Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "En cours",
+    "titre": "Travaux sauvegarde Prieuré Sainte-Marie",
+    "description": "Monument Historique, 353 892€ HT",
+    "annee": "2023",
+    "annee_fin": "",
+    "budget": 310000,
+    "source": "Délib 2023-12-13-17/18/19",
+    "importance": 1,
+    "resume": "Monument Historique, 353 892€ HT",
+    "chiffres": [
+      {
+        "valeur": "310 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-12-13-17/18/19",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Réalisé",
+    "titre": "Autorisation fouilles Prieuré",
+    "description": "Programme archéologique sept 2025",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Délib 2025-09-30-02",
+    "importance": 1,
+    "resume": "Programme archéologique sept 2025",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-09-30-02",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Réalisé",
+    "titre": "4 parcours patrimoniaux signalétique",
+    "description": "Été 2022, fonds européens/régionaux",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 15000,
+    "source": "Magazine+Bilan travaux",
+    "importance": 1,
+    "resume": "Été 2022, fonds européens/régionaux",
+    "chiffres": [
+      {
+        "valeur": "15 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Réalisé",
+    "titre": "Porte Poterne Château du Roi",
+    "description": "10 875€ TTC, subvention Département 50%",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 10875,
+    "source": "Délib 2024-02-15-26",
+    "importance": 1,
+    "resume": "10 875€ TTC, subvention Département 50%",
+    "chiffres": [
+      {
+        "valeur": "10 875 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-02-15-26",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "En cours",
+    "titre": "Renforcement tribune orgue église",
+    "description": "Piliers avec micropieux",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2024-02-15-25",
+    "importance": 1,
+    "resume": "Piliers avec micropieux",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-02-15-25",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Réalisé",
+    "titre": "Travaux église prieurale Notre-Dame",
+    "description": "Consolidation urgence MH",
+    "annee": "2020",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Délib 2020-12-15-07/08/09",
+    "importance": 1,
+    "resume": "Consolidation urgence MH",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2020-12-15-07/08/09",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Crèche Les Petits Drôles rénovée",
+    "description": "26→30 enfants, 3 unités, cuisine sur place",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 450000,
+    "source": "Magazine n°162+Bilan travaux",
+    "importance": 1,
+    "resume": "26→30 enfants, 3 unités, cuisine sur place",
+    "chiffres": [
+      {
+        "valeur": "450 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°162+Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Désimperméabilisation cour Jean Jaurès",
+    "description": "Végétalisation, inauguration 27/06/2024",
+    "annee": "2023",
+    "annee_fin": "2024",
+    "budget": 230000,
+    "source": "Magazine+Bilan travaux",
+    "importance": 1,
+    "resume": "Végétalisation, inauguration 27/06/2024",
+    "chiffres": [
+      {
+        "valeur": "230 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "En cours",
+    "titre": "Désimperméabilisation cour Paul Langevin",
+    "description": "Maîtrise d'œuvre 2024, travaux 2025",
+    "annee": "2024",
+    "annee_fin": "2025",
+    "budget": 230000,
+    "source": "Délib+Bilan travaux",
+    "importance": 1,
+    "resume": "Maîtrise d'œuvre 2024, travaux 2025",
+    "chiffres": [
+      {
+        "valeur": "230 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib+Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Ascenseur PMR école du Château",
+    "description": "Accessibilité",
+    "annee": "2021",
+    "annee_fin": "2022",
+    "budget": 360000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Accessibilité",
+    "chiffres": [
+      {
+        "valeur": "360 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Rénovation thermique fenêtres Château",
+    "description": "Confort thermique, 2021-2025",
+    "annee": "2021",
+    "annee_fin": "2025",
+    "budget": 600000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Confort thermique, 2021-2025",
+    "chiffres": [
+      {
+        "valeur": "600 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "ENT déployés dans les écoles",
+    "description": "Espaces Numériques de Travail",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 0,
+    "source": "Délib 2023-10-09-06",
+    "importance": 1,
+    "resume": "Espaces Numériques de Travail",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-10-09-06",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Territoire Numérique Éducatif",
+    "description": "Convention Département 50-75%",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 0,
+    "source": "Délib 2023-10-09-06",
+    "importance": 1,
+    "resume": "Convention Département 50-75%",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-10-09-06",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Petits déjeuners école Paul Langevin",
+    "description": "1200-2000/an, financement Éducation Nationale",
+    "annee": "2023",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib annuels",
+    "importance": 1,
+    "resume": "1200-2000/an, financement Éducation Nationale",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib annuels",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Classes découverte ski CM2",
+    "description": "Villard-de-Lans, 50-60 élèves/an",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 25600,
+    "source": "Délib annuels",
+    "importance": 1,
+    "resume": "Villard-de-Lans, 50-60 élèves/an",
+    "chiffres": [
+      {
+        "valeur": "25 600 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib annuels",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Jeux Olympiques Vizillois",
+    "description": "Toutes écoles primaires juillet 2024",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Toutes écoles primaires juillet 2024",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Convention Territoriale Globale CAF/SICCE",
+    "description": "15 communes, petite enfance/jeunesse",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2022-05-16-01",
+    "importance": 1,
+    "resume": "15 communes, petite enfance/jeunesse",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-05-16-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Promeneurs du Net",
+    "description": "Accompagnement jeunes 13-25 ans réseaux sociaux",
+    "annee": "2023",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2023-03-14-19",
+    "importance": 1,
+    "resume": "Accompagnement jeunes 13-25 ans réseaux sociaux",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-03-14-19",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Conseiller Numérique France Services",
+    "description": "Recruté 1er juillet 2021",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2021-06-29-01",
+    "importance": 1,
+    "resume": "Recruté 1er juillet 2021",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-06-29-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Adhésion Nautic Sport 38",
+    "description": "Découverte nautique centres de loisirs, 2€/enfant",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2024-05-14-21",
+    "importance": 1,
+    "resume": "Découverte nautique centres de loisirs, 2€/enfant",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-05-14-21",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Pass'Sport communal 10€/enfant",
+    "description": "83 enfants bénéficiaires 2021",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2021-12-14-19",
+    "importance": 1,
+    "resume": "83 enfants bénéficiaires 2021",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-12-14-19",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Aménagement sanitaires écoles",
+    "description": "Jean Jaurès, Château, Joliot-Curie",
+    "annee": "2021",
+    "annee_fin": "2024",
+    "budget": 100000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Jean Jaurès, Château, Joliot-Curie",
+    "chiffres": [
+      {
+        "valeur": "100 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Rénovation circuit chauffage Joliot-Curie",
+    "description": "Amélioration thermique",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 40000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Amélioration thermique",
+    "chiffres": [
+      {
+        "valeur": "40 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Aide Ukraine 5000€",
+    "description": "Secours Populaire, unanimité",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 5000,
+    "source": "Délib 2022-03-08-01",
+    "importance": 1,
+    "resume": "Secours Populaire, unanimité",
+    "chiffres": [
+      {
+        "valeur": "5 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-03-08-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Aide Turquie/Syrie séisme 1000€",
+    "description": "Secours Populaire",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 1000,
+    "source": "Délib 2023-03-14-26",
+    "importance": 1,
+    "resume": "Secours Populaire",
+    "chiffres": [
+      {
+        "valeur": "1 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-03-14-26",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Aide Maroc séisme + Libye 2000€",
+    "description": "Secours Populaire + Alpes Solidarité Maroc",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 2000,
+    "source": "Délib 2023-10-09-10",
+    "importance": 1,
+    "resume": "Secours Populaire + Alpes Solidarité Maroc",
+    "chiffres": [
+      {
+        "valeur": "2 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-10-09-10",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Don Mayotte cyclone Chido 1000€",
+    "description": "Fonds concours Ministère Outre-mer",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 1000,
+    "source": "Délib 2025-02-18-10",
+    "importance": 1,
+    "resume": "Fonds concours Ministère Outre-mer",
+    "chiffres": [
+      {
+        "valeur": "1 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-02-18-10",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Vœu cessez-le-feu Gaza",
+    "description": "25 pour, 4 ne prend pas part",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib 2024-03-20-01",
+    "importance": 1,
+    "resume": "25 pour, 4 ne prend pas part",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-03-20-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Vœu soutien Vencorex/Arkema",
+    "description": "Nationalisation si pas d'autre solution",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib 2024-11-19-01",
+    "importance": 1,
+    "resume": "Nationalisation si pas d'autre solution",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-11-19-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Motion soutien Ferropem Les Clavaux",
+    "description": "130 emplois + 80 sous-traitants",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Délib 2021-04-27-07",
+    "importance": 1,
+    "resume": "130 emplois + 80 sous-traitants",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-04-27-07",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Dispositif Un toit parmi les âges",
+    "description": "Association DIGI, résidence La Romanche",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°163",
+    "importance": 1,
+    "resume": "Association DIGI, résidence La Romanche",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°163",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Adhésion réseau Partenaires-Égalité",
+    "description": "Lutte anti-discriminations Métropole",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 0,
+    "source": "Délib 2022-03-08-03",
+    "importance": 1,
+    "resume": "Lutte anti-discriminations Métropole",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-03-08-03",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Exonérations terrasses COVID",
+    "description": "Bar Pirates, Chrystie's, etc.",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib 2020-10-20-03",
+    "importance": 1,
+    "resume": "Bar Pirates, Chrystie's, etc.",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2020-10-20-03",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "ENGAJER jeunes 16-25 ans rupture",
+    "description": "Référente Anaïs Sahy CODASE",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°164",
+    "importance": 1,
+    "resume": "Référente Anaïs Sahy CODASE",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°164",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Adhésion SOS Méditerranée",
+    "description": "Subvention annuelle",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2024-12-17-24",
+    "importance": 1,
+    "resume": "Subvention annuelle",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-12-17-24",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Rencontres intergénérationnelles",
+    "description": "SICCE + EHPAD Les Écrins + Résidence Romanche",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°162",
+    "importance": 1,
+    "resume": "SICCE + EHPAD Les Écrins + Résidence Romanche",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°162",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Rénovation 2 terrains tennis",
+    "description": "Parc",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 155000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Parc",
+    "chiffres": [
+      {
+        "valeur": "155 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Piscine municipale maintenue ouverte",
+    "description": "Budget 60-80k€/an travaux, estivale",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 60000,
+    "source": "Magazine+Bilan travaux",
+    "importance": 1,
+    "resume": "Budget 60-80k€/an travaux, estivale",
+    "chiffres": [
+      {
+        "valeur": "60 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Éclairage LED gymnase du Parc",
+    "description": "40 000€",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 40000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "40 000€",
+    "chiffres": [
+      {
+        "valeur": "40 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Agrès sportifs Roselière + Lebrun",
+    "description": "10 000€",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 10000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "10 000€",
+    "chiffres": [
+      {
+        "valeur": "10 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Label Terre de Jeux JO 2024",
+    "description": "",
+    "annee": "2022",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Pass'Sport clubs sportifs subvention",
+    "description": "50€/enfant national + 10€ communal",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib annuels",
+    "importance": 1,
+    "resume": "50€/enfant national + 10€ communal",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib annuels",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Cyclosportive Thierry Claveyrolat 1ère",
+    "description": "28 avril 2024, hommage cycliste vizillois",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "28 avril 2024, hommage cycliste vizillois",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Semi-marathon Grenoble-Vizille",
+    "description": "9e édition 2022, 4000€ subvention",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 4000,
+    "source": "Délib 2022-12-12-19",
+    "importance": 1,
+    "resume": "9e édition 2022, 4000€ subvention",
+    "chiffres": [
+      {
+        "valeur": "4 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2022-12-12-19",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Tour de France passage Vizille",
+    "description": "24 juillet 2025, étape 171 km",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°164",
+    "importance": 1,
+    "resume": "24 juillet 2025, étape 171 km",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°164",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Rugby Champion des Alpes",
+    "description": "Entente Vizille-Vaulnaveys",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Entente Vizille-Vaulnaveys",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Convergence vélo annuelle",
+    "description": "25 septembre 2021, etc.",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "25 septembre 2021, etc.",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "La Viziclette",
+    "description": "Avec Vélostival Métro",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Avec Vélostival Métro",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Formation vélo Chaîne de vélo",
+    "description": "6 séances à partir mars",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 2500,
+    "source": "Délib 2024-02-15-27",
+    "importance": 1,
+    "resume": "6 séances à partir mars",
+    "chiffres": [
+      {
+        "valeur": "2 500 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-02-15-27",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Réalisé",
+    "titre": "Union Commerçante Vizilloise créée",
+    "description": "7 mai 2021, animation pôles commerciaux",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2021-09-21-12",
+    "importance": 1,
+    "resume": "7 mai 2021, animation pôles commerciaux",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-09-21-12",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Réalisé",
+    "titre": "Relais du Château rénovation",
+    "description": "800 000€, ouverture automne 2025",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°166",
+    "importance": 1,
+    "resume": "800 000€, ouverture automne 2025",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°166",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Réalisé",
+    "titre": "Hytech Valley créée",
+    "description": "20+ adhérents, 6000 collaborateurs, 20k€ subv Métro",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°164",
+    "importance": 1,
+    "resume": "20+ adhérents, 6000 collaborateurs, 20k€ subv Métro",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°164",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Réalisé",
+    "titre": "Fromagerie des copains ouverte",
+    "description": "Centre-ville",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°165",
+    "importance": 1,
+    "resume": "Centre-ville",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°165",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Réalisé",
+    "titre": "Librairie La Page d'accueil",
+    "description": "",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Réalisé",
+    "titre": "Tindxa rouvert",
+    "description": "63 place de la Libération",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Magazine n°163",
+    "importance": 1,
+    "resume": "63 place de la Libération",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°163",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Réalisé",
+    "titre": "Concertation centre-ville",
+    "description": "Forum nov 2024, balade urbaine, ateliers",
+    "annee": "2024",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°166",
+    "importance": 1,
+    "resume": "Forum nov 2024, balade urbaine, ateliers",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°166",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Réalisé",
+    "titre": "Tarifs TLPE revalorisés",
+    "description": "+4,8% pour 2025",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib 2024-05-14-02",
+    "importance": 1,
+    "resume": "+4,8% pour 2025",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-05-14-02",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "En cours",
+    "titre": "Piétonisation rue Général de Gaulle",
+    "description": "Travaux mars 2025, végétalisation",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine+Bilan travaux",
+    "importance": 2,
+    "resume": "Réaménagement complet de la rue principale du centre-ville avec piétonisation, végétalisation et modernisation de l'éclairage pour créer un cœur de ville attractif.",
+    "chiffres": [
+      {
+        "valeur": "400 m",
+        "label": "Linéaire traité"
+      },
+      {
+        "valeur": "2,1 M€",
+        "label": "Investissement"
+      },
+      {
+        "valeur": "30+",
+        "label": "Arbres plantés"
+      },
+      {
+        "valeur": "LED",
+        "label": "Éclairage modernisé"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Début des travaux phase 1"
+      },
+      {
+        "date": "Été 2025",
+        "evenement": "Place Stalingrad achevée"
+      },
+      {
+        "date": "Novembre 2025",
+        "evenement": "Fin des travaux place de l'église"
+      },
+      {
+        "date": "Automne 2025",
+        "evenement": "Végétalisation"
+      }
+    ],
+    "details": "Le projet comprend : pavage de qualité, mobilier urbain, fontaine, terrasses pour les commerces. Les commerçants ont été accompagnés pendant les travaux. Le marché a été maintenu.",
+    "sources": [
+      {
+        "type": "magazine",
+        "ref": "Vivre à Vizille n°169-171",
+        "desc": "Suivi des travaux"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Inversion sens rue de la République",
+    "description": "Expérimentation depuis 5 mars 2025",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°166",
+    "importance": 1,
+    "resume": "Expérimentation depuis 5 mars 2025",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°166",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Courrier 110 élus désaturation axe",
+    "description": "Grenoble-Oisans, à la Préfète",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°166",
+    "importance": 1,
+    "resume": "Grenoble-Oisans, à la Préfète",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°166",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "En cours",
+    "titre": "Parking Tissages rénovation",
+    "description": "120 places, Métropole printemps 2025",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°166",
+    "importance": 1,
+    "resume": "120 places, Métropole printemps 2025",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°166",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "En cours",
+    "titre": "Aménagements cycles été 2025",
+    "description": "Secteur Péage + rue A. Briand vers lycée",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Magazine n°166",
+    "importance": 1,
+    "resume": "Secteur Péage + rue A. Briand vers lycée",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°166",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Passerelle Martinets réfection",
+    "description": "17 000€, fin 2021",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 17000,
+    "source": "Délib 2021-02-23-19",
+    "importance": 1,
+    "resume": "17 000€, fin 2021",
+    "chiffres": [
+      {
+        "valeur": "17 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-02-23-19",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Piétonnisation place Château été",
+    "description": "27 juin - 15 septembre 2022",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "27 juin - 15 septembre 2022",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Parking Relais gare soieries",
+    "description": "",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "En cours",
+    "titre": "Voie pendulaire Jarrie-Vizille",
+    "description": "Soutenue par la Ville",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine n°163",
+    "importance": 1,
+    "resume": "Soutenue par la Ville",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°163",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Création parking chemin Maniguet",
+    "description": "23 000€",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 23000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "23 000€",
+    "chiffres": [
+      {
+        "valeur": "23 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Rénovation passerelle av Maurice Thorez",
+    "description": "48 000€",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 48000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "48 000€",
+    "chiffres": [
+      {
+        "valeur": "48 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Panneaux touristiques patrimoniaux",
+    "description": "15 000€ toute la ville",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 15000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "15 000€ toute la ville",
+    "chiffres": [
+      {
+        "valeur": "15 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Réaménagement rues Peyron et J. Ferry",
+    "description": "Désimperméabilisation, 11 500€",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 11500,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Désimperméabilisation, 11 500€",
+    "chiffres": [
+      {
+        "valeur": "11 500 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Bornes stationnement square Libération",
+    "description": "17 200€",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 17200,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "17 200€",
+    "chiffres": [
+      {
+        "valeur": "17 200 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Aménagement sécurisation route Uriage",
+    "description": "10 000€",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 10000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "10 000€",
+    "chiffres": [
+      {
+        "valeur": "10 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Réfection 3 ponts Allas Pottier Bethoux",
+    "description": "9 500€",
+    "annee": "2022",
+    "annee_fin": "2023",
+    "budget": 9500,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "9 500€",
+    "chiffres": [
+      {
+        "valeur": "9 500 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Aménagement gabions av Maurice Thorez",
+    "description": "40 000€",
+    "annee": "2023",
+    "annee_fin": "2025",
+    "budget": 40000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "40 000€",
+    "chiffres": [
+      {
+        "valeur": "40 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Reprise croisement Métral/Jaurès",
+    "description": "13 000€",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 13000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "13 000€",
+    "chiffres": [
+      {
+        "valeur": "13 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "En cours",
+    "titre": "Réseaux assainissement rue De Gaulle",
+    "description": "7,9 M€ Métropole, fin début 2025",
+    "annee": "2024",
+    "annee_fin": "2025",
+    "budget": 7900000,
+    "source": "Magazine+Bilan travaux",
+    "importance": 1,
+    "resume": "7,9 M€ Métropole, fin début 2025",
+    "chiffres": [
+      {
+        "valeur": "7 900 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine+Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Amélioration AEP rue Marcel Desprez",
+    "description": "13 200€",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 13200,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "13 200€",
+    "chiffres": [
+      {
+        "valeur": "13 200 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Mise en séparatif rues Ferrafiat Béthouz Argoud",
+    "description": "Métropole",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Métropole",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Mise en séparatif rue Paul Eluard",
+    "description": "Métropole",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 0,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Métropole",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Sécurisation Bois du Léon",
+    "description": "12 000€",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 12000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "12 000€",
+    "chiffres": [
+      {
+        "valeur": "12 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Rénovation jeux enfants Bois Léon + Bleu Citron",
+    "description": "15 000€",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 15000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "15 000€",
+    "chiffres": [
+      {
+        "valeur": "15 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Désimperméabilisation tennis Péage",
+    "description": "40 000€, espaces verts",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 40000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "40 000€, espaces verts",
+    "chiffres": [
+      {
+        "valeur": "40 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Corbeilles de rue (10/an)",
+    "description": "3 500€/an",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 3500,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "3 500€/an",
+    "chiffres": [
+      {
+        "valeur": "3 500 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "En cours",
+    "titre": "Doublement corbeilles 80→160",
+    "description": "Avec tri jaune",
+    "annee": "2024",
+    "annee_fin": "2026",
+    "budget": 0,
+    "source": "Magazine n°163",
+    "importance": 1,
+    "resume": "Avec tri jaune",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine n°163",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Bancs 1 tous les 200m",
+    "description": "3 000€/an",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 3000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "3 000€/an",
+    "chiffres": [
+      {
+        "valeur": "3 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Distributeurs sacs déjections canines",
+    "description": "10 lieux",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "10 lieux",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Espace France Services locaux",
+    "description": "Square Alfred Poncet, 28 000€",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 28000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Square Alfred Poncet, 28 000€",
+    "chiffres": [
+      {
+        "valeur": "28 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Dispositifs énergétiques LED thermostatiques",
+    "description": "28 000€",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 28000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "28 000€",
+    "chiffres": [
+      {
+        "valeur": "28 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Réfection appartements ville",
+    "description": "",
+    "annee": "2021",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Projecteurs cinéma Jeu de Paume",
+    "description": "145 906€ TTC, subv 7 500€ LCA",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 145906,
+    "source": "Délib 2024-02-15-28",
+    "importance": 1,
+    "resume": "145 906€ TTC, subv 7 500€ LCA",
+    "chiffres": [
+      {
+        "valeur": "145 906 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-02-15-28",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Réalisé",
+    "titre": "Lionel COIFFARD Vice-Président Métropole",
+    "description": "Valorisation du territoire",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Valorisation du territoire",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Réalisé",
+    "titre": "Convention voirie Métropole",
+    "description": "15 230€ HT/an enveloppe proximité",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 15230,
+    "source": "Délib 2020-12-15-12",
+    "importance": 1,
+    "resume": "15 230€ HT/an enveloppe proximité",
+    "chiffres": [
+      {
+        "valeur": "15 230 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2020-12-15-12",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Réalisé",
+    "titre": "Vœu 5G - cadre protecteur",
+    "description": "Moratoire demandé",
+    "annee": "2021",
+    "annee_fin": "2021",
+    "budget": 0,
+    "source": "Délib 2021-06-29-43",
+    "importance": 1,
+    "resume": "Moratoire demandé",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2021",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2021-06-29-43",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Réalisé",
+    "titre": "Vœu représentativité Métropole",
+    "description": "21 pour, 2 contre, 5 abst",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib 2024-12-17-27",
+    "importance": 1,
+    "resume": "21 pour, 2 contre, 5 abst",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-12-17-27",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Réalisé",
+    "titre": "Transfert compétences eaux souterraines",
+    "description": "Métropole",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib 2024-07-15-25",
+    "importance": 1,
+    "resume": "Métropole",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-07-15-25",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Réalisé",
+    "titre": "Adhésion service accessibilité Métropole",
+    "description": "",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib 2024-12-17-19",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-12-17-19",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Réalisé",
+    "titre": "Plateforme numérique participative",
+    "description": "Service commun métropolitain",
+    "annee": "2023",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2023-11-28-11",
+    "importance": 1,
+    "resume": "Service commun métropolitain",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2023-11-28-11",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Réalisé",
+    "titre": "Entrée capital SPL Isère Aménagement",
+    "description": "",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Délib 2025-06-24",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-06-24",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Réalisé",
+    "titre": "Entrée capital Agence France Locale",
+    "description": "",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Délib 2025-06-24",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-06-24",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Taux imposition maintenus",
+    "description": "Aucune hausse communale depuis 2020",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib annuels",
+    "importance": 1,
+    "resume": "Aucune hausse communale depuis 2020",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib annuels",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Passage nomenclature M57",
+    "description": "",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Renégociation DEXIA",
+    "description": "Fonds soutien prêts structurés jusqu'au 31/12/2028",
+    "annee": "2024",
+    "annee_fin": "2028",
+    "budget": 0,
+    "source": "Délib 2024-02-15-02",
+    "importance": 1,
+    "resume": "Fonds soutien prêts structurés jusqu'au 31/12/2028",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-02-15-02",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Budget primitif 2024 : 15,1 M€",
+    "description": "Fonct 10,2M€ + Invest 4,9M€",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib 2024-03-20-05",
+    "importance": 1,
+    "resume": "Fonct 10,2M€ + Invest 4,9M€",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2024-03-20-05",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Budget primitif 2025 unanimité",
+    "description": "",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Délib 2025-04-08-04",
+    "importance": 1,
+    "resume": "",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-04-08-04",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Charges personnel +1,7% contenu",
+    "description": "Malgré hausse point indice +3,5%",
+    "annee": "2023",
+    "annee_fin": "2023",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Malgré hausse point indice +3,5%",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Prix 3 étoiles Trophées Participation",
+    "description": "Assemblée Nationale, vision futuriste C2D",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Assemblée Nationale, vision futuriste C2D",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Budget bâtiments scolaires 2024",
+    "description": "LED, vannes, menuiseries, sécurisations",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 226000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "LED, vannes, menuiseries, sécurisations",
+    "chiffres": [
+      {
+        "valeur": "226 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Budget qualité espaces publics 2024",
+    "description": "Végétalisation cimetière, bordures, LED, fleurissement",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 215000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Végétalisation cimetière, bordures, LED, fleurissement",
+    "chiffres": [
+      {
+        "valeur": "215 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Budget autres bâtiments 2024",
+    "description": "Assainissement Escale, terrasse Locomotive, toitures",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 156000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Assainissement Escale, terrasse Locomotive, toitures",
+    "chiffres": [
+      {
+        "valeur": "156 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Budget VRD 2024",
+    "description": "Aires jeux, Plan Lumière, sanitaires cimetière",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 182000,
+    "source": "Bilan travaux",
+    "importance": 1,
+    "resume": "Aires jeux, Plan Lumière, sanitaires cimetière",
+    "chiffres": [
+      {
+        "valeur": "182 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Bilan travaux",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "theme": "Personnel",
+    "icon": "👥",
+    "color": "#9e9e9e",
+    "statut": "Décidé",
+    "titre": "Création 30 postes animateurs périscolaires",
+    "description": "8 postes 10h + 4×13h + 6×16h + 4×18h + 4×22h + 4×32h hebdo, année scolaire 2025/2026",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "8 postes 10h + 4×13h + 6×16h + 4×18h + 4×22h + 4×32h hebdo, année scolaire 2025/2026",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "theme": "Personnel",
+    "icon": "👥",
+    "color": "#9e9e9e",
+    "statut": "Décidé",
+    "titre": "Participation groupements CDG38",
+    "description": "Mutuelle santé (effet 31/12/2025) et risques statutaires (effet 31/12/2026)",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Mutuelle santé (effet 31/12/2025) et risques statutaires (effet 31/12/2026)",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "theme": "Personnel",
+    "icon": "👥",
+    "color": "#9e9e9e",
+    "statut": "Décidé",
+    "titre": "Avenant convention CCAS - M. JAMARIN",
+    "description": "Mise à disposition 100% sur budget CCAS (contre 80% précédemment)",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 20/05/2025",
+    "importance": 1,
+    "resume": "Mise à disposition 100% sur budget CCAS (contre 80% précédemment)",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 20/05/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "theme": "Personnel",
+    "icon": "👥",
+    "color": "#9e9e9e",
+    "statut": "Décidé",
+    "titre": "Coût horaire travaux en régie 2025",
+    "description": "Ingénieur 33,38€/h - Technicien 34,01€/h - Adjoint technique 22,34€/h",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Ingénieur 33,38€/h - Technicien 34,01€/h - Adjoint technique 22,34€/h",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Décidé",
+    "titre": "Campagne ravalement façades centre-ancien",
+    "description": "Phase incitative jusqu'à janvier 2028, guide architectural et chromatique",
+    "annee": "2025",
+    "annee_fin": "2028",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Phase incitative jusqu'à janvier 2028, guide architectural et chromatique",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Décidé",
+    "titre": "Avenant n°2 OPAH-RU Réno'Vizille",
+    "description": "Ajout 6 immeubles dégradés (24 logements), extension aides propriétaires bailleurs",
+    "annee": "2025",
+    "annee_fin": "2028",
+    "budget": 2170000,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Ajout 6 immeubles dégradés (24 logements), extension aides propriétaires bailleurs",
+    "chiffres": [
+      {
+        "valeur": "2 170 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Décidé",
+    "titre": "Désimperméabilisation cour Paul Langevin",
+    "description": "Déclaration préalable signée, projet en cours",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-URBA-08",
+    "importance": 1,
+    "resume": "Déclaration préalable signée, projet en cours",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-URBA-08",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Décidé",
+    "titre": "Service commun aménagement - Seyssinet-Pariset",
+    "description": "Adhésion nouvelle commune, 13 agents, coûts au prorata du temps",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Adhésion nouvelle commune, 13 agents, coûts au prorata du temps",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Décidé",
+    "titre": "Tarifs TLPE 2026",
+    "description": "Indexation +1,8% INSEE, enseignes 18,90€/m² (<12m²)",
+    "annee": "2026",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Indexation +1,8% INSEE, enseignes 18,90€/m² (<12m²)",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2026",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Décidé",
+    "titre": "Admissions en non-valeurs",
+    "description": "113 créances prescrites pour 9 941,24€ (eau, fourrière, cantines)",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 9941,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "113 créances prescrites pour 9 941,24€ (eau, fourrière, cantines)",
+    "chiffres": [
+      {
+        "valeur": "9 941 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Décidé",
+    "titre": "Entrée capital SPL ISÈRE Aménagement",
+    "description": "15 actions à 100€, participation 0,13% du capital, représentante C. TROTON",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 1500,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "15 actions à 100€, participation 0,13% du capital, représentante C. TROTON",
+    "chiffres": [
+      {
+        "valeur": "1 500 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Décidé",
+    "titre": "Entrée capital Agence France Locale",
+    "description": "Apport 75 600€ sur 5 ans (15 200€ en 2025 puis 15 100€/an), garanties emprunts",
+    "annee": "2025",
+    "annee_fin": "2029",
+    "budget": 75600,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Apport 75 600€ sur 5 ans (15 200€ en 2025 puis 15 100€/an), garanties emprunts",
+    "chiffres": [
+      {
+        "valeur": "75 600 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "CA 2024 excédentaire",
+    "description": "Résultat +1 497 121,99€, investissement +594 449,87€, fonctionnement +902 672,12€",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 1497122,
+    "source": "CA 2024",
+    "importance": 1,
+    "resume": "Résultat +1 497 121,99€, investissement +594 449,87€, fonctionnement +902 672,12€",
+    "chiffres": [
+      {
+        "valeur": "1 497 122 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CA 2024",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Décidé",
+    "titre": "Budget primitif 2025",
+    "description": "Population 7 461 hab, épargne brute 8,91%, personnel 57,74% fonctionnement",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "BP 2025",
+    "importance": 1,
+    "resume": "Population 7 461 hab, épargne brute 8,91%, personnel 57,74% fonctionnement",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "BP 2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Décidé",
+    "titre": "Convention groupement Citeo déchets",
+    "description": "Collecte hors foyer, soutien 34 560€ pour équipements, projet lauréat 19/12/2024",
+    "annee": "2025",
+    "annee_fin": "2027",
+    "budget": 34560,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Collecte hors foyer, soutien 34 560€ pour équipements, projet lauréat 19/12/2024",
+    "chiffres": [
+      {
+        "valeur": "34 560 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Décidé",
+    "titre": "Nouveau plan éclairage public",
+    "description": "Bilan : -51% consommation 2021-2025, 93% extinction nocturne (1245/1338 points)",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Bilan : -51% consommation 2021-2025, 93% extinction nocturne (1245/1338 points)",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Décidé",
+    "titre": "Convention AAPPMA étang Grand Plan",
+    "description": "Renouvellement 10 ans, répartition entretien AAPPMA/Ville, valorisation biodiversité",
+    "annee": "2025",
+    "annee_fin": "2035",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Renouvellement 10 ans, répartition entretien AAPPMA/Ville, valorisation biodiversité",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Décidé",
+    "titre": "Tarifs activités ULIS 2025/2026",
+    "description": "Quotient familial pour enfants extérieurs scolarisés en ULIS Jean Jaurès",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Quotient familial pour enfants extérieurs scolarisés en ULIS Jean Jaurès",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Coût fonctionnement écoles 2024/2025",
+    "description": "1 641,63€ par élève (base CA 2024)",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 1642,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "1 641,63€ par élève (base CA 2024)",
+    "chiffres": [
+      {
+        "valeur": "1 642 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Décidé",
+    "titre": "Dotation fournitures scolaires 2025/2026",
+    "description": "38,50€/élève + 142€/classe + 79€/classe maternelle (livres)",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "38,50€/élève + 142€/classe + 79€/classe maternelle (livres)",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Décidé",
+    "titre": "Tarifs service animation 2025/2026",
+    "description": "CLSH Corniers : 9,40€ à 17,83€/journée selon quotient familial",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "CLSH Corniers : 9,40€ à 17,83€/journée selon quotient familial",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Décidé",
+    "titre": "Vidéo-protection Z14 parking Tissages",
+    "description": "Affermissement tranche optionnelle, 29 987,89€ HT",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 35985,
+    "source": "Décision 2025-MP-10",
+    "importance": 1,
+    "resume": "Affermissement tranche optionnelle, 29 987,89€ HT",
+    "chiffres": [
+      {
+        "valeur": "35 985 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-MP-10",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Décidé",
+    "titre": "Optimisation taxe foncière JURICIA",
+    "description": "Accord-cadre prestations, montant max 39 990€ HT",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 47998,
+    "source": "Décision 2025-MP-11",
+    "importance": 1,
+    "resume": "Accord-cadre prestations, montant max 39 990€ HT",
+    "chiffres": [
+      {
+        "valeur": "47 998 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-MP-11",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Décidé",
+    "titre": "Logement stade rugby",
+    "description": "Redevance 475€/mois (5€/m² pour 95m²), indexation IRL",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 5700,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Redevance 475€/mois (5€/m² pour 95m²), indexation IRL",
+    "chiffres": [
+      {
+        "valeur": "5 700 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Décidé",
+    "titre": "WC public cimetière",
+    "description": "Nouvelle structure, déclaration préalable",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-URBA-11",
+    "importance": 1,
+    "resume": "Nouvelle structure, déclaration préalable",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-URBA-11",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Décidé",
+    "titre": "Modulaires services techniques",
+    "description": "Installation sur site ST, déclaration préalable",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-URBA-10",
+    "importance": 1,
+    "resume": "Installation sur site ST, déclaration préalable",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-URBA-10",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Décidé",
+    "titre": "Main-courante stade rugby",
+    "description": "Garde-corps, déclaration préalable signée",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-URBA-09",
+    "importance": 1,
+    "resume": "Garde-corps, déclaration préalable signée",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-URBA-09",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Mise à disposition boulodrome Péage",
+    "description": "Club du Connexe",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-SPORT-08",
+    "importance": 1,
+    "resume": "Club du Connexe",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-SPORT-08",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Mise à disposition terrain rugby/gymnase",
+    "description": "Association Danse",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-SPORT-09",
+    "importance": 1,
+    "resume": "Association Danse",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-SPORT-09",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Mise à disposition stades CSE Avery Dennison",
+    "description": "Stade municipal rugby et entraînement parc",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-SPORT-10",
+    "importance": 1,
+    "resume": "Stade municipal rugby et entraînement parc",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-SPORT-10",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Programmé",
+    "titre": "Spectacle 'Le Voisin' - Benoît Turjman",
+    "description": "Jeu de Paume, 19/09/2025 20h30, Cie Transports Publics",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 1429,
+    "source": "Contrat 17/04/2025",
+    "importance": 1,
+    "resume": "Jeu de Paume, 19/09/2025 20h30, Cie Transports Publics",
+    "chiffres": [
+      {
+        "valeur": "1 429 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Contrat 17/04/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Programmé",
+    "titre": "Spectacle 'Les Swingirls - Révolutions'",
+    "description": "Jeu de Paume, 14/11/2025 20h30, Furieuses Productions",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 1794,
+    "source": "Contrat 24/04/2025",
+    "importance": 1,
+    "resume": "Jeu de Paume, 14/11/2025 20h30, Furieuses Productions",
+    "chiffres": [
+      {
+        "valeur": "1 794 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Contrat 24/04/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Programmé",
+    "titre": "Spectacle 'Les Sœurs K - Ni Fleurs Ni Couronnes'",
+    "description": "Jeu de Paume, 16/01/2026 20h30, Cie 3 Pièces-cuisine",
+    "annee": "2026",
+    "annee_fin": "",
+    "budget": 2300,
+    "source": "Contrat 24/04/2025",
+    "importance": 1,
+    "resume": "Jeu de Paume, 16/01/2026 20h30, Cie 3 Pièces-cuisine",
+    "chiffres": [
+      {
+        "valeur": "2 300 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2026",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Contrat 24/04/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Programmé",
+    "titre": "Spectacle 'Le Dékoncert' - Solfasirc",
+    "description": "Jeu de Paume, 27/02/2026 20h30, clown musical",
+    "annee": "2026",
+    "annee_fin": "",
+    "budget": 2356,
+    "source": "Contrat 29/04/2025",
+    "importance": 1,
+    "resume": "Jeu de Paume, 27/02/2026 20h30, clown musical",
+    "chiffres": [
+      {
+        "valeur": "2 356 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2026",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Contrat 29/04/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Programmé",
+    "titre": "Spectacle 'Alice Guy' - Black Dogg",
+    "description": "Jeu de Paume, 27/03/2026 14h+20h30, ciné-théâtre coproduction",
+    "annee": "2026",
+    "annee_fin": "",
+    "budget": 8400,
+    "source": "Contrat 22/04/2025",
+    "importance": 1,
+    "resume": "Jeu de Paume, 27/03/2026 14h+20h30, ciné-théâtre coproduction",
+    "chiffres": [
+      {
+        "valeur": "8 400 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2026",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Contrat 22/04/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Mise à disposition Jeu de Paume associations",
+    "description": "Répétitions et spectacles de fin d'année",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-CULT-03",
+    "importance": 1,
+    "resume": "Répétitions et spectacles de fin d'année",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-CULT-03",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Mise à disposition Médiane santé Prévention",
+    "description": "Prévention santé",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-CULT-04",
+    "importance": 1,
+    "resume": "Prévention santé",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-CULT-04",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "theme": "Intercommunalité",
+    "icon": "🤝",
+    "color": "#607d8b",
+    "statut": "Décidé",
+    "titre": "Répartition sièges Métropole 2026",
+    "description": "Vizille : 1 siège sur 119 (population 7 316), ratio 102%",
+    "annee": "2026",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Vizille : 1 siège sur 119 (population 7 316), ratio 102%",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2026",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Décidé",
+    "titre": "Tarifs occupation domaine public 2025",
+    "description": "Marchés, terrasses, travaux, déménagements - grille actualisée",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "CM 24/06/2025",
+    "importance": 1,
+    "resume": "Marchés, terrasses, travaux, déménagements - grille actualisée",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "CM 24/06/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "En cours",
+    "titre": "Vœu soutien plateforme chimique Sud-Grenoblois (2ème)",
+    "description": "2ème vœu unanime, soutien SCIC Vencorex, 54/450 emplois",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2025-02-18-01",
+    "importance": 1,
+    "resume": "2ème vœu unanime, soutien SCIC Vencorex, 54/450 emplois",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-02-18-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Avance trésorerie CCAS 100 000€",
+    "description": "Convention remboursable au 01/07/2026, sans intérêts",
+    "annee": "2025",
+    "annee_fin": "2026",
+    "budget": 100000,
+    "source": "Délib 2025-02-18-03",
+    "importance": 1,
+    "resume": "Convention remboursable au 01/07/2026, sans intérêts",
+    "chiffres": [
+      {
+        "valeur": "100 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-02-18-03",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Zones d'Accélération EnR (ZAEnR) validées",
+    "description": "Hydroélectricité, photovoltaïque, réseau chaleur urbain - tout territoire",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2025-02-18-05",
+    "importance": 1,
+    "resume": "Hydroélectricité, photovoltaïque, réseau chaleur urbain - tout territoire",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-02-18-05",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#3498db",
+    "statut": "Réalisé",
+    "titre": "Convention ski Alpe d'Huez accueils loisirs",
+    "description": "Forfaits 18-20,50€, SATA GROUP",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2025-02-18-06",
+    "importance": 1,
+    "resume": "Forfaits 18-20,50€, SATA GROUP",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-02-18-06",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Festival P'tits Mots P'tits Mômes 2025",
+    "description": "22-29 mars, 6 spectacles, ~15 représentations, tarifs 5€/2€",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 12900,
+    "source": "Délib 2025-02-18-07/08",
+    "importance": 1,
+    "resume": "22-29 mars, 6 spectacles, ~15 représentations, tarifs 5€/2€",
+    "chiffres": [
+      {
+        "valeur": "12 900 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-02-18-07/08",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Convention Fondation 30 Millions d'Amis 2025",
+    "description": "550€ (10 chats, 50% commune), stérilisation/identification",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 550,
+    "source": "Délib 2025-02-18-09",
+    "importance": 1,
+    "resume": "550€ (10 chats, 50% commune), stérilisation/identification",
+    "chiffres": [
+      {
+        "valeur": "550 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-02-18-09",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Don Mayotte cyclone Chido",
+    "description": "1 000€ fonds concours État",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 1000,
+    "source": "Délib 2025-02-18-10",
+    "importance": 1,
+    "resume": "1 000€ fonds concours État",
+    "chiffres": [
+      {
+        "valeur": "1 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-02-18-10",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "Réalisé",
+    "titre": "Véhicule technique viabilité hivernale",
+    "description": "102 000€ TTC, marché 2025-MP-02",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 102000,
+    "source": "Décision 2025-MP-02",
+    "importance": 1,
+    "resume": "102 000€ TTC, marché 2025-MP-02",
+    "chiffres": [
+      {
+        "valeur": "102 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-MP-02",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "En cours",
+    "titre": "Étude colorimétrie ravalements OPAH-RU",
+    "description": "47 520€ TTC, guide architectural centre-ville",
+    "annee": "2024",
+    "annee_fin": "",
+    "budget": 47520,
+    "source": "Décision 2024-MP-19",
+    "importance": 1,
+    "resume": "47 520€ TTC, guide architectural centre-ville",
+    "chiffres": [
+      {
+        "valeur": "47 520 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2024-MP-19",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Adhésion IRMa (Risques Majeurs) renouvelée",
+    "description": "250€/an, Institut des Risques Majeurs",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 250,
+    "source": "Décision 2025-AG-01",
+    "importance": 1,
+    "resume": "250€/an, Institut des Risques Majeurs",
+    "chiffres": [
+      {
+        "valeur": "250 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-AG-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "theme": "Santé",
+    "icon": "🏥",
+    "color": "#e91e63",
+    "statut": "Réalisé",
+    "titre": "Convention CMP adulte - Gymnase école Château",
+    "description": "Activité physique patients psychiatriques, animée par soignants",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Décision 2025-SPORT-01",
+    "importance": 1,
+    "resume": "Activité physique patients psychiatriques, animée par soignants",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-SPORT-01",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Compte administratif 2024 approuvé",
+    "description": "Fonctionnement +902 672€, Investissement -423 175€, Cumulé +479 497€",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 479497,
+    "source": "Délib 2025-04-08-02/03",
+    "importance": 1,
+    "resume": "Fonctionnement +902 672€, Investissement -423 175€, Cumulé +479 497€",
+    "chiffres": [
+      {
+        "valeur": "479 497 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-04-08-02/03",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Budget primitif 2025 voté : 15,6M€",
+    "description": "Fonctionnement 10,2M€ + Investissement 5,4M€",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 15625426,
+    "source": "Délib 2025-04-08-04",
+    "importance": 1,
+    "resume": "Fonctionnement 10,2M€ + Investissement 5,4M€",
+    "chiffres": [
+      {
+        "valeur": "15 625 426 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-04-08-04",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#e67e22",
+    "statut": "En cours",
+    "titre": "GTC - Gestion Technique Centralisée 15 bâtiments",
+    "description": "64 957€ HT, subvention métro 19 487€ (30%), optimisation énergie",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 64957,
+    "source": "Délib 2025-04-08-07",
+    "importance": 1,
+    "resume": "64 957€ HT, subvention métro 19 487€ (30%), optimisation énergie",
+    "chiffres": [
+      {
+        "valeur": "64 957 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-04-08-07",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Avis favorable ZFE VUL-PL Crit'Air 2 report 2028",
+    "description": "Report interdiction VUL/PL diesel de juillet 2025 à juillet 2028",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib 2025-04-08-08",
+    "importance": 1,
+    "resume": "Report interdiction VUL/PL diesel de juillet 2025 à juillet 2028",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-04-08-08",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Convention Spacejunk - Street Art Fest 2025",
+    "description": "6 000€, 1 fresque espace public, 27 mai - 29 juin 2025",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 6000,
+    "source": "Délib 2025-04-08-09",
+    "importance": 1,
+    "resume": "6 000€, 1 fresque espace public, 27 mai - 29 juin 2025",
+    "chiffres": [
+      {
+        "valeur": "6 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-04-08-09",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "theme": "Personnel",
+    "icon": "👥",
+    "color": "#9e9e9e",
+    "statut": "En cours",
+    "titre": "Création poste policier municipal n°3",
+    "description": "Recrutement septembre 2025, budget personnel +7,5%",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Note BP 2025",
+    "importance": 1,
+    "resume": "Recrutement septembre 2025, budget personnel +7,5%",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Note BP 2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "theme": "Personnel",
+    "icon": "👥",
+    "color": "#9e9e9e",
+    "statut": "En cours",
+    "titre": "Création demi-poste comptabilité",
+    "description": "0,5 ETP à partir septembre 2025",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Note BP 2025",
+    "importance": 1,
+    "resume": "0,5 ETP à partir septembre 2025",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Note BP 2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "En cours",
+    "titre": "Diagnostic sols pollués - Marché",
+    "description": "18 945€ HT (max 30 000€ à bons de commande)",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 18945,
+    "source": "Décision 2025-MP-08",
+    "importance": 1,
+    "resume": "18 945€ HT (max 30 000€ à bons de commande)",
+    "chiffres": [
+      {
+        "valeur": "18 945 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Décision 2025-MP-08",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "PMPM 2025 - Lou(hou)p Cie NAJICO",
+    "description": "24/03/2025, 1 195,59€ TTC, 2 repr scolaires, La Locomotive",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 1195,
+    "source": "Contrat cession",
+    "importance": 1,
+    "resume": "24/03/2025, 1 195,59€ TTC, 2 repr scolaires, La Locomotive",
+    "chiffres": [
+      {
+        "valeur": "1 195 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Contrat cession",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "PMPM 2025 - Ça Cartonne Green Piste Records",
+    "description": "25/03/2025, 2 637,50€ TTC, 2 repr (scolaires+public)",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 2637,
+    "source": "Contrat cession",
+    "importance": 1,
+    "resume": "25/03/2025, 2 637,50€ TTC, 2 repr (scolaires+public)",
+    "chiffres": [
+      {
+        "valeur": "2 637 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Contrat cession",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "PMPM 2025 - Jeux d'Enfants Cie Commun Accord",
+    "description": "26/03/2025, 2 004,50€ TTC, Jeu de Paume",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 2004,
+    "source": "Contrat cession",
+    "importance": 1,
+    "resume": "26/03/2025, 2 004,50€ TTC, Jeu de Paume",
+    "chiffres": [
+      {
+        "valeur": "2 004 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Contrat cession",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "PMPM 2025 - Direction artistique Hélène Jusselin",
+    "description": "2 840€ TTC (2 240€ + 600€ frais), La Petite Presse",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 2840,
+    "source": "Convention direction artistique",
+    "importance": 1,
+    "resume": "2 840€ TTC (2 240€ + 600€ frais), La Petite Presse",
+    "chiffres": [
+      {
+        "valeur": "2 840 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Convention direction artistique",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "10 Jours Culture 2025 - Spectacle Za'tourne",
+    "description": "18/04/2025, 2 500€ TTC total (750€ Vizille 30%, 1750€ Métro 70%)",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 750,
+    "source": "Contrat tripartite",
+    "importance": 1,
+    "resume": "18/04/2025, 2 500€ TTC total (750€ Vizille 30%, 1750€ Métro 70%)",
+    "chiffres": [
+      {
+        "valeur": "750 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Contrat tripartite",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "En cours",
+    "titre": "Réseau de chaleur urbain au bois - Projet majeur",
+    "description": "7,9M€ HT, 8,7 GWh/an, 85% EnR, -75% CO2, mise en service 2028",
+    "annee": "2025",
+    "annee_fin": "2028",
+    "budget": 7900000,
+    "source": "Délib 2025-09-30-15",
+    "importance": 1,
+    "resume": "7,9M€ HT, 8,7 GWh/an, 85% EnR, -75% CO2, mise en service 2028",
+    "chiffres": [
+      {
+        "valeur": "7 900 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-09-30-15",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "theme": "Urbanisme",
+    "icon": "🏘️",
+    "color": "#34495e",
+    "statut": "Réalisé",
+    "titre": "Cession parcelle Chantefeuille pour chaufferie",
+    "description": "21 650€, parcelle AP0103 (~700m²) à Métropole",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 21650,
+    "source": "Délib 2025-09-30-15",
+    "importance": 1,
+    "resume": "21 650€, parcelle AP0103 (~700m²) à Métropole",
+    "chiffres": [
+      {
+        "valeur": "21 650 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib 2025-09-30-15",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "En cours",
+    "titre": "Lettre d'intention SCIC Vencorex",
+    "description": "Participation 2 000€ prévue, soutien reprise salariés plateforme",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 2000,
+    "source": "Lettre intention 08/04/2025",
+    "importance": 1,
+    "resume": "Participation 2 000€ prévue, soutien reprise salariés plateforme",
+    "chiffres": [
+      {
+        "valeur": "2 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Lettre intention 08/04/2025",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Convention PIMMS Médiation Isère - EFS",
+    "description": "10 000€/an, Espace France Services, 205 chemin Mattons",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 10000,
+    "source": "Convention CPOM",
+    "importance": 1,
+    "resume": "10 000€/an, Espace France Services, 205 chemin Mattons",
+    "chiffres": [
+      {
+        "valeur": "10 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Convention CPOM",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Convention Mission Locale Alpes Sud Isère",
+    "description": "Partenariat insertion jeunes 16-25 ans, PMSMP, stages, 4 secteurs",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Convention partenariat",
+    "importance": 1,
+    "resume": "Partenariat insertion jeunes 16-25 ans, PMSMP, stages, 4 secteurs",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Convention partenariat",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#2ecc71",
+    "statut": "Réalisé",
+    "titre": "Homologation stade municipal Fédérale 3",
+    "description": "Homologation permettant à l'USV Rugby d'évoluer en Fédérale 3",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Homologation permettant à l'USV Rugby d'évoluer en Fédérale 3",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "En cours",
+    "titre": "Désimperméabilisation école Jean Jaurès",
+    "description": "Désimperméabilisation de la cour de l'école Jean Jaurès",
+    "annee": "2024",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Désimperméabilisation de la cour de l'école Jean Jaurès",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#8e44ad",
+    "statut": "Réalisé",
+    "titre": "Rachat chapelle du Péage de Vizille",
+    "description": "Acquisition patrimoniale de la chapelle du Péage",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Acquisition patrimoniale de la chapelle du Péage",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#2c3e50",
+    "statut": "Réalisé",
+    "titre": "Recrutement 2ème policier municipal",
+    "description": "2ème policier municipal recruté en mai 2025",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "2ème policier municipal recruté en mai 2025",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Arrêtés circulation digue Péage",
+    "description": "Arrêtés permanents pour permettre aux riverains de circuler sur la digue",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Arrêtés permanents pour permettre aux riverains de circuler sur la digue",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Arrêtés vacances hiver chemin Paute/Prieuré",
+    "description": "Arrêtés pendant vacances scolaires décembre-janvier",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Arrêtés pendant vacances scolaires décembre-janvier",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Arrêté pont St-Pierre-de-Mésage",
+    "description": "Par solidarité avec les élus de St-Pierre-de-Mésage",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Par solidarité avec les élus de St-Pierre-de-Mésage",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Courriers Préfecture feu PPRT Jarrie",
+    "description": "2 courriers adressés à la Préfecture sur le fonctionnement du feu",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "2 courriers adressés à la Préfecture sur le fonctionnement du feu",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "En cours",
+    "titre": "Tunnel cyclable sous RD 1091",
+    "description": "Raccordement berge Romanche - chemin Terrasse - centre-ville - lycée",
+    "annee": "2025",
+    "annee_fin": "2027",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Raccordement berge Romanche - chemin Terrasse - centre-ville - lycée",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "En cours",
+    "titre": "Piste cyclable Péage-Lycée",
+    "description": "Piste cyclable pour relier le Péage de Vizille au Lycée",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Piste cyclable pour relier le Péage de Vizille au Lycée",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Sécurisation piétons école Paul Langevin",
+    "description": "Sécurisation du cheminement piétons vers l'école",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Sécurisation du cheminement piétons vers l'école",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Ralentisseurs avenue de Vénaria",
+    "description": "Installation de ralentisseurs avenue de Vénaria",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Installation de ralentisseurs avenue de Vénaria",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "theme": "Mobilités",
+    "icon": "🚴",
+    "color": "#1abc9c",
+    "statut": "En cours",
+    "titre": "Réflexion ralentisseurs Elsa Triolet/Écureuils",
+    "description": "Réflexions en cours rue Elsa Triolet et rue des Écureuils",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Réflexions en cours rue Elsa Triolet et rue des Écureuils",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
+    "statut": "Réalisé",
+    "titre": "Centrale photovoltaïque Lidl",
+    "description": "Installation sur toiture Lidl, amortissement 9 ans",
+    "annee": "2023",
+    "annee_fin": "",
+    "budget": 168000,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Installation sur toiture Lidl, amortissement 9 ans",
+    "chiffres": [
+      {
+        "valeur": "168 000 €",
+        "label": "Budget"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Groupe Update MPA 2ème album",
+    "description": "Producteur Adrian Bushby, 2ème album en préparation",
+    "annee": "2025",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Producteur Adrian Bushby, 2ème album en préparation",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2025",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Chorale Atchapoly",
+    "description": "Ensemble choral, répertoire caucasien et balkanique",
+    "annee": "2020",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Magazine",
+    "importance": 1,
+    "resume": "Ensemble choral, répertoire caucasien et balkanique",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2020",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Magazine",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#f39c12",
+    "statut": "Réalisé",
+    "titre": "Plan sobriété énergétique communal",
+    "description": "Baisse température -2°C, isolation, LED, capteurs",
+    "annee": "2022",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Baisse température -2°C, isolation, LED, capteurs",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "theme": "Finance",
+    "icon": "💰",
+    "color": "#795548",
+    "statut": "Réalisé",
+    "titre": "Renégociation emprunt DEXIA",
+    "description": "Renégociation des conditions d'emprunt",
+    "annee": "2023",
+    "annee_fin": "",
+    "budget": 0,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Renégociation des conditions d'emprunt",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023",
+        "evenement": "Réalisation"
+      }
+    ],
+    "details": "",
+    "sources": [
+      {
+        "type": "doc",
+        "ref": "Délib",
+        "desc": ""
+      }
+    ]
+  }
+]
