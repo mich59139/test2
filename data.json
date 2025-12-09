@@ -15607,5 +15607,51 @@
         "url": "https://www.ville-vizille.fr/12640-seniors.htm"
       }
     ]
+  },
+  {
+    "id": 330,
+    "theme": "Mobilités",
+    "icon": "🚌",
+    "color": "#1abc9c",
+    "statut": "Réalisé",
+    "titre": "Gare routière et terminus bus ligne 23 au Péage",
+    "description": "Création de la gare routière et aménagement du terminus de la ligne 23 au Péage de Vizille, en partenariat avec le SMMAG et la Métropole. 78 courses quotidiennes.",
+    "annee": "2024",
+    "annee_fin": "2025",
+    "budget": 0,
+    "source": "VAV+Délib",
+    "importance": 2,
+    "resume": "En collaboration avec le SMMAG et la Métropole, la commune a cofinancé la création de la gare routière du Péage de Vizille, améliorant significativement l'offre de transports en commun avec 78 courses quotidiennes sur la ligne 23. Les aménagements comprennent des abris voyageurs, des quais accessibles et une végétalisation des espaces.",
+    "chiffres": [
+      {
+        "valeur": "78",
+        "label": "courses/jour"
+      },
+      {
+        "valeur": "3",
+        "label": "partenaires"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2024",
+        "evenement": "Financement voté par la commune en partenariat avec le SMMAG"
+      },
+      {
+        "date": "Début 2025",
+        "evenement": "Achèvement de la gare routière"
+      },
+      {
+        "date": "Printemps 2025",
+        "evenement": "Mise en service du terminus ligne 23 avec abris, quais et végétalisation"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Magazine",
+        "label": "Vivre à Vizille",
+        "url": "https://www.ville-vizille.fr/12908-vivre-a-vizille.htm"
+      }
+    ]
   }
 ]
