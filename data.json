@@ -1253,6 +1253,10 @@
       {
         "date": "2023",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2023-11-28",
+        "evenement": "Convention CITEO signée: 23 897,60€/an (3,2€/hab) - unanimité"
       }
     ],
     "details": "",
@@ -1318,6 +1322,10 @@
       {
         "date": "2020",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2023-12-01",
+        "evenement": "Poste adjoint technique espaces verts 35h (avis CST 13/11/2023)"
       }
     ],
     "details": "Secteurs concernés: chemin du cimetière, stade d'entraînement rugby, centre de loisirs des Corniers, pré de l'école Joliot Curie, place du Péage-de-Vizille, abords gymnase Guy Mocquet. Objectifs: favoriser biodiversité, limiter consommation ressources naturelles, ambiances végétales variées, réduire pollutions, sensibiliser à l'écocitoyenneté.",
@@ -1382,6 +1390,10 @@
       {
         "date": "2023",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2023-11-28",
+        "evenement": "Instauration forfait mobilités durables: 100-300€/an (unanimité)"
       },
       {
         "date": "Déc 2023",
@@ -2427,7 +2439,7 @@
     "color": "#9b59b6",
     "statut": "Réalisé",
     "titre": "10 jours de la culture 2025",
-    "description": "",
+    "description": "10 jours de la culture 2025",
     "annee": "2025",
     "annee_fin": "2025",
     "budget": 0,
@@ -2847,6 +2859,10 @@
       {
         "date": "2023",
         "evenement": "Études complémentaires structure et sols église"
+      },
+      {
+        "date": "2023-11-28",
+        "evenement": "DM n°1: crédits consolidation urgence église Notre-Dame"
       },
       {
         "date": "2024",
@@ -4386,7 +4402,7 @@
     "color": "#2ecc71",
     "statut": "Réalisé",
     "titre": "Label Terre de Jeux JO 2024",
-    "description": "",
+    "description": "Label Terre de Jeux JO 2024",
     "annee": "2022",
     "annee_fin": "2024",
     "budget": 0,
@@ -4860,7 +4876,7 @@
     "color": "#f39c12",
     "statut": "Réalisé",
     "titre": "Librairie La Page d'accueil",
-    "description": "",
+    "description": "Librairie La Page d'accueil",
     "annee": "2023",
     "annee_fin": "2023",
     "budget": 0,
@@ -5216,7 +5232,7 @@
     "color": "#1abc9c",
     "statut": "Réalisé",
     "titre": "Parking Relais gare soieries",
-    "description": "",
+    "description": "Parking Relais gare soieries",
     "annee": "2024",
     "annee_fin": "2024",
     "budget": 0,
@@ -6034,7 +6050,7 @@
     "color": "#e67e22",
     "statut": "Réalisé",
     "titre": "Réfection appartements ville",
-    "description": "",
+    "description": "Réfection appartements ville",
     "annee": "2021",
     "annee_fin": "",
     "budget": 0,
@@ -6262,7 +6278,7 @@
     "color": "#607d8b",
     "statut": "Réalisé",
     "titre": "Adhésion service accessibilité Métropole",
-    "description": "",
+    "description": "Adhésion service accessibilité Métropole",
     "annee": "2024",
     "annee_fin": "2024",
     "budget": 0,
@@ -6322,7 +6338,7 @@
     "color": "#607d8b",
     "statut": "Réalisé",
     "titre": "Entrée capital SPL Isère Aménagement",
-    "description": "",
+    "description": "Entrée capital SPL Isère Aménagement",
     "annee": "2025",
     "annee_fin": "2025",
     "budget": 0,
@@ -6352,7 +6368,7 @@
     "color": "#607d8b",
     "statut": "Réalisé",
     "titre": "Entrée capital Agence France Locale",
-    "description": "",
+    "description": "Entrée capital Agence France Locale",
     "annee": "2025",
     "annee_fin": "2025",
     "budget": 0,
@@ -6412,7 +6428,7 @@
     "color": "#795548",
     "statut": "Réalisé",
     "titre": "Passage nomenclature M57",
-    "description": "",
+    "description": "Passage nomenclature M57",
     "annee": "2024",
     "annee_fin": "2024",
     "budget": 0,
@@ -6502,7 +6518,7 @@
     "color": "#795548",
     "statut": "Réalisé",
     "titre": "Budget primitif 2025 unanimité",
-    "description": "",
+    "description": "Budget primitif 2025 unanimité",
     "annee": "2025",
     "annee_fin": "2025",
     "budget": 0,
@@ -8106,6 +8122,10 @@
     ],
     "chronologie": [
       {
+        "date": "2023-11-28",
+        "evenement": "Renouvellement adhésion IRMa: 250€"
+      },
+      {
         "date": "2025",
         "evenement": "Réalisation"
       }
@@ -9241,10 +9261,29 @@
     ]
   },
   {
+    "id": 272,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#795548",
+    "statut": "En cours",
     "titre": "Travaux urgence Prieuré Notre-Dame (MH)",
-    "domaine": "Patrimoine",
+    "description": "Travaux d'urgence sur le monument historique du Prieuré Notre-Dame",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 3,
-    "resume": "Travaux de sauvegarde d'urgence de l'église prieurale Notre-Dame, classée Monument Historique. Projet retardé par démission de deux architectes.",
+    "resume": "Travaux d'urgence sur le monument historique du Prieuré Notre-Dame",
+    "chiffres": [
+      {
+        "valeur": "353 892 €",
+        "label": "Coût travaux HT"
+      },
+      {
+        "valeur": "424 670 €",
+        "label": "Coût TTC"
+      }
+    ],
     "chronologie": [
       {
         "date": "12/12/2022",
@@ -9262,41 +9301,22 @@
         "date": "2023",
         "evenement": "Retard - démission 2 architectes successifs"
       }
-    ],
-    "chiffres": [
-      {
-        "valeur": "353 892 €",
-        "label": "Coût travaux HT"
-      },
-      {
-        "valeur": "424 670 €",
-        "label": "Coût TTC"
-      }
-    ],
-    "details": "Église classée Monument Historique. Financement: DRAC, Région AURA, Département Isère.",
-    "sources": [
-      {
-        "type": "cm",
-        "ref": "CM 12/12/2022, 13/12/2023",
-        "desc": "Délibérations renouvellement subventions"
-      }
     ]
   },
   {
+    "id": 273,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#00bcd4",
+    "statut": "Réalisé",
     "titre": "Semi-marathon Grenoble-Vizille (partenariat)",
-    "domaine": "Sports",
+    "description": "Partenariat pour le semi-marathon Grenoble-Vizille",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 2,
-    "resume": "Partenariat avec l'Entente Athlétique de Grenoble pour le semi-marathon annuel.",
-    "chronologie": [
-      {
-        "date": "03/04/2022",
-        "evenement": "9ème édition"
-      },
-      {
-        "date": "12/12/2022",
-        "evenement": "CM: Subvention 4000€ EAG (unanimité)"
-      }
-    ],
+    "resume": "Partenariat pour le semi-marathon Grenoble-Vizille",
     "chiffres": [
       {
         "valeur": "4 000 €",
@@ -9307,50 +9327,53 @@
         "label": "Éditions"
       }
     ],
-    "sources": [
+    "chronologie": [
       {
-        "type": "cm",
-        "ref": "CM 12/12/2022",
-        "desc": "Délibération 2022-12-12-19"
+        "date": "03/04/2022",
+        "evenement": "9ème édition"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Subvention 4000€ EAG (unanimité)"
       }
-    ],
-    "details": "Le semi-marathon Grenoble-Vizille (9ème édition en 2022) est organisé par l'Entente Athlétique Grenoble avec le soutien de la commune (4 000€ de subvention). Cette course populaire relie les deux villes en longeant la vallée de la Romanche, offrant un parcours spectaculaire aux coureurs."
+    ]
   },
   {
+    "id": 274,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
     "titre": "Vœu Gaza - cessez-le-feu et paix durable",
-    "domaine": "Vie municipale",
+    "description": "Vœu adopté pour un cessez-le-feu et une paix durable à Gaza (25/0/0 + 4 NPPV)",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 2,
-    "resume": "Vœu du Conseil Municipal appelant au cessez-le-feu dans la bande de Gaza et à la construction d'une paix juste et durable.",
+    "resume": "Vœu adopté pour un cessez-le-feu et une paix durable à Gaza (25/0/0 + 4 NPPV)",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "20/03/2024",
         "evenement": "CM: Adoption vœu (25 pour, 4 NPPV)"
       }
-    ],
-    "details": "Suite à intervention du Collectif de Citoyens du Pays Vizillois. Demande cessez-le-feu immédiat, aide humanitaire, libération prisonniers/otages. Engagement jumelage/entraide avec commune locale.",
-    "sources": [
-      {
-        "type": "cm",
-        "ref": "CM 20/03/2024",
-        "desc": "Délibération 2024-03-20-01"
-      }
     ]
   },
   {
+    "id": 275,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "En cours",
     "titre": "Saison culturelle 2024-2025 (13 spectacles)",
-    "domaine": "Culture",
+    "description": "Programmation de 13 spectacles pour la saison culturelle 2024-2025",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 2,
-    "resume": "Programmation de 13 spectacles variés au Jeu de Paume pour la saison 2024-2025.",
-    "chronologie": [
-      {
-        "date": "20/03/2024",
-        "evenement": "CM: Contrats cession saison culturelle"
-      },
-      {
-        "date": "2021-06-29",
-        "evenement": "Programmation saison culturelle 2021-2022"
-      }
-    ],
+    "resume": "Programmation de 13 spectacles pour la saison culturelle 2024-2025",
     "chiffres": [
       {
         "valeur": "13",
@@ -9365,26 +9388,31 @@
         "label": "Carte abonné famille"
       }
     ],
-    "details": "Spectacles sept 2024 à avril 2025: Goldman, Les Désaxés, La Ligne Rose, Prohibition, Algorithme, etc. Gratuité abonnement si QF CAF < 1200.",
-    "sources": [
+    "chronologie": [
       {
-        "type": "cm",
-        "ref": "CM 20/03/2024",
-        "desc": "Délibération 2024-03-20-23"
+        "date": "20/03/2024",
+        "evenement": "CM: Contrats cession saison culturelle"
+      },
+      {
+        "date": "2021-06-29",
+        "evenement": "Programmation saison culturelle 2021-2022"
       }
     ]
   },
   {
+    "id": 276,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
     "titre": "Estivales 2024 (5 concerts)",
-    "domaine": "Culture",
+    "description": "5 concerts gratuits dans le cadre des Estivales de Vizille 2024",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 2,
-    "resume": "Programmation de 5 concerts les samedis d'été 2024 sur la place du Château.",
-    "chronologie": [
-      {
-        "date": "14/05/2024",
-        "evenement": "CM: Convention Estivales 2024"
-      }
-    ],
+    "resume": "5 concerts gratuits dans le cadre des Estivales de Vizille 2024",
     "chiffres": [
       {
         "valeur": "5",
@@ -9395,97 +9423,138 @@
         "label": "Budget artistique"
       }
     ],
-    "details": "Concerts du 20/07 au 17/08/2024. Programmation par Christian Rey.",
-    "sources": [
+    "chronologie": [
       {
-        "type": "cm",
-        "ref": "CM 14/05/2024",
-        "desc": "Délibération 2024-05-14-24"
+        "date": "14/05/2024",
+        "evenement": "CM: Convention Estivales 2024"
       }
     ]
   },
   {
+    "id": 277,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#f44336",
+    "statut": "Réalisé",
     "titre": "Agent Surveillance Voie Publique (ASVP)",
-    "domaine": "Sécurité",
+    "description": "Recrutement d'un Agent de Surveillance de la Voie Publique",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
-    "resume": "Recrutement d'un agent contractuel de surveillance de la voie publique.",
+    "resume": "Recrutement d'un Agent de Surveillance de la Voie Publique",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "14/05/2024",
         "evenement": "CM: Création emploi ASVP"
       }
-    ],
-    "sources": [
-      {
-        "type": "cm",
-        "ref": "CM 14/05/2024",
-        "desc": "Délibération 2024-05-14-04"
-      }
     ]
   },
   {
-    "titre": "Réhabilitation falaise escalade Château du Roi",
-    "domaine": "Sport et loisirs",
-    "resume": "Travaux de sécurisation et réhabilitation pour remettre en service le site d'escalade",
+    "id": 278,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#00bcd4",
     "statut": "En cours",
+    "titre": "Réhabilitation falaise escalade Château du Roi",
+    "description": "Études pour la réhabilitation de la falaise d'escalade du Château du Roi",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 2,
+    "resume": "Études pour la réhabilitation de la falaise d'escalade du Château du Roi",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2025-05-20",
         "evenement": "Demande de subvention au Département pour travaux de sécurisation"
       }
-    ],
-    "sources": "CM 20/05/2025"
+    ]
   },
   {
-    "titre": "Adhésion Action Nationale Élus Route Napoléon",
-    "domaine": "Tourisme",
-    "resume": "Adhésion à l'ANERN pour promouvoir la Route Napoléon et le tourisme local",
+    "id": 279,
+    "theme": "Intercommunalité",
+    "icon": "🏛️",
+    "color": "#673ab7",
     "statut": "Réalisé",
+    "titre": "Adhésion Action Nationale Élus Route Napoléon",
+    "description": "Adhésion à l'association Action Nationale des Élus de la Route Napoléon",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Adhésion à l'association Action Nationale des Élus de la Route Napoléon",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2025-06-24",
         "evenement": "Adhésion ANERN"
       }
-    ],
-    "sources": "CM 24/06/2025"
+    ]
   },
   {
-    "titre": "Dispositif Devoirs Faits collège des Mattons",
-    "domaine": "Éducation et jeunesse",
-    "resume": "Convention avec le collège pour animer le dispositif d'aide aux devoirs",
+    "id": 280,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#ff9800",
     "statut": "Réalisé",
+    "titre": "Dispositif Devoirs Faits collège des Mattons",
+    "description": "Soutien au dispositif Devoirs Faits au collège des Mattons",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Soutien au dispositif Devoirs Faits au collège des Mattons",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2025-09-30",
         "evenement": "Convention collège Mattons - Devoirs faits (28 pour)"
       }
-    ],
-    "sources": "CM 30/09/2025"
+    ]
   },
   {
-    "titre": "Emploi Urbanisme et Transition environnementale",
-    "domaine": "Vie municipale",
-    "resume": "Création d'un emploi permanent pour renforcer les services Urbanisme et Transition environnementale",
+    "id": 281,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
     "statut": "Réalisé",
+    "titre": "Emploi Urbanisme et Transition environnementale",
+    "description": "Création d'un poste dédié à l'urbanisme et à la transition environnementale",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 2,
+    "resume": "Création d'un poste dédié à l'urbanisme et à la transition environnementale",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2025-11-04",
         "evenement": "Création emploi permanent (27 pour, unanimité)"
       }
-    ],
-    "sources": "CM 04/11/2025",
-    "details": "Création d'un poste dédié à l'urbanisme et à la transition environnementale, témoignant de la volonté municipale de renforcer l'accompagnement des projets d'aménagement durable."
+    ]
   },
   {
-    "titre": "Subventions Secours Populaire",
-    "domaine": "Social et solidarité",
-    "resume": "Soutien financier au Secours Populaire pour ses actions de solidarité",
+    "id": 282,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
     "statut": "Réalisé",
+    "titre": "Subventions Secours Populaire",
+    "description": "Subventions accordées au Secours Populaire pour ses actions solidaires",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Subventions accordées au Secours Populaire pour ses actions solidaires",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2024-11-19",
@@ -9495,57 +9564,89 @@
         "date": "2025-11-04",
         "evenement": "Subvention exceptionnelle Secours Populaire"
       }
-    ],
-    "sources": "CM 19/11/2024, CM 04/11/2025"
+    ]
   },
   {
-    "titre": "Permanences juridiques gratuites",
-    "domaine": "Services publics",
-    "resume": "Convention pour organiser des permanences juridiques gratuites pour les habitants",
+    "id": 283,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
     "statut": "Réalisé",
+    "titre": "Permanences juridiques gratuites",
+    "description": "Organisation de permanences juridiques gratuites pour les habitants",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Organisation de permanences juridiques gratuites pour les habitants",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2024-12-17",
         "evenement": "Convention permanences juridiques"
       }
-    ],
-    "sources": "CM 17/12/2024"
+    ]
   },
   {
-    "titre": "Fête de la Musique",
-    "domaine": "Culture et patrimoine",
-    "resume": "Organisation de la Fête de la Musique chaque 21 juin",
+    "id": 284,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
     "statut": "Réalisé",
+    "titre": "Fête de la Musique",
+    "description": "Organisation de la Fête de la Musique à Vizille",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Organisation de la Fête de la Musique à Vizille",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2025-03-12",
         "evenement": "Contrat cession Fête de la Musique 2025"
       }
-    ],
-    "sources": "CM 12/03/2025"
+    ]
   },
   {
-    "titre": "Subvention MFR de Vif",
-    "domaine": "Éducation et jeunesse",
-    "resume": "Soutien à la Maison Familiale Rurale de Vif pour les élèves vizillois",
+    "id": 285,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#ff9800",
     "statut": "Réalisé",
+    "titre": "Subvention MFR de Vif",
+    "description": "Subvention à la Maison Familiale Rurale de Vif",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Subvention à la Maison Familiale Rurale de Vif",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2022-01-31",
         "evenement": "Subvention 750€ pour 5 élèves vizillois (26 pour)"
       }
-    ],
-    "sources": "CM 31/01/2022"
+    ]
   },
   {
-    "titre": "Actionnariat SPL ALEC",
-    "domaine": "Environnement",
-    "resume": "Participation au capital de l'Agence Locale de l'Énergie et du Climat",
+    "id": 286,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
     "statut": "Réalisé",
+    "titre": "Actionnariat SPL ALEC",
+    "description": "Prise de participation au capital de la SPL ALEC (Agence Locale Énergie Climat)",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Prise de participation au capital de la SPL ALEC (Agence Locale Énergie Climat)",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020",
@@ -9559,58 +9660,89 @@
         "date": "2022-01-31",
         "evenement": "Rapport représentant Lionel Coiffard - exercice 2020"
       }
-    ],
-    "sources": "CM 31/01/2022",
-    "details": "La SPL ALEC met en œuvre les politiques climatiques et de transition énergétique. Chiffre d'affaires 2020 : 987 877€. Bénéfice : 96 105€. 28 salariés."
+    ]
   },
   {
-    "titre": "Pacte de gouvernance Métropole",
-    "domaine": "Vie municipale",
-    "resume": "Avis favorable au Pacte de gouvernance et de citoyenneté métropolitain",
+    "id": 287,
+    "theme": "Intercommunalité",
+    "icon": "🏛️",
+    "color": "#673ab7",
     "statut": "Réalisé",
+    "titre": "Pacte de gouvernance Métropole",
+    "description": "Adoption du pacte de gouvernance avec Grenoble-Alpes Métropole",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Adoption du pacte de gouvernance avec Grenoble-Alpes Métropole",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2022-01-31",
         "evenement": "Avis favorable Pacte gouvernance et citoyenneté (26 pour)"
       }
-    ],
-    "sources": "CM 31/01/2022"
+    ]
   },
   {
-    "titre": "Gouvernance SAIEM Logement Pays Vizillois",
-    "domaine": "Logement",
-    "resume": "Représentation de la commune au sein de la SAIEM LPV",
+    "id": 288,
+    "theme": "Urbanisme",
+    "icon": "🏗️",
+    "color": "#3498db",
     "statut": "Réalisé",
+    "titre": "Gouvernance SAIEM Logement Pays Vizillois",
+    "description": "Participation à la gouvernance de la SAIEM Logement du Pays Vizillois",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Participation à la gouvernance de la SAIEM Logement du Pays Vizillois",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-09-14",
         "evenement": "Désignation Catherine Troton (AG), Lionel Coiffard (Président CA), Louis Lamarca (VP)"
       }
-    ],
-    "sources": "CM 14/09/2020"
+    ]
   },
   {
-    "titre": "Convention archives itinérantes CDG38",
-    "domaine": "Services publics",
-    "resume": "Convention avec le Centre de Gestion pour l'archivage des documents communaux",
+    "id": 289,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
     "statut": "Réalisé",
+    "titre": "Convention archives itinérantes CDG38",
+    "description": "Convention avec le CDG38 pour les archives itinérantes",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Convention avec le CDG38 pour les archives itinérantes",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-09-14",
         "evenement": "Convention pôle archives itinérantes CDG38 (29 pour)"
       }
-    ],
-    "sources": "CM 14/09/2020"
+    ]
   },
   {
-    "titre": "Candidature Territoire Zéro Chômeur Longue Durée",
-    "domaine": "Social et solidarité",
-    "resume": "Vizille candidate à la programmation métropolitaine TZCLD",
+    "id": 290,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#607d8b",
     "statut": "En cours",
+    "titre": "Candidature Territoire Zéro Chômeur Longue Durée",
+    "description": "Candidature au dispositif Territoire Zéro Chômeur de Longue Durée",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 2,
+    "resume": "Candidature au dispositif Territoire Zéro Chômeur de Longue Durée",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2018-12-21",
@@ -9620,16 +9752,23 @@
         "date": "2021-04-27",
         "evenement": "Confirmation candidature Vizille - soutien projet Echirolles (25 pour, 4 abstentions)"
       }
-    ],
-    "sources": "CM 27/04/2021",
-    "details": "Expérimentation \"Territoire Zéro Chômeur de Longue Durée\" : création d'emplois CDI supplémentaires via Entreprises à But d'Emploi pour personnes privées d'emploi depuis 1 an. 5 communes métropolitaines candidates : Echirolles, Vizille, Grenoble, Pont de Claix, Saint-Martin-d'Hères. Echirolles Ouest première étape."
+    ]
   },
   {
-    "titre": "Évolutions composition conseil municipal",
-    "domaine": "Vie municipale",
-    "resume": "Changements dans la composition du conseil municipal durant le mandat",
+    "id": 291,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
     "statut": "Réalisé",
+    "titre": "Évolutions composition conseil municipal",
+    "description": "Évolutions dans la composition du conseil municipal",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Évolutions dans la composition du conseil municipal",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2021-09-15",
@@ -9639,143 +9778,221 @@
         "date": "2021-09-15",
         "evenement": "Poste 7ème adjoint laissé vacant (21 pour, 7 abstentions)"
       }
-    ],
-    "sources": "CM 15/09/2021"
+    ]
   },
   {
-    "titre": "Installation des 10 commissions municipales",
-    "domaine": "Vie municipale",
-    "resume": "Création et composition des 10 commissions thématiques du conseil municipal",
+    "id": 292,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
     "statut": "Réalisé",
+    "titre": "Installation des 10 commissions municipales",
+    "description": "Installation des 10 commissions municipales thématiques",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 2,
+    "resume": "Installation des 10 commissions municipales thématiques",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-07-15",
         "evenement": "Installation 10 commissions (29 pour, unanimité)"
       }
-    ],
-    "sources": "CM 15/07/2020",
-    "details": "10 commissions municipales créées :\n1. Animations urbaines, économie, participation, communication (Président: P. Bernard)\n2. Culture et patrimoine (Présidente: M-C. Argoud)\n3. Accès aux droits et action sociale (Président: B. Lamy)\n4. Jeunes vizillois et éducation (Présidente: M. El Kebir)\n5. Tranquillité publique, bien vivre ensemble (Président: M. Thuillier)\n6. Vie associative (Présidente: A-M. Tête)\n7. Travaux, urbanisme et logement (Président: L. Lamarca)\n8. Transition numérique et environnementale (Président: G. Forestier)\n9. Intercommunalité (Président: L. Coiffard)\n10. Budget et Personnel (Présidente: C. Troton)"
+    ]
   },
   {
-    "titre": "Représentation au CA de l'EHPAD",
-    "domaine": "Social et solidarité",
-    "resume": "Désignation des représentants communaux au Conseil d'Administration de l'EHPAD",
+    "id": 293,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
     "statut": "Réalisé",
+    "titre": "Représentation au CA de l'EHPAD",
+    "description": "Désignation des représentants au CA de l'EHPAD Les Écrins",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Désignation des représentants au CA de l'EHPAD Les Écrins",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-07-15",
         "evenement": "Délégués : Maire (droit), B. Lamy, J. Dura (22 pour, 7 abst)"
       }
-    ],
-    "sources": "CM 15/07/2020"
+    ]
   },
   {
-    "titre": "Représentation au SEDI",
-    "domaine": "Environnement",
-    "resume": "Délégué au Syndicat des Energies du Département de l'Isère",
+    "id": 294,
+    "theme": "Intercommunalité",
+    "icon": "🏛️",
+    "color": "#673ab7",
     "statut": "Réalisé",
+    "titre": "Représentation au SEDI",
+    "description": "Désignation des représentants au SEDI",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Désignation des représentants au SEDI",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-07-15",
         "evenement": "Délégué G. Forestier (tit), S. Garcia de la Rosa (suppl)"
       }
-    ],
-    "sources": "CM 15/07/2020"
+    ]
   },
   {
-    "titre": "Comité de Jumelage",
-    "domaine": "Culture et patrimoine",
-    "resume": "Délégués au Comité de Jumelage pour les relations avec les villes jumelles",
+    "id": 295,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
     "statut": "Réalisé",
+    "titre": "Comité de Jumelage",
+    "description": "Participation au Comité de Jumelage avec Venaria Reale",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Participation au Comité de Jumelage avec Venaria Reale",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-07-15",
         "evenement": "6 délégués désignés (25 pour, 4 contre)"
       }
-    ],
-    "sources": "CM 15/07/2020"
+    ]
   },
   {
-    "titre": "Représentation à l'AURG",
-    "domaine": "Urbanisme",
-    "resume": "Délégué à l'Agence d'Urbanisme de la Région Grenobloise",
+    "id": 296,
+    "theme": "Intercommunalité",
+    "icon": "🏛️",
+    "color": "#673ab7",
     "statut": "Réalisé",
+    "titre": "Représentation à l'AURG",
+    "description": "Désignation des représentants à l'Agence d'Urbanisme de la Région Grenobloise",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Désignation des représentants à l'Agence d'Urbanisme de la Région Grenobloise",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-07-15",
         "evenement": "Délégué : S. Lasserre (22 pour, 7 abst)"
       }
-    ],
-    "sources": "CM 15/07/2020"
+    ]
   },
   {
-    "titre": "Représentation SPL Eaux de Grenoble Alpes",
-    "domaine": "Services publics",
-    "resume": "Délégué à la SPL Eaux de Grenoble Alpes (gestion de l'eau potable)",
+    "id": 297,
+    "theme": "Environnement",
+    "icon": "🌿",
+    "color": "#27ae60",
     "statut": "Réalisé",
+    "titre": "Représentation SPL Eaux de Grenoble Alpes",
+    "description": "Désignation des représentants à la SPL Eaux de Grenoble Alpes",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Désignation des représentants à la SPL Eaux de Grenoble Alpes",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-07-15",
         "evenement": "Délégué : L. Coiffard (22 pour, 7 abst)"
       }
-    ],
-    "sources": "CM 15/07/2020"
+    ]
   },
   {
-    "titre": "Renforcement encadrement écoles maternelles",
-    "domaine": "Éducation et jeunesse",
-    "resume": "Création de postes ATSEM pour l'accompagnement des enfants en maternelle",
+    "id": 298,
+    "theme": "Enfance",
+    "icon": "👶",
+    "color": "#ff9800",
     "statut": "Réalisé",
+    "titre": "Renforcement encadrement écoles maternelles",
+    "description": "Renforcement de l'encadrement dans les écoles maternelles",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Renforcement de l'encadrement dans les écoles maternelles",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-07-15",
         "evenement": "Création 2 postes ATSEM catégorie C (29 pour, unanimité)"
       }
-    ],
-    "sources": "CM 15/07/2020"
+    ]
   },
   {
-    "titre": "Règlement intérieur du Conseil Municipal",
-    "domaine": "Vie municipale",
-    "resume": "Adoption du règlement intérieur du conseil municipal",
+    "id": 299,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
     "statut": "Réalisé",
+    "titre": "Règlement intérieur du Conseil Municipal",
+    "description": "Adoption du règlement intérieur du Conseil Municipal",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Adoption du règlement intérieur du Conseil Municipal",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-12-15",
         "evenement": "Adoption règlement intérieur CM (28 pour, unanimité)"
       }
-    ],
-    "sources": "CM 15/12/2020"
+    ]
   },
   {
-    "titre": "Motion soutien à la culture (COVID)",
-    "domaine": "Culture et patrimoine",
-    "resume": "Motion de soutien au monde de la culture pendant la crise sanitaire",
+    "id": 300,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
     "statut": "Réalisé",
+    "titre": "Motion soutien à la culture (COVID)",
+    "description": "Motion de soutien au secteur culturel pendant la crise COVID",
+    "annee": "2020",
+    "annee_fin": "2020",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Motion de soutien au secteur culturel pendant la crise COVID",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-12-15",
         "evenement": "Motion soutien culture adoptée à l'unanimité"
       }
-    ],
-    "sources": "CM 15/12/2020",
-    "details": "Motion dénonçant l'incohérence de laisser fermer les structures culturelles malgré les protocoles sanitaires rigoureux."
+    ]
   },
   {
-    "titre": "Tournoi de Futsal",
-    "domaine": "Sport",
-    "resume": "Organisation annuelle du tournoi de Futsal",
+    "id": 301,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#00bcd4",
     "statut": "Réalisé",
+    "titre": "Tournoi de Futsal",
+    "description": "Organisation du tournoi de Futsal",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Organisation du tournoi de Futsal",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2020-08",
@@ -9785,57 +10002,89 @@
         "date": "2022-04-30",
         "evenement": "Tournoi Futsal"
       }
-    ],
-    "sources": "CM 15/07/2020, VàV n°137"
+    ]
   },
   {
-    "titre": "Brocante Europuces",
-    "domaine": "Économie",
-    "resume": "Grande brocante annuelle Europuces à Vizille",
+    "id": 302,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#607d8b",
     "statut": "Réalisé",
+    "titre": "Brocante Europuces",
+    "description": "Accueil de la brocante Europuces",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Accueil de la brocante Europuces",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2022-11-06",
         "evenement": "Brocante Europuces"
       }
-    ],
-    "sources": "VàV n°141"
+    ]
   },
   {
-    "titre": "Bourse aux skis Fusyski",
-    "domaine": "Sport",
-    "resume": "Bourse aux skis annuelle organisée par Fusyski",
+    "id": 303,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#00bcd4",
     "statut": "Réalisé",
+    "titre": "Bourse aux skis Fusyski",
+    "description": "Organisation de la bourse aux skis avec Fusyski",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Organisation de la bourse aux skis avec Fusyski",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2022-11",
         "evenement": "Bourse aux skis 19-20 novembre, salle Locomotive"
       }
-    ],
-    "sources": "VàV n°142"
+    ]
   },
   {
-    "titre": "Sainte-Barbe des sapeurs-pompiers",
-    "domaine": "Sécurité",
-    "resume": "Célébration annuelle de la Sainte-Barbe par l'amicale des pompiers",
+    "id": 304,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#f44336",
     "statut": "Réalisé",
+    "titre": "Sainte-Barbe des sapeurs-pompiers",
+    "description": "Cérémonie de la Sainte-Barbe des sapeurs-pompiers",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Cérémonie de la Sainte-Barbe des sapeurs-pompiers",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2022-11-12",
         "evenement": "Sainte-Barbe + retraite aux flambeaux"
       }
-    ],
-    "sources": "VàV n°142"
+    ]
   },
   {
-    "titre": "Adhésion Fondation du Patrimoine",
-    "domaine": "Culture et patrimoine",
-    "resume": "Adhésion de la commune à la Fondation du Patrimoine",
+    "id": 305,
+    "theme": "Patrimoine",
+    "icon": "🏛️",
+    "color": "#795548",
     "statut": "Réalisé",
+    "titre": "Adhésion Fondation du Patrimoine",
+    "description": "Adhésion à la Fondation du Patrimoine",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Adhésion à la Fondation du Patrimoine",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2021-06-29",
@@ -9845,85 +10094,133 @@
         "date": "2023-03",
         "evenement": "Renouvellement adhésion 2023"
       }
-    ],
-    "sources": "CM 29/06/2021"
+    ]
   },
   {
-    "titre": "Billetterie en ligne spectacles",
-    "domaine": "Culture et patrimoine",
-    "resume": "Convention de billetterie dématérialisée avec Billetweb",
+    "id": 306,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
     "statut": "Réalisé",
+    "titre": "Billetterie en ligne spectacles",
+    "description": "Mise en place de la billetterie en ligne pour les spectacles",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Mise en place de la billetterie en ligne pour les spectacles",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2021-06-29",
         "evenement": "Convention Billetweb billetterie spectacles (unanimité)"
       }
-    ],
-    "sources": "CM 29/06/2021"
+    ]
   },
   {
-    "titre": "Révision durées amortissement",
-    "domaine": "Finance",
-    "resume": "Actualisation des durées d'amortissement des immobilisations",
+    "id": 307,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
     "statut": "Réalisé",
+    "titre": "Révision durées amortissement",
+    "description": "Révision des durées d'amortissement comptable",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Révision des durées d'amortissement comptable",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2021-12-14",
         "evenement": "Nouvelles durées amortissement, seuil 500€ (unanimité)"
       }
-    ],
-    "sources": "CM 14/12/2021"
+    ]
   },
   {
-    "titre": "Affectation résultats 2021",
-    "domaine": "Finance",
-    "resume": "Affectation excédent 2021 : 707 870€ investissement + 300 000€ fonctionnement",
+    "id": 308,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
     "statut": "Réalisé",
+    "titre": "Affectation résultats 2021",
+    "description": "Affectation des résultats de l'exercice 2021",
+    "annee": "2022",
+    "annee_fin": "2022",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Affectation des résultats de l'exercice 2021",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2022-04-04",
         "evenement": "Affectation résultats (21 pour, 4 contre, 3 abst)"
       }
-    ],
-    "sources": "CM 04/04/2022"
+    ]
   },
   {
-    "titre": "Élection Audrey La Rocca 6e adjointe",
-    "domaine": "Vie municipale",
-    "resume": "Élection d'Audrey La Rocca comme 6e adjointe au Maire",
+    "id": 309,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
     "statut": "Réalisé",
+    "titre": "Élection Audrey La Rocca 6e adjointe",
+    "description": "Élection d'Audrey La Rocca comme 6e adjointe au maire",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Élection d'Audrey La Rocca comme 6e adjointe au maire",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2022-06-27",
         "evenement": "Élection A. La Rocca 6e adjointe (24 voix)"
       }
-    ],
-    "sources": "CM 27/06/2022"
+    ]
   },
   {
-    "titre": "Révision RIFSEEP agents",
-    "domaine": "Services publics",
-    "resume": "Révision du régime indemnitaire des agents territoriaux",
+    "id": 310,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
     "statut": "Réalisé",
+    "titre": "Révision RIFSEEP agents",
+    "description": "Révision du régime indemnitaire RIFSEEP des agents",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Révision du régime indemnitaire RIFSEEP des agents",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2023-06-20",
         "evenement": "Révision RIFSEEP"
       }
-    ],
-    "sources": "CM 20/06/2023"
+    ]
   },
   {
-    "titre": "Comité Social Territorial commun",
-    "domaine": "Services publics",
-    "resume": "CST commun Commune + CCAS + Résidence Autonomie",
+    "id": 311,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
     "statut": "Réalisé",
+    "titre": "Comité Social Territorial commun",
+    "description": "Mise en place du Comité Social Territorial commun",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Mise en place du Comité Social Territorial commun",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2022-05-17",
@@ -9937,35 +10234,160 @@
         "date": "2023-01-30",
         "evenement": "Composition CST adoptée (unanimité)"
       }
-    ],
-    "sources": "CM 30/01/2023"
+    ]
   },
   {
-    "titre": "Adhésion RTES",
-    "domaine": "Économie",
-    "resume": "Adhésion au Réseau des Territoires pour l'Économie Solidaire",
+    "id": 312,
+    "theme": "Économie",
+    "icon": "💼",
+    "color": "#607d8b",
     "statut": "Réalisé",
+    "titre": "Adhésion RTES",
+    "description": "Adhésion au Réseau des Territoires pour l'Économie Solidaire",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Adhésion au Réseau des Territoires pour l'Économie Solidaire",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2023-12-05",
         "evenement": "Renouvellement adhésion RTES (135€)"
       }
-    ],
-    "sources": "CM 13/12/2023"
+    ]
   },
   {
-    "titre": "Adhésion CAUE Isère",
-    "domaine": "Urbanisme",
-    "resume": "Adhésion au Conseil d'Architecture, d'Urbanisme et de l'Environnement",
+    "id": 313,
+    "theme": "Urbanisme",
+    "icon": "🏗️",
+    "color": "#3498db",
     "statut": "Réalisé",
+    "titre": "Adhésion CAUE Isère",
+    "description": "Adhésion au Conseil d'Architecture, d'Urbanisme et de l'Environnement de l'Isère",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
     "importance": 1,
+    "resume": "Adhésion au Conseil d'Architecture, d'Urbanisme et de l'Environnement de l'Isère",
+    "chiffres": [],
     "chronologie": [
       {
         "date": "2023-12-05",
         "evenement": "Renouvellement adhésion CAUE (400€)"
       }
-    ],
-    "sources": "CM 13/12/2023"
+    ]
+  },
+  {
+    "id": 314,
+    "theme": "Solidarité",
+    "icon": "🤝",
+    "color": "#e74c3c",
+    "statut": "Réalisé",
+    "titre": "Convention association La Fourmi",
+    "description": "Convention de partenariat avec l'association La Fourmi",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Convention de partenariat avec l'association La Fourmi",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023-11-28",
+        "evenement": "Convention La Fourmi signée (1 an renouvelable) - unanimité"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "theme": "Sport",
+    "icon": "⚽",
+    "color": "#00bcd4",
+    "statut": "Réalisé",
+    "titre": "Amicale Boule Vizilloise",
+    "description": "Soutien à l'Amicale Boule Vizilloise",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Soutien à l'Amicale Boule Vizilloise",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023-11-28",
+        "evenement": "Subvention complémentaire 200€ (total 1450€) - unanimité"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "theme": "Culture",
+    "icon": "🎭",
+    "color": "#9b59b6",
+    "statut": "Réalisé",
+    "titre": "Patinoire éphémère de Noël",
+    "description": "Installation d'une patinoire éphémère pour les fêtes de Noël",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Installation d'une patinoire éphémère pour les fêtes de Noël",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023-11-28",
+        "evenement": "Création emploi patinoire 23-29 décembre 2023 (unanimité)"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "theme": "Sécurité",
+    "icon": "🛡️",
+    "color": "#f44336",
+    "statut": "Réalisé",
+    "titre": "Vacataires SSIAP événements",
+    "description": "Recrutement de vacataires SSIAP pour la sécurité des événements",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Recrutement de vacataires SSIAP pour la sécurité des événements",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023-11-28",
+        "evenement": "Cadre recrutement SSIAP: 15€/h jour, 17€/h nuit (unanimité)"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "theme": "Administration",
+    "icon": "📋",
+    "color": "#9e9e9e",
+    "statut": "Réalisé",
+    "titre": "Marché carburants véhicules",
+    "description": "Marché public pour l'approvisionnement en carburants des véhicules municipaux",
+    "annee": "2024",
+    "annee_fin": "2024",
+    "budget": 0,
+    "source": "Délib",
+    "importance": 1,
+    "resume": "Marché public pour l'approvisionnement en carburants des véhicules municipaux",
+    "chiffres": [],
+    "chronologie": [
+      {
+        "date": "2023-11-20",
+        "evenement": "Signature marché carburants 2023-2027: max 50 000€ HT/12 mois"
+      }
+    ]
   }
 ]

@@ -1,0 +1,40 @@
+{
+  "total_actions": 307,
+  "par_statut": {
+    "Réalisé": 246,
+    "En cours": 34,
+    "Décidé": 22,
+    "Programmé": 5
+  },
+  "par_theme": {
+    "Santé": 11,
+    "Urbanisme": 15,
+    "Environnement": 33,
+    "Sécurité": 16,
+    "Culture": 43,
+    "Patrimoine": 16,
+    "Enfance": 25,
+    "Solidarité": 20,
+    "Sport": 23,
+    "Économie": 14,
+    "Mobilités": 18,
+    "Travaux": 30,
+    "Intercommunalité": 14,
+    "Finance": 13,
+    "Personnel": 6,
+    "Administration": 10
+  },
+  "par_annee": {
+    "2015": 1,
+    "2019": 1,
+    "2020": 33,
+    "2021": 31,
+    "2022": 28,
+    "2023": 32,
+    "2024": 81,
+    "2025": 95,
+    "2026": 5
+  },
+  "budget_total": 15656809,
+  "mise_a_jour": "2025-12-09"
+}
