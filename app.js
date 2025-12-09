@@ -660,8 +660,11 @@ function openProjectModal(projectId) {
     
     // Sources
     const sourcesContainer = document.getElementById('modal-sources');
+    let sourcesHTML = '';
+    
+    // Afficher les sources textuelles
     if (project.sources && project.sources.length > 0) {
-        sourcesContainer.innerHTML = project.sources.map(s => {
+        sourcesHTML += project.sources.map(s => {
             const icon = s.type === 'delib' ? '📋' : s.type === 'magazine' ? '📰' : '📄';
             return `
                 <div class="source-item">
@@ -670,9 +673,31 @@ function openProjectModal(projectId) {
                 </div>
             `;
         }).join('');
-    } else {
-        sourcesContainer.innerHTML = '<div class="source-item"><span class="source-icon">📄</span><span>Documentation municipale</span></div>';
     }
+    
+    // Afficher les liens sources cliquables
+    if (project.lien_source && project.lien_source.length > 0) {
+        sourcesHTML += '<div class="source-links">';
+        sourcesHTML += project.lien_source.map(ls => {
+            const icon = ls.type === 'Délibération' ? '📋' : 
+                        ls.type === 'Magazine' || ls.type === 'Magazine PDF' ? '📰' : 
+                        ls.type === 'Page dédiée' ? '🔗' : '📄';
+            return `
+                <a href="${ls.url}" target="_blank" rel="noopener" class="source-link">
+                    <span class="source-icon">${icon}</span>
+                    <span>${ls.label}</span>
+                    <span class="external-icon">↗</span>
+                </a>
+            `;
+        }).join('');
+        sourcesHTML += '</div>';
+    }
+    
+    if (!sourcesHTML) {
+        sourcesHTML = '<div class="source-item"><span class="source-icon">📄</span><span>Documentation municipale</span></div>';
+    }
+    
+    sourcesContainer.innerHTML = sourcesHTML;
     
     // Navigation
     updateModalNavigation();
