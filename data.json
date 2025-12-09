@@ -6,7 +6,7 @@
     "color": "#e91e63",
     "statut": "Réalisé",
     "titre": "Maison France Services La Source ouverte",
-    "description": "CCAS + MFS + accompagnement 3600 pers/an",
+    "description": "Espace multiservices labellisé France Services avec CCAS, PIMMS, CPAM, CARSAT. Accompagnement de 3 600 personnes/an.",
     "annee": "2022",
     "annee_fin": "2022",
     "budget": 28000,
@@ -56,6 +56,13 @@
         "ref": "VàV n°154",
         "desc": "Janvier 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -65,7 +72,7 @@
     "color": "#e91e63",
     "statut": "Réalisé",
     "titre": "Bus France Services PIMMS",
-    "description": "Tous les mardis place du marché",
+    "description": "Espace multiservices labellisé France Services avec CCAS, PIMMS, CPAM, CARSAT. Accompagnement de 3 600 personnes/an.",
     "annee": "2021",
     "annee_fin": "",
     "budget": 0,
@@ -95,6 +102,13 @@
         "ref": "VàV n°154",
         "desc": "Janvier 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -104,7 +118,7 @@
     "color": "#e91e63",
     "statut": "Réalisé",
     "titre": "Médecins provisoires salle Avant-Garde",
-    "description": "3 médecins, capacité 6",
+    "description": "Face à la désertification médicale, la municipalité crée une Maison de Santé Pluriprofessionnelle. Médecins accueillis provisoirement salle de l'Avant-Garde depuis 2023.",
     "annee": "2023",
     "annee_fin": "",
     "budget": 80000,
@@ -138,7 +152,8 @@
         "ref": "VàV n°154, 156, 161",
         "desc": "2024"
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 4,
@@ -168,7 +183,8 @@
         "ref": "Magazine n°165",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 5,
@@ -226,6 +242,13 @@
         "ref": "VàV n°154, 156, 161",
         "desc": "2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -256,7 +279,8 @@
         "ref": "Magazine n°166",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 7,
@@ -331,7 +355,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 8,
@@ -360,6 +385,13 @@
         "type": "doc",
         "ref": "Délib 2025-09-30-16",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -391,7 +423,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 10,
@@ -421,6 +454,13 @@
         "ref": "Délib 2024-10-02-01",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -430,7 +470,7 @@
     "color": "#34495e",
     "statut": "En cours",
     "titre": "ORT - Opération Revitalisation Territoire",
-    "description": "Convention signée sept 2025, horizon 2030",
+    "description": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "annee": "2025",
     "annee_fin": "2030",
     "budget": 0,
@@ -467,6 +507,18 @@
         "type": "magazine",
         "ref": "VàV n°157, 161",
         "desc": "Projet Territoire 2024"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
       }
     ]
   },
@@ -515,6 +567,18 @@
         "ref": "Délib 2025-09-30-06",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -557,6 +621,18 @@
         "ref": "Magazine+Délib",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -587,6 +663,13 @@
         "ref": "Magazine n°164",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -596,7 +679,7 @@
     "color": "#34495e",
     "statut": "Réalisé",
     "titre": "OPAH-RU Réno'Vizille signée",
-    "description": "3M€ sur 5 ans, 290k€ Vizille",
+    "description": "OPAH-RU 'Réno'Vizille' pour accompagner les propriétaires dans la rénovation des façades et logements du centre-ville avec subventions jusqu'à 50%.",
     "annee": "2023",
     "annee_fin": "2027",
     "budget": 290000,
@@ -674,6 +757,18 @@
         "ref": "VàV n°154, 157",
         "desc": "2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -683,7 +778,7 @@
     "color": "#34495e",
     "statut": "Réalisé",
     "titre": "Centralité vizilloise au PLUi",
-    "description": "Vote unanime Métropole déc 2021",
+    "description": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "annee": "2021",
     "annee_fin": "2021",
     "budget": 0,
@@ -733,6 +828,18 @@
         "ref": "VàV n°157, 161",
         "desc": "Projet Territoire 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -766,6 +873,18 @@
         "type": "doc",
         "ref": "Délib 2023-05-03-01",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
       }
     ]
   },
@@ -805,6 +924,13 @@
         "ref": "Magazine",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -835,6 +961,18 @@
         "ref": "Délib",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -844,7 +982,7 @@
     "color": "#27ae60",
     "statut": "Réalisé",
     "titre": "Signature Charte Plan Climat Air Énergie",
-    "description": "5 axes, 200 mesures, horizon 2030",
+    "description": "Engagement dans le Plan Climat-Air-Énergie métropolitain depuis 2021. Nombreuses actions environnementales.",
     "annee": "2021",
     "annee_fin": "2021",
     "budget": 0,
@@ -874,6 +1012,18 @@
         "ref": "VàV n°160",
         "desc": "Juillet 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -883,7 +1033,7 @@
     "color": "#27ae60",
     "statut": "Réalisé",
     "titre": "Plan sobriété énergétique adopté",
-    "description": "-40% éclairage, -10% bâtiments",
+    "description": "Engagement dans le Plan Climat-Air-Énergie métropolitain depuis 2021. Nombreuses actions environnementales.",
     "annee": "2022",
     "annee_fin": "",
     "budget": 0,
@@ -912,6 +1062,18 @@
         "type": "magazine",
         "ref": "VàV n°160",
         "desc": "Juillet 2024"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -942,6 +1104,18 @@
         "type": "doc",
         "ref": "Délib 2025-02-18-05",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -989,6 +1163,18 @@
         "ref": "Délib 2025-09-30-15",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1023,6 +1209,18 @@
         "type": "doc",
         "ref": "Magazine+Délib",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -1059,6 +1257,18 @@
         "ref": "Délib 2022-11-09-01",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1094,6 +1304,13 @@
         "ref": "Magazine+Bilan travaux",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1103,7 +1320,7 @@
     "color": "#27ae60",
     "statut": "Réalisé",
     "titre": "Compostage quartier 3,3 tonnes",
-    "description": "Chantefeuille + Maison Enfant + école Château",
+    "description": "3 sites de compostage partagés installés en partenariat avec l'association Terre Climat Environnement.",
     "annee": "2023",
     "annee_fin": "",
     "budget": 0,
@@ -1137,6 +1354,13 @@
         "ref": "VàV n°159",
         "desc": "Juin 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1166,6 +1390,13 @@
         "type": "doc",
         "ref": "Magazine n°164",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -1197,6 +1428,13 @@
         "ref": "Magazine n°164",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1226,6 +1464,13 @@
         "type": "doc",
         "ref": "Magazine",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -1266,6 +1511,18 @@
         "ref": "Délib 2023-11-28-12",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1301,6 +1558,18 @@
         "ref": "Délib 2024-10-02-10",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1310,7 +1579,7 @@
     "color": "#27ae60",
     "statut": "Réalisé",
     "titre": "Gestion différenciée espaces verts",
-    "description": "Zéro phyto",
+    "description": "Mise en place d'une gestion différenciée des espaces naturels pour favoriser la biodiversité et réduire l'utilisation de produits phytosanitaires (zéro phyto).",
     "annee": "2020",
     "annee_fin": "",
     "budget": 0,
@@ -1334,6 +1603,13 @@
         "type": "magazine",
         "ref": "Vivre à Vizille n°160",
         "desc": "Juillet 2024 - Dossier"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -1364,6 +1640,13 @@
         "type": "doc",
         "ref": "Magazine n°163",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -1407,6 +1690,18 @@
         "ref": "Délib 2023-11-28-10",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1442,6 +1737,18 @@
         "ref": "Délib 2021-03-23-15",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1471,6 +1778,13 @@
         "type": "doc",
         "ref": "Magazine",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -1507,6 +1821,18 @@
         "ref": "Délib 2021-06-29-38",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1536,6 +1862,18 @@
         "type": "doc",
         "ref": "Délib 2021-02-23-18",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -1588,6 +1926,13 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1618,6 +1963,13 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -1627,7 +1979,7 @@
     "color": "#2c3e50",
     "statut": "Réalisé",
     "titre": "Vidéo-protection 27 caméras",
-    "description": "Budget 223 623€, centre-ville, parkings, entrées",
+    "description": "Déploiement d'un système de vidéo-protection avec subvention FIPD 50%. Coordination avec CSU et gendarmerie.",
     "annee": "2021",
     "annee_fin": "2024",
     "budget": 223623,
@@ -1677,6 +2029,13 @@
         "ref": "Délib 2021-02-23-02",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -1707,7 +2066,8 @@
         "ref": "Magazine n°164",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 44,
@@ -1736,6 +2096,13 @@
         "type": "doc",
         "ref": "Délib 2020-10-20-10",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -1767,7 +2134,8 @@
         "ref": "Magazine n°164",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 46,
@@ -1776,7 +2144,7 @@
     "color": "#2c3e50",
     "statut": "Réalisé",
     "titre": "Indemnité spéciale police municipale",
-    "description": "ISFPE filière PM",
+    "description": "Création et renforcement de la police municipale avec 3 agents pour la tranquillité publique.",
     "annee": "2024",
     "annee_fin": "2024",
     "budget": 0,
@@ -1818,6 +2186,13 @@
         "ref": "Délib 2024-12-17-08",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -1847,6 +2222,13 @@
         "type": "doc",
         "ref": "Délib 2024-12-17-16",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -1883,6 +2265,13 @@
         "ref": "Délib 2022-12-12-18",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -1912,6 +2301,13 @@
         "type": "doc",
         "ref": "Délib 2025-09-30-13",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -1943,7 +2339,8 @@
         "ref": "Magazine n°163",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 51,
@@ -1976,6 +2373,18 @@
         "type": "doc",
         "ref": "Délib 2020-09-14-06",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -2028,6 +2437,18 @@
         "ref": "Délib annuels",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2063,6 +2484,18 @@
         "ref": "Magazine+Délib",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2072,7 +2505,7 @@
     "color": "#9b59b6",
     "statut": "Réalisé",
     "titre": "Festival Film pour Enfants",
-    "description": "25e édition 2024, label national Jeune Public",
+    "description": "Festival du Film pour Enfants, le plus fréquenté de l'Isère avec label national 'Jeune Public'. Environ 40 films, jury enfants, ateliers.",
     "annee": "2020",
     "annee_fin": "",
     "budget": 0,
@@ -2110,6 +2543,13 @@
         "ref": "VàV n°161",
         "desc": "Octobre 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2139,6 +2579,13 @@
         "type": "doc",
         "ref": "Magazine",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -2183,6 +2630,18 @@
         "ref": "Magazine+Délib",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2212,6 +2671,13 @@
         "type": "doc",
         "ref": "Magazine",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -2252,6 +2718,18 @@
         "ref": "Délib 2022-12-12-21",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2281,6 +2759,18 @@
         "type": "doc",
         "ref": "Délib annuels",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -2345,6 +2835,18 @@
         "ref": "Délib 2022-05-16-08",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2400,6 +2902,18 @@
         "ref": "Délib annuels",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2429,6 +2943,18 @@
         "type": "doc",
         "ref": "Délib 2020-12-15-15",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -2460,6 +2986,18 @@
         "ref": "Délib 2025-03-12-08",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2490,6 +3028,13 @@
         "ref": "Magazine",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2499,7 +3044,7 @@
     "color": "#9b59b6",
     "statut": "Réalisé",
     "titre": "Partenariat Amis de l'Orgue",
-    "description": "~50 concerts en 10 ans, parrainage tuyaux",
+    "description": "Restauration de l'orgue historique Callinet (1846) classé MH. Concerts mensuels de collecte par les Amis de l'Orgue de Vizille.",
     "annee": "2015",
     "annee_fin": "",
     "budget": 0,
@@ -2532,6 +3077,13 @@
         "ref": "VàV n°154-160",
         "desc": "Concerts 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2561,6 +3113,13 @@
         "type": "doc",
         "ref": "Magazine",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -2601,6 +3160,13 @@
         "ref": "Magazine",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2630,6 +3196,13 @@
         "type": "doc",
         "ref": "Magazine n°166",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -2661,6 +3234,13 @@
         "ref": "Magazine n°166",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2690,6 +3270,13 @@
         "type": "doc",
         "ref": "Magazine n°163",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -2726,6 +3313,13 @@
         "ref": "Magazine n°163",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -2755,6 +3349,13 @@
         "type": "doc",
         "ref": "Délib 2023-01-30-12",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -2799,6 +3400,13 @@
         "ref": "Délib 2023-03-14-24",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -2829,6 +3437,13 @@
         "ref": "Délib 2023-10-09-08",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -2838,7 +3453,7 @@
     "color": "#8e44ad",
     "statut": "En cours",
     "titre": "Restauration orgue église Sainte-Marie",
-    "description": "Buffet restauré, partie instrumentale en cours",
+    "description": "Restauration de l'orgue historique Callinet (1846) classé MH. Concerts mensuels de collecte par les Amis de l'Orgue de Vizille.",
     "annee": "2020",
     "annee_fin": "2025",
     "budget": 80000,
@@ -2879,6 +3494,13 @@
         "type": "magazine",
         "ref": "VàV n°154-160",
         "desc": "Concerts 2024"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -2935,6 +3557,13 @@
         "ref": "Délib 2023-12-13-17/18/19",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -2986,6 +3615,13 @@
         "ref": "Délib 2025-09-30-02",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -3021,7 +3657,8 @@
         "ref": "Magazine+Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 79,
@@ -3030,7 +3667,7 @@
     "color": "#8e44ad",
     "statut": "Réalisé",
     "titre": "Porte Poterne Château du Roi",
-    "description": "10 875€ TTC, subvention Département 50%",
+    "description": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "annee": "2024",
     "annee_fin": "2024",
     "budget": 10875,
@@ -3068,6 +3705,13 @@
         "ref": "VàV n°157, 161",
         "desc": "Projet Territoire 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -3077,7 +3721,7 @@
     "color": "#8e44ad",
     "statut": "En cours",
     "titre": "Renforcement tribune orgue église",
-    "description": "Piliers avec micropieux",
+    "description": "Restauration de l'orgue historique Callinet (1846) classé MH. Concerts mensuels de collecte par les Amis de l'Orgue de Vizille.",
     "annee": "2024",
     "annee_fin": "",
     "budget": 0,
@@ -3110,6 +3754,13 @@
         "ref": "VàV n°154-160",
         "desc": "Concerts 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -3139,6 +3790,13 @@
         "type": "doc",
         "ref": "Délib 2020-12-15-07/08/09",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -3179,6 +3837,13 @@
         "ref": "Magazine n°162+Bilan travaux",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3188,7 +3853,7 @@
     "color": "#3498db",
     "statut": "Réalisé",
     "titre": "Désimperméabilisation cour Jean Jaurès",
-    "description": "Végétalisation, inauguration 27/06/2024",
+    "description": "Désimperméabilisation et végétalisation de la cour, projet phare d'adaptation au changement climatique.",
     "annee": "2023",
     "annee_fin": "2024",
     "budget": 230000,
@@ -3225,6 +3890,13 @@
         "type": "magazine",
         "ref": "VàV n°159",
         "desc": "Juin 2024"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -3265,6 +3937,18 @@
         "ref": "Délib+Bilan travaux",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3299,6 +3983,13 @@
         "type": "doc",
         "ref": "Bilan travaux",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -3335,6 +4026,13 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3365,6 +4063,18 @@
         "ref": "Délib 2023-10-09-06",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3394,6 +4104,18 @@
         "type": "doc",
         "ref": "Délib 2023-10-09-06",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -3442,6 +4164,18 @@
         "ref": "Délib annuels",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3477,6 +4211,18 @@
         "ref": "Délib annuels",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3506,6 +4252,13 @@
         "type": "doc",
         "ref": "Magazine",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -3537,6 +4290,18 @@
         "ref": "Délib 2022-05-16-01",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3567,6 +4332,18 @@
         "ref": "Délib 2023-03-14-19",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3576,7 +4353,7 @@
     "color": "#3498db",
     "statut": "Réalisé",
     "titre": "Conseiller Numérique France Services",
-    "description": "Recruté 1er juillet 2021",
+    "description": "Espace multiservices labellisé France Services avec CCAS, PIMMS, CPAM, CARSAT. Accompagnement de 3 600 personnes/an.",
     "annee": "2021",
     "annee_fin": "",
     "budget": 0,
@@ -3606,6 +4383,18 @@
         "ref": "VàV n°154",
         "desc": "Janvier 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3615,7 +4404,7 @@
     "color": "#3498db",
     "statut": "Réalisé",
     "titre": "Adhésion Nautic Sport 38",
-    "description": "Découverte nautique centres de loisirs, 2€/enfant",
+    "description": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "annee": "2024",
     "annee_fin": "",
     "budget": 0,
@@ -3665,6 +4454,18 @@
         "ref": "VàV n°157, 161",
         "desc": "Projet Territoire 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3674,7 +4475,7 @@
     "color": "#3498db",
     "statut": "Réalisé",
     "titre": "Pass'Sport communal 10€/enfant",
-    "description": "83 enfants bénéficiaires 2021",
+    "description": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "annee": "2021",
     "annee_fin": "",
     "budget": 0,
@@ -3732,6 +4533,18 @@
         "ref": "VàV n°157, 161",
         "desc": "Projet Territoire 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3766,6 +4579,13 @@
         "type": "doc",
         "ref": "Bilan travaux",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -3802,6 +4622,13 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -3836,6 +4663,18 @@
         "type": "doc",
         "ref": "Délib 2022-03-08-01",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
       }
     ]
   },
@@ -3872,6 +4711,18 @@
         "ref": "Délib 2023-03-14-26",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -3906,6 +4757,18 @@
         "type": "doc",
         "ref": "Délib 2023-10-09-10",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
       }
     ]
   },
@@ -3942,6 +4805,18 @@
         "ref": "Délib 2025-02-18-10",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -3977,6 +4852,18 @@
         "ref": "CM 20/03/2024",
         "desc": "Délibération 2024-03-20-01"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -4006,6 +4893,18 @@
         "type": "doc",
         "ref": "Délib 2024-11-19-01",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
       }
     ]
   },
@@ -4037,6 +4936,18 @@
         "ref": "Délib 2021-04-27-07",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -4066,6 +4977,13 @@
         "type": "doc",
         "ref": "Magazine n°163",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
       }
     ]
   },
@@ -4097,6 +5015,18 @@
         "ref": "Délib 2022-03-08-03",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -4126,6 +5056,18 @@
         "type": "doc",
         "ref": "Délib 2020-10-20-03",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
       }
     ]
   },
@@ -4157,6 +5099,13 @@
         "ref": "Magazine n°164",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -4187,6 +5136,18 @@
         "ref": "Délib 2024-12-17-24",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -4216,6 +5177,13 @@
         "type": "doc",
         "ref": "Magazine n°162",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
       }
     ]
   },
@@ -4251,6 +5219,13 @@
         "type": "doc",
         "ref": "Bilan travaux",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
       }
     ]
   },
@@ -4315,6 +5290,13 @@
         "ref": "Magazine+Bilan travaux",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -4350,6 +5332,13 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -4359,7 +5348,7 @@
     "color": "#2ecc71",
     "statut": "Réalisé",
     "titre": "Agrès sportifs Roselière + Lebrun",
-    "description": "10 000€",
+    "description": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "annee": "2023",
     "annee_fin": "2023",
     "budget": 10000,
@@ -4393,6 +5382,13 @@
         "ref": "VàV n°157, 161",
         "desc": "Projet Territoire 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -4423,6 +5419,13 @@
         "ref": "Magazine",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -4432,7 +5435,7 @@
     "color": "#2ecc71",
     "statut": "Réalisé",
     "titre": "Pass'Sport clubs sportifs subvention",
-    "description": "50€/enfant national + 10€ communal",
+    "description": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "annee": "2021",
     "annee_fin": "",
     "budget": 0,
@@ -4486,6 +5489,18 @@
         "ref": "VàV n°157, 161",
         "desc": "Projet Territoire 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -4495,7 +5510,7 @@
     "color": "#2ecc71",
     "statut": "Réalisé",
     "titre": "Cyclosportive Thierry Claveyrolat 1ère",
-    "description": "28 avril 2024, hommage cycliste vizillois",
+    "description": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "annee": "2024",
     "annee_fin": "2024",
     "budget": 0,
@@ -4532,6 +5547,13 @@
         "type": "magazine",
         "ref": "VàV n°157, 161",
         "desc": "Projet Territoire 2024"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
       }
     ]
   },
@@ -4576,6 +5598,18 @@
         "ref": "Délib 2022-12-12-19",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -4605,6 +5639,13 @@
         "type": "doc",
         "ref": "Magazine n°164",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
       }
     ]
   },
@@ -4636,6 +5677,13 @@
         "ref": "Magazine",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -4666,6 +5714,13 @@
         "ref": "Magazine",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -4675,7 +5730,7 @@
     "color": "#2ecc71",
     "statut": "Réalisé",
     "titre": "La Viziclette",
-    "description": "Avec Vélostival Métro",
+    "description": "Le Vélostival de la Métropole à Vizille, animations vélo par l'association Chaîne de Vélo.",
     "annee": "2024",
     "annee_fin": "",
     "budget": 0,
@@ -4699,6 +5754,13 @@
         "type": "magazine",
         "ref": "VàV n°156, 159",
         "desc": "2024"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
       }
     ]
   },
@@ -4734,6 +5796,18 @@
         "type": "doc",
         "ref": "Délib 2024-02-15-27",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
       }
     ]
   },
@@ -4777,6 +5851,13 @@
         "ref": "Délib 2021-09-21-12",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -4807,7 +5888,8 @@
         "ref": "Magazine n°166",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 127,
@@ -4837,7 +5919,8 @@
         "ref": "Magazine n°164",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 128,
@@ -4867,7 +5950,8 @@
         "ref": "Magazine n°165",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 129,
@@ -4897,7 +5981,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 130,
@@ -4927,7 +6012,8 @@
         "ref": "Magazine n°163",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 131,
@@ -4957,7 +6043,8 @@
         "ref": "Magazine n°166",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 132,
@@ -4987,6 +6074,13 @@
         "ref": "Délib 2024-05-14-02",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -4996,7 +6090,7 @@
     "color": "#1abc9c",
     "statut": "En cours",
     "titre": "Piétonisation rue Général de Gaulle",
-    "description": "Travaux mars 2025, végétalisation",
+    "description": "Réaménagement complet avec piétonisation partielle, végétalisation et modernisation. Précédé par un chantier majeur de mise en conformité des réseaux (7,9 M€).",
     "annee": "2025",
     "annee_fin": "2025",
     "budget": 0,
@@ -5034,7 +6128,8 @@
         "ref": "VàV n°158-161",
         "desc": "2024"
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 134,
@@ -5064,7 +6159,8 @@
         "ref": "Magazine n°166",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 135,
@@ -5094,7 +6190,8 @@
         "ref": "Magazine n°166",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 136,
@@ -5128,7 +6225,8 @@
         "ref": "Magazine n°166",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 137,
@@ -5158,7 +6256,8 @@
         "ref": "Magazine n°166",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 138,
@@ -5193,6 +6292,13 @@
         "ref": "Délib 2021-02-23-19",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -5223,7 +6329,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 140,
@@ -5253,7 +6360,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 141,
@@ -5283,7 +6391,8 @@
         "ref": "Magazine n°163",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 142,
@@ -5318,7 +6427,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 143,
@@ -5353,7 +6463,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 144,
@@ -5388,7 +6499,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 145,
@@ -5423,7 +6535,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 146,
@@ -5462,7 +6575,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 147,
@@ -5497,7 +6611,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 148,
@@ -5532,7 +6647,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 149,
@@ -5567,7 +6683,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 150,
@@ -5602,7 +6719,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 151,
@@ -5637,7 +6755,8 @@
         "ref": "Magazine+Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 152,
@@ -5672,7 +6791,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 153,
@@ -5702,7 +6822,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 154,
@@ -5732,7 +6853,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 155,
@@ -5767,7 +6889,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 156,
@@ -5802,7 +6925,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 157,
@@ -5837,7 +6961,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 158,
@@ -5872,7 +6997,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 159,
@@ -5902,7 +7028,8 @@
         "ref": "Magazine n°163",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 160,
@@ -5937,7 +7064,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 161,
@@ -5967,7 +7095,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 162,
@@ -5976,7 +7105,7 @@
     "color": "#e67e22",
     "statut": "Réalisé",
     "titre": "Espace France Services locaux",
-    "description": "Square Alfred Poncet, 28 000€",
+    "description": "Espace multiservices labellisé France Services avec CCAS, PIMMS, CPAM, CARSAT. Accompagnement de 3 600 personnes/an.",
     "annee": "2022",
     "annee_fin": "2022",
     "budget": 28000,
@@ -6006,7 +7135,8 @@
         "ref": "VàV n°154",
         "desc": "Janvier 2024"
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 163,
@@ -6041,7 +7171,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 164,
@@ -6071,7 +7202,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 165,
@@ -6114,6 +7246,13 @@
         "ref": "Délib 2024-02-15-28",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -6144,7 +7283,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 167,
@@ -6179,6 +7319,13 @@
         "ref": "Délib 2020-12-15-12",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -6208,6 +7355,13 @@
         "type": "doc",
         "ref": "Délib 2021-06-29-43",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -6239,6 +7393,13 @@
         "ref": "Délib 2024-12-17-27",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -6268,6 +7429,13 @@
         "type": "doc",
         "ref": "Délib 2024-07-15-25",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -6299,6 +7467,13 @@
         "ref": "Délib 2024-12-17-19",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -6328,6 +7503,13 @@
         "type": "doc",
         "ref": "Délib 2023-11-28-11",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -6359,6 +7541,13 @@
         "ref": "Délib 2025-06-24",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -6388,6 +7577,13 @@
         "type": "doc",
         "ref": "Délib 2025-06-24",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -6419,6 +7615,13 @@
         "ref": "Délib annuels",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -6449,7 +7652,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 177,
@@ -6478,6 +7682,13 @@
         "type": "doc",
         "ref": "Délib 2024-02-15-02",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -6509,6 +7720,13 @@
         "ref": "Délib 2024-03-20-05",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -6518,18 +7736,43 @@
     "color": "#795548",
     "statut": "Réalisé",
     "titre": "Budget primitif 2025 unanimité",
-    "description": "Budget primitif 2025 unanimité",
+    "description": "Budget primitif 2025 voté à l'unanimité le 8 avril 2025. Total : 15 625 426€ (Fonctionnement 10 236 750€ + Investissement 5 388 676€). Emprunt prévu : 800 000€. Taux d'imposition maintenus stables.",
     "annee": "2025",
     "annee_fin": "2025",
-    "budget": 0,
+    "budget": 15625426,
     "source": "Délib 2025-04-08-04",
     "importance": 1,
-    "resume": "",
-    "chiffres": [],
+    "resume": "Budget primitif 2025 adopté à l'unanimité par le Conseil Municipal. Maintien des taux d'imposition et gestion rigoureuse des finances.",
+    "chiffres": [
+      {
+        "valeur": "15,6 M€",
+        "label": "Budget total"
+      },
+      {
+        "valeur": "10,2 M€",
+        "label": "Fonctionnement"
+      },
+      {
+        "valeur": "5,4 M€",
+        "label": "Investissement"
+      },
+      {
+        "valeur": "800 K€",
+        "label": "Emprunt prévu"
+      },
+      {
+        "valeur": "52,12%",
+        "label": "Taxe foncière bâti (stable)"
+      }
+    ],
     "chronologie": [
       {
         "date": "2025",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2025-04-08",
+        "evenement": "Vote BP 2025 à l'unanimité"
       }
     ],
     "details": "",
@@ -6538,6 +7781,13 @@
         "type": "doc",
         "ref": "Délib 2025-04-08-04",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -6569,7 +7819,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 181,
@@ -6599,7 +7850,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 182,
@@ -6634,7 +7886,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 183,
@@ -6669,7 +7922,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 184,
@@ -6704,7 +7958,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 185,
@@ -6739,7 +7994,8 @@
         "ref": "Bilan travaux",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 186,
@@ -6769,7 +8025,8 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 187,
@@ -6799,7 +8056,8 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 188,
@@ -6829,7 +8087,8 @@
         "ref": "CM 20/05/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 189,
@@ -6859,7 +8118,8 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 190,
@@ -6910,6 +8170,13 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -6939,6 +8206,13 @@
         "type": "doc",
         "ref": "CM 24/06/2025",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
       }
     ]
   },
@@ -6970,7 +8244,8 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 195,
@@ -7005,7 +8280,8 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 198,
@@ -7040,7 +8316,8 @@
         "ref": "CA 2024",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 200,
@@ -7074,6 +8351,13 @@
         "type": "doc",
         "ref": "CM 24/06/2025",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -7113,6 +8397,13 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -7143,6 +8434,13 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -7172,6 +8470,13 @@
         "type": "doc",
         "ref": "CM 24/06/2025",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -7208,6 +8513,13 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -7237,6 +8549,13 @@
         "type": "doc",
         "ref": "CM 24/06/2025",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -7268,6 +8587,13 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -7277,7 +8603,7 @@
     "color": "#2c3e50",
     "statut": "Décidé",
     "titre": "Vidéo-protection Z14 parking Tissages",
-    "description": "Affermissement tranche optionnelle, 29 987,89€ HT",
+    "description": "Déploiement d'un système de vidéo-protection avec subvention FIPD 50%. Coordination avec CSU et gendarmerie.",
     "annee": "2025",
     "annee_fin": "",
     "budget": 35985,
@@ -7323,7 +8649,8 @@
         "ref": "Décision 2025-MP-10",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 208,
@@ -7358,7 +8685,8 @@
         "ref": "Décision 2025-MP-11",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 209,
@@ -7393,7 +8721,8 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 210,
@@ -7423,7 +8752,8 @@
         "ref": "Décision 2025-URBA-11",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 211,
@@ -7453,7 +8783,8 @@
         "ref": "Décision 2025-URBA-10",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 212,
@@ -7482,6 +8813,13 @@
         "type": "doc",
         "ref": "Décision 2025-URBA-09",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
       }
     ]
   },
@@ -7513,6 +8851,13 @@
         "ref": "Décision 2025-SPORT-08",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -7543,6 +8888,13 @@
         "ref": "Décision 2025-SPORT-09",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -7572,6 +8924,13 @@
         "type": "doc",
         "ref": "Décision 2025-SPORT-10",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
       }
     ]
   },
@@ -7608,6 +8967,13 @@
         "ref": "Contrat 17/04/2025",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -7642,6 +9008,13 @@
         "type": "doc",
         "ref": "Contrat 24/04/2025",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -7678,6 +9051,13 @@
         "ref": "Contrat 24/04/2025",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -7712,6 +9092,13 @@
         "type": "doc",
         "ref": "Contrat 29/04/2025",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -7748,6 +9135,13 @@
         "ref": "Contrat 22/04/2025",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -7777,6 +9171,13 @@
         "type": "doc",
         "ref": "Décision 2025-CULT-03",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -7808,6 +9209,13 @@
         "ref": "Décision 2025-CULT-04",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -7838,7 +9246,8 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 224,
@@ -7868,7 +9277,8 @@
         "ref": "CM 24/06/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 225,
@@ -7897,6 +9307,13 @@
         "type": "doc",
         "ref": "Délib 2025-02-18-01",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -7933,6 +9350,13 @@
         "ref": "Délib 2025-02-18-03",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -7963,6 +9387,18 @@
         "ref": "Délib 2025-02-18-05",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -7992,6 +9428,18 @@
         "type": "doc",
         "ref": "Délib 2025-02-18-06",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -8028,6 +9476,18 @@
         "ref": "Délib 2025-02-18-07/08",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -8062,6 +9522,18 @@
         "type": "doc",
         "ref": "Délib 2025-02-18-09",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -8098,7 +9570,8 @@
         "ref": "Décision 2025-MP-02",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 234,
@@ -8137,7 +9610,8 @@
         "ref": "Décision 2025-AG-01",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 235,
@@ -8167,7 +9641,8 @@
         "ref": "Décision 2025-SPORT-01",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 236,
@@ -8205,6 +9680,13 @@
         "type": "doc",
         "ref": "Délib 2025-04-08-02/03",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -8244,6 +9726,13 @@
         "type": "doc",
         "ref": "Délib 2025-04-08-07",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -8292,6 +9781,18 @@
         "ref": "VàV n°157, 161",
         "desc": "Projet Territoire 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -8322,7 +9823,8 @@
         "ref": "Note BP 2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 242,
@@ -8352,7 +9854,8 @@
         "ref": "Note BP 2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 243,
@@ -8386,6 +9889,13 @@
         "type": "doc",
         "ref": "Décision 2025-MP-08",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
       }
     ]
   },
@@ -8422,6 +9932,13 @@
         "ref": "Contrat cession",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -8456,6 +9973,13 @@
         "type": "doc",
         "ref": "Contrat cession",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -8492,6 +10016,13 @@
         "ref": "Contrat cession",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -8526,6 +10057,13 @@
         "type": "doc",
         "ref": "Convention direction artistique",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -8562,6 +10100,13 @@
         "ref": "Contrat tripartite",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -8596,6 +10141,18 @@
         "type": "doc",
         "ref": "Délib 2025-09-30-15",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
       }
     ]
   },
@@ -8632,7 +10189,8 @@
         "ref": "Lettre intention 08/04/2025",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 252,
@@ -8667,6 +10225,13 @@
         "ref": "Convention CPOM",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -8697,6 +10262,13 @@
         "ref": "Convention partenariat",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -8726,6 +10298,13 @@
         "type": "doc",
         "ref": "Magazine",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
       }
     ]
   },
@@ -8761,6 +10340,18 @@
         "ref": "VàV n°159",
         "desc": "Juin 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -8791,7 +10382,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 257,
@@ -8821,7 +10413,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 258,
@@ -8851,7 +10444,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 259,
@@ -8902,7 +10496,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 260,
@@ -8932,7 +10527,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 261,
@@ -8962,7 +10558,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 262,
@@ -8992,7 +10589,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 263,
@@ -9022,7 +10620,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 264,
@@ -9052,7 +10651,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 265,
@@ -9082,7 +10682,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 266,
@@ -9112,7 +10713,8 @@
         "ref": "Magazine",
         "desc": ""
       }
-    ]
+    ],
+    "lien_source": []
   },
   {
     "id": 267,
@@ -9146,6 +10748,18 @@
         "type": "doc",
         "ref": "Délib",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -9198,6 +10812,13 @@
         "ref": "Magazine",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -9228,6 +10849,13 @@
         "ref": "Magazine",
         "desc": ""
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -9257,6 +10885,13 @@
         "type": "doc",
         "ref": "Délib",
         "desc": ""
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -9301,6 +10936,13 @@
         "date": "2023",
         "evenement": "Retard - démission 2 architectes successifs"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -9336,6 +10978,18 @@
         "date": "12/12/2022",
         "evenement": "CM: Subvention 4000€ EAG (unanimité)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -9357,6 +11011,18 @@
       {
         "date": "20/03/2024",
         "evenement": "CM: Adoption vœu (25 pour, 4 NPPV)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
       }
     ]
   },
@@ -9397,6 +11063,18 @@
         "date": "2021-06-29",
         "evenement": "Programmation saison culturelle 2021-2022"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -9428,6 +11106,18 @@
         "date": "14/05/2024",
         "evenement": "CM: Convention Estivales 2024"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -9449,6 +11139,13 @@
       {
         "date": "14/05/2024",
         "evenement": "CM: Création emploi ASVP"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -9472,6 +11169,18 @@
         "date": "2025-05-20",
         "evenement": "Demande de subvention au Département pour travaux de sécurisation"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -9493,6 +11202,13 @@
       {
         "date": "2025-06-24",
         "evenement": "Adhésion ANERN"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -9516,6 +11232,18 @@
         "date": "2025-09-30",
         "evenement": "Convention collège Mattons - Devoirs faits (28 pour)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
+      }
     ]
   },
   {
@@ -9537,6 +11265,18 @@
       {
         "date": "2025-11-04",
         "evenement": "Création emploi permanent (27 pour, unanimité)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
       }
     ]
   },
@@ -9564,6 +11304,18 @@
         "date": "2025-11-04",
         "evenement": "Subvention exceptionnelle Secours Populaire"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -9585,6 +11337,18 @@
       {
         "date": "2024-12-17",
         "evenement": "Convention permanences juridiques"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
       }
     ]
   },
@@ -9608,6 +11372,18 @@
         "date": "2025-03-12",
         "evenement": "Contrat cession Fête de la Musique 2025"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -9629,6 +11405,18 @@
       {
         "date": "2022-01-31",
         "evenement": "Subvention 750€ pour 5 élèves vizillois (26 pour)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -9660,6 +11448,18 @@
         "date": "2022-01-31",
         "evenement": "Rapport représentant Lionel Coiffard - exercice 2020"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -9681,6 +11481,13 @@
       {
         "date": "2022-01-31",
         "evenement": "Avis favorable Pacte gouvernance et citoyenneté (26 pour)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -9704,6 +11511,18 @@
         "date": "2020-09-14",
         "evenement": "Désignation Catherine Troton (AG), Lionel Coiffard (Président CA), Louis Lamarca (VP)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -9725,6 +11544,13 @@
       {
         "date": "2020-09-14",
         "evenement": "Convention pôle archives itinérantes CDG38 (29 pour)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -9752,6 +11578,13 @@
         "date": "2021-04-27",
         "evenement": "Confirmation candidature Vizille - soutien projet Echirolles (25 pour, 4 abstentions)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -9778,6 +11611,13 @@
         "date": "2021-09-15",
         "evenement": "Poste 7ème adjoint laissé vacant (21 pour, 7 abstentions)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -9799,6 +11639,13 @@
       {
         "date": "2020-07-15",
         "evenement": "Installation 10 commissions (29 pour, unanimité)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -9822,6 +11669,18 @@
         "date": "2020-07-15",
         "evenement": "Délégués : Maire (droit), B. Lamy, J. Dura (22 pour, 7 abst)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
+      }
     ]
   },
   {
@@ -9843,6 +11702,13 @@
       {
         "date": "2020-07-15",
         "evenement": "Délégué G. Forestier (tit), S. Garcia de la Rosa (suppl)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -9866,6 +11732,18 @@
         "date": "2020-07-15",
         "evenement": "6 délégués désignés (25 pour, 4 contre)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
+      }
     ]
   },
   {
@@ -9887,6 +11765,13 @@
       {
         "date": "2020-07-15",
         "evenement": "Délégué : S. Lasserre (22 pour, 7 abst)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -9910,6 +11795,18 @@
         "date": "2020-07-15",
         "evenement": "Délégué : L. Coiffard (22 pour, 7 abst)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Environnement sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12658-environnement.htm"
+      }
     ]
   },
   {
@@ -9931,6 +11828,18 @@
       {
         "date": "2020-07-15",
         "evenement": "Création 2 postes ATSEM catégorie C (29 pour, unanimité)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Enfance sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12639-enfance-jeunesse.htm"
       }
     ]
   },
@@ -9954,6 +11863,13 @@
         "date": "2020-12-15",
         "evenement": "Adoption règlement intérieur CM (28 pour, unanimité)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -9975,6 +11891,18 @@
       {
         "date": "2020-12-15",
         "evenement": "Motion soutien culture adoptée à l'unanimité"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -10002,6 +11930,18 @@
         "date": "2022-04-30",
         "evenement": "Tournoi Futsal"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -10023,6 +11963,13 @@
       {
         "date": "2022-11-06",
         "evenement": "Brocante Europuces"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -10046,6 +11993,18 @@
         "date": "2022-11",
         "evenement": "Bourse aux skis 19-20 novembre, salle Locomotive"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -10067,6 +12026,13 @@
       {
         "date": "2022-11-12",
         "evenement": "Sainte-Barbe + retraite aux flambeaux"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -10094,6 +12060,13 @@
         "date": "2023-03",
         "evenement": "Renouvellement adhésion 2023"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -10115,6 +12088,18 @@
       {
         "date": "2021-06-29",
         "evenement": "Convention Billetweb billetterie spectacles (unanimité)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -10138,6 +12123,13 @@
         "date": "2021-12-14",
         "evenement": "Nouvelles durées amortissement, seuil 500€ (unanimité)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -10159,6 +12151,13 @@
       {
         "date": "2022-04-04",
         "evenement": "Affectation résultats (21 pour, 4 contre, 3 abst)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -10182,6 +12181,13 @@
         "date": "2022-06-27",
         "evenement": "Élection A. La Rocca 6e adjointe (24 voix)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -10203,6 +12209,13 @@
       {
         "date": "2023-06-20",
         "evenement": "Révision RIFSEEP"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -10234,6 +12247,13 @@
         "date": "2023-01-30",
         "evenement": "Composition CST adoptée (unanimité)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -10255,6 +12275,13 @@
       {
         "date": "2023-12-05",
         "evenement": "Renouvellement adhésion RTES (135€)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   },
@@ -10278,6 +12305,18 @@
         "date": "2023-12-05",
         "evenement": "Renouvellement adhésion CAUE (400€)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Urbanisme sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/13719-urbanisme.htm"
+      }
     ]
   },
   {
@@ -10299,6 +12338,18 @@
       {
         "date": "2023-11-28",
         "evenement": "Convention La Fourmi signée (1 an renouvelable) - unanimité"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Solidarité sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12634-centre-communal-d-action-sociale-ccas.htm"
       }
     ]
   },
@@ -10322,6 +12373,18 @@
         "date": "2023-11-28",
         "evenement": "Subvention complémentaire 200€ (total 1450€) - unanimité"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Sport sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12630-equipements-sportifs.htm"
+      }
     ]
   },
   {
@@ -10343,6 +12406,18 @@
       {
         "date": "2023-11-28",
         "evenement": "Création emploi patinoire 23-29 décembre 2023 (unanimité)"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      },
+      {
+        "type": "Page thématique",
+        "label": "Culture sur ville-vizille.fr",
+        "url": "https://www.ville-vizille.fr/12624-culture.htm"
       }
     ]
   },
@@ -10366,6 +12441,13 @@
         "date": "2023-11-28",
         "evenement": "Cadre recrutement SSIAP: 15€/h jour, 17€/h nuit (unanimité)"
       }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
     ]
   },
   {
@@ -10387,6 +12469,68 @@
       {
         "date": "2023-11-20",
         "evenement": "Signature marché carburants 2023-2027: max 50 000€ HT/12 mois"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "theme": "Travaux",
+    "icon": "🏗️",
+    "color": "#ff5722",
+    "statut": "Programmé",
+    "titre": "Programme investissements 2025",
+    "description": "Programme d'investissements 2025 : Maison de santé (360 K€), Centre technique municipal (545 K€), Cour Paul Langevin (300 K€), Rue Gal de Gaulle (213 K€), Tanneries études (137 K€), Tranquillité publique (88 K€), GTC bâtiments (51 K€).",
+    "annee": "2025",
+    "annee_fin": "2025",
+    "budget": 5388676,
+    "source": "Délib+VAV#168",
+    "importance": 3,
+    "resume": "Programme pluriannuel d'investissements voté au budget primitif 2025, représentant 5,4 M€ d'équipements pour la commune.",
+    "chiffres": [
+      {
+        "valeur": "360 K€",
+        "label": "Maison de santé"
+      },
+      {
+        "valeur": "545 K€",
+        "label": "Centre technique"
+      },
+      {
+        "valeur": "300 K€",
+        "label": "Cour P. Langevin"
+      },
+      {
+        "valeur": "213 K€",
+        "label": "Rue Gal de Gaulle"
+      },
+      {
+        "valeur": "137 K€",
+        "label": "Études Tanneries"
+      }
+    ],
+    "chronologie": [
+      {
+        "date": "2025-04-08",
+        "evenement": "Vote BP 2025 avec programme investissements"
+      }
+    ],
+    "lien_source": [
+      {
+        "type": "Magazine",
+        "label": "Vivre à Vizille n°168 (Mai 2025)",
+        "url": "https://www.ville-vizille.fr/epublications/12919-publication.htm?download=5047"
+      },
+      {
+        "type": "Délibération",
+        "label": "Délibérations du Conseil Municipal",
+        "url": "https://www.ville-vizille.fr/12600-deliberations.htm"
       }
     ]
   }
