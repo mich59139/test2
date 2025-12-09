@@ -175,8 +175,15 @@ function applyFilters() {
     const annee = document.getElementById('filter-annee').value;
     
     filteredData = allData.filter(item => {
-        if (search && !item.titre.toLowerCase().includes(search) && 
-            !item.description.toLowerCase().includes(search)) return false;
+        if (search) {
+            const searchLower = search.toLowerCase();
+            const inTitre = item.titre && item.titre.toLowerCase().includes(searchLower);
+            const inResume = item.resume && item.resume.toLowerCase().includes(searchLower);
+            const inDetails = item.details && item.details.toLowerCase().includes(searchLower);
+            const inTheme = item.theme && item.theme.toLowerCase().includes(searchLower);
+            const inDescription = item.description && item.description.toLowerCase().includes(searchLower);
+            if (!inTitre && !inResume && !inDetails && !inTheme && !inDescription) return false;
+        }
         if (theme && item.theme !== theme) return false;
         if (statut && item.statut !== statut) return false;
         if (annee && item.annee !== annee) return false;
@@ -438,6 +445,22 @@ function renderThemesChart() {
                         usePointStyle: true,
                         font: { size: 11 }
                     }
+                }
+            },
+            onClick: (event, elements) => {
+                if (elements.length > 0) {
+                    const index = elements[0].index;
+                    const themeName = labels[index];
+                    // Filtrer par ce thème
+                    document.getElementById('filter-theme').value = themeName;
+                    applyFilters();
+                    // Basculer vers la vue cartes
+                    document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+                    document.querySelector('.view-btn[data-view="cards"]').classList.add('active');
+                    currentView = 'cards';
+                    renderCurrentView();
+                    // Scroller vers les résultats
+                    document.getElementById('view-cards').scrollIntoView({ behavior: 'smooth' });
                 }
             }
         }
