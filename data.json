@@ -11,26 +11,34 @@
     "annee_fin": "2022",
     "budget": 28000,
     "source": "Magazine+Délib",
-    "importance": 1,
-    "resume": "CCAS + MFS + accompagnement 3600 pers/an",
+    "importance": 2,
+    "resume": "Espace multiservices labellisé France Services avec CCAS, PIMMS, CPAM, CARSAT. Accompagnement de 3 600 personnes/an.",
     "chiffres": [
       {
-        "valeur": "28 000 €",
-        "label": "Budget"
+        "valeur": "3 600",
+        "label": "Pers. accompagnées/an"
+      },
+      {
+        "valeur": "AFNOR",
+        "label": "Certification"
       }
     ],
     "chronologie": [
       {
         "date": "2022",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "14/05/2024",
+        "evenement": "CM: Convention pluriannuelle PIMMS La Source"
       }
     ],
-    "details": "",
+    "details": "Services: information, accompagnement démarches, cohésion sociale, parcours qualification salariés en insertion.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Magazine+Délib",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154",
+        "desc": "Janvier 2024"
       }
     ]
   },
@@ -46,9 +54,18 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib 2021-04-27-04",
-    "importance": 1,
-    "resume": "Tous les mardis place du marché",
-    "chiffres": [],
+    "importance": 2,
+    "resume": "Espace multiservices labellisé France Services avec CCAS, PIMMS, CPAM, CARSAT. Accompagnement de 3 600 personnes/an.",
+    "chiffres": [
+      {
+        "valeur": "3 600",
+        "label": "Pers. accompagnées/an"
+      },
+      {
+        "valeur": "AFNOR",
+        "label": "Certification"
+      }
+    ],
     "chronologie": [
       {
         "date": "2021",
@@ -58,9 +75,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2021-04-27-04",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154",
+        "desc": "Janvier 2024"
       }
     ]
   },
@@ -76,8 +93,8 @@
     "annee_fin": "",
     "budget": 80000,
     "source": "Magazine",
-    "importance": 1,
-    "resume": "3 médecins, capacité 6",
+    "importance": 3,
+    "resume": "Face à la désertification médicale, la municipalité crée une Maison de Santé Pluriprofessionnelle. Médecins accueillis provisoirement salle de l'Avant-Garde depuis 2023.",
     "chiffres": [
       {
         "valeur": "80 000 €",
@@ -87,15 +104,23 @@
     "chronologie": [
       {
         "date": "2023",
-        "evenement": "Réalisation"
+        "evenement": "Installation provisoire médecins salle Avant-Garde"
+      },
+      {
+        "date": "Été 2024",
+        "evenement": "Retrait médecins du projet privé (trop onéreux)"
+      },
+      {
+        "date": "Fin 2024",
+        "evenement": "Engagement Ville pour créer sa propre MSP"
       }
     ],
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Magazine",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154, 156, 161",
+        "desc": "2024"
       }
     ]
   },
@@ -141,21 +166,41 @@
     "annee_fin": "2027",
     "budget": 0,
     "source": "Délib 2025-11-04-04",
-    "importance": 1,
-    "resume": "Acquisition foncier nov 2025, convention SPL Isère Aménagement",
+    "importance": 3,
+    "resume": "Face à la désertification médicale, la municipalité crée une Maison de Santé Pluriprofessionnelle. Médecins accueillis provisoirement salle de l'Avant-Garde depuis 2023.",
     "chiffres": [],
     "chronologie": [
       {
-        "date": "2024",
-        "evenement": "Réalisation"
+        "date": "2020",
+        "evenement": "Début mandat - soutien projet MSP porté par médecins"
+      },
+      {
+        "date": "2022",
+        "evenement": "Choix promoteur par les médecins"
+      },
+      {
+        "date": "2023",
+        "evenement": "Installation provisoire médecins salle Avant-Garde"
+      },
+      {
+        "date": "Déc 2023",
+        "evenement": "Attente 2ème demande permis de construire"
+      },
+      {
+        "date": "Fin 2024",
+        "evenement": "Engagement Ville pour créer sa propre MSP"
+      },
+      {
+        "date": "Été 2024",
+        "evenement": "Retrait médecins du projet privé (trop onéreux)"
       }
     ],
-    "details": "",
+    "details": "Le promoteur choisi par les médecins devait déposer une seconde demande de permis en raison des contraintes administratives de la parcelle (ancien tènement CPAM, avenue de Vénaria). Dès décembre 2023, la maire signalait la difficulté croissante d'attirer de nouveaux médecins malgré les efforts conjoints.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2025-11-04-04",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154, 156, 161",
+        "desc": "2024"
       }
     ]
   },
@@ -203,11 +248,32 @@
     "source": "Magazine",
     "importance": 1,
     "resume": "Personnes isolées 75 ans+",
-    "chiffres": [],
+    "chiffres": [
+      {
+        "valeur": "16 000 €",
+        "label": "1er versement 2024"
+      }
+    ],
     "chronologie": [
       {
         "date": "2021",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Solde subvention 2022 - 8 780€"
+      },
+      {
+        "date": "14/03/2023",
+        "evenement": "CM: Subvention 2023"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Solde subvention 2023 - 11 230€"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention 2024 MPA + 1er versement 16 000€"
       }
     ],
     "details": "",
@@ -321,9 +387,22 @@
     "annee_fin": "2030",
     "budget": 0,
     "source": "Délib 2025-09-30-05",
-    "importance": 1,
-    "resume": "Convention signée sept 2025, horizon 2030",
-    "chiffres": [],
+    "importance": 3,
+    "resume": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
+    "chiffres": [
+      {
+        "valeur": "192 k€",
+        "label": "Études tannerie 2024"
+      },
+      {
+        "valeur": "5 ha",
+        "label": "Site tannerie"
+      },
+      {
+        "valeur": "4",
+        "label": "Secteurs prioritaires"
+      }
+    ],
     "chronologie": [
       {
         "date": "2025",
@@ -333,9 +412,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2025-09-30-05",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°157, 161",
+        "desc": "Projet Territoire 2024"
       }
     ]
   },
@@ -393,9 +472,17 @@
       {
         "date": "2022",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2023",
+        "evenement": "Construction en cours"
+      },
+      {
+        "date": "2025",
+        "evenement": "Livraison prévue d'ici 2 ans (~80 logements)"
       }
     ],
-    "details": "",
+    "details": "Les 'Terrasses de la Romanche' sur l'ancienne friche Alliance prévoient près de 80 logements locatifs ou en accession, devant accueillir de nombreuses familles sur le secteur de l'école.",
     "sources": [
       {
         "type": "doc",
@@ -446,26 +533,62 @@
     "annee_fin": "2027",
     "budget": 290000,
     "source": "Délib 2022-12-12-01",
-    "importance": 1,
-    "resume": "3M€ sur 5 ans, 290k€ Vizille",
+    "importance": 2,
+    "resume": "OPAH-RU 'Réno'Vizille' pour accompagner les propriétaires dans la rénovation des façades et logements du centre-ville avec subventions jusqu'à 50%.",
     "chiffres": [
       {
-        "valeur": "290 000 €",
-        "label": "Budget"
+        "valeur": "290 k€",
+        "label": "Budget 2024"
+      },
+      {
+        "valeur": "250",
+        "label": "Façades ciblées"
+      },
+      {
+        "valeur": "50%",
+        "label": "Subvention max"
+      },
+      {
+        "valeur": "137",
+        "label": "Immeubles ciblés (3 rues)"
+      },
+      {
+        "valeur": "366",
+        "label": "Logements concernés"
       }
     ],
     "chronologie": [
       {
         "date": "2023",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Signature convention OPAH-RU (unanimité 27 voix)"
+      },
+      {
+        "date": "2005",
+        "evenement": "1er dispositif lutte non-décence (108 logements privé, 66 public)"
+      },
+      {
+        "date": "2017-2022",
+        "evenement": "PLH métropolitain - fiche-action n°11 'Valoriser centres anciens'"
+      },
+      {
+        "date": "15/05/2018",
+        "evenement": "Délibération Métropole: inscription Vizille Cœurs de Ville"
+      },
+      {
+        "date": "17/12/2021",
+        "evenement": "Délibération Métropole: engagement centralité vizilloise"
       }
     ],
-    "details": "",
+    "details": "3 rues ciblées: rue Jean Jaurès, rue du Général de Gaulle, avenue Aristide Briand. La commune identifiée au PLUi comme centralité métropolitaine contribuant à l'organisation polycentrique.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2022-12-12-01",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154, 157",
+        "desc": "2024"
       }
     ]
   },
@@ -481,21 +604,50 @@
     "annee_fin": "2021",
     "budget": 0,
     "source": "Délib+Magazine",
-    "importance": 1,
-    "resume": "Vote unanime Métropole déc 2021",
-    "chiffres": [],
+    "importance": 3,
+    "resume": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
+    "chiffres": [
+      {
+        "valeur": "192 k€",
+        "label": "Études tannerie 2024"
+      },
+      {
+        "valeur": "5 ha",
+        "label": "Site tannerie"
+      },
+      {
+        "valeur": "4",
+        "label": "Secteurs prioritaires"
+      }
+    ],
     "chronologie": [
       {
         "date": "2021",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "03/11/2016",
+        "evenement": "Délibération Métropole: définition intérêt métropolitain"
+      },
+      {
+        "date": "15/05/2018",
+        "evenement": "Inscription Vizille Cœurs de Ville - Cœurs de Métropole"
+      },
+      {
+        "date": "17/12/2021",
+        "evenement": "Engagement démarche projet centralité vizilloise"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Groupement commande études redynamisation centralité"
       }
     ],
-    "details": "",
+    "details": "9 leviers identifiés dont: rénovation habitat, redynamisation commerces/services, requalification espaces publics. 3 objectifs: enrayer déclin centre-ville, nouvelle stratégie économique, améliorer mobilités.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib+Magazine",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°157, 161",
+        "desc": "Projet Territoire 2024"
       }
     ]
   },
@@ -548,9 +700,17 @@
       {
         "date": "2022",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2023",
+        "evenement": "Construction en cours"
+      },
+      {
+        "date": "2025",
+        "evenement": "Livraison prévue d'ici 2 ans (~80 logements)"
       }
     ],
-    "details": "",
+    "details": "Les 'Terrasses de la Romanche' sur l'ancienne friche Alliance prévoient près de 80 logements locatifs ou en accession, devant accueillir de nombreuses familles sur le secteur de l'école.",
     "sources": [
       {
         "type": "doc",
@@ -601,9 +761,18 @@
     "annee_fin": "2021",
     "budget": 0,
     "source": "Délib 2021-06-29-02",
-    "importance": 1,
-    "resume": "5 axes, 200 mesures, horizon 2030",
-    "chiffres": [],
+    "importance": 2,
+    "resume": "Engagement dans le Plan Climat-Air-Énergie métropolitain depuis 2021. Nombreuses actions environnementales.",
+    "chiffres": [
+      {
+        "valeur": "11 500 kg",
+        "label": "Textiles collectés"
+      },
+      {
+        "valeur": "+30%",
+        "label": "Évolution collecte"
+      }
+    ],
     "chronologie": [
       {
         "date": "2021",
@@ -613,9 +782,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2021-06-29-02",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°160",
+        "desc": "Juillet 2024"
       }
     ]
   },
@@ -631,9 +800,18 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib 2022-11-09-01",
-    "importance": 1,
-    "resume": "-40% éclairage, -10% bâtiments",
-    "chiffres": [],
+    "importance": 2,
+    "resume": "Engagement dans le Plan Climat-Air-Énergie métropolitain depuis 2021. Nombreuses actions environnementales.",
+    "chiffres": [
+      {
+        "valeur": "11 500 kg",
+        "label": "Textiles collectés"
+      },
+      {
+        "valeur": "+30%",
+        "label": "Évolution collecte"
+      }
+    ],
     "chronologie": [
       {
         "date": "2022",
@@ -643,9 +821,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2022-11-09-01",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°160",
+        "desc": "Juillet 2024"
       }
     ]
   },
@@ -805,7 +983,7 @@
         "evenement": "Réalisation"
       }
     ],
-    "details": "",
+    "details": "Service Enfance-Jeunesse recrute des agents sur les temps périscolaires (restaurant scolaire, périscolaire soir, entretien) ainsi que des animateurs BAFA pour les centres de loisirs.",
     "sources": [
       {
         "type": "doc",
@@ -826,21 +1004,34 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Magazine n°164",
-    "importance": 1,
-    "resume": "Chantefeuille + Maison Enfant + école Château",
-    "chiffres": [],
+    "importance": 2,
+    "resume": "3 sites de compostage partagés installés en partenariat avec l'association Terre Climat Environnement.",
+    "chiffres": [
+      {
+        "valeur": "3",
+        "label": "Sites installés"
+      }
+    ],
     "chronologie": [
       {
         "date": "2023",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "04/12/2023",
+        "evenement": "Dépôt DP aménagement 3 sites compostage partagé"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Présentation projet collecte déchets alimentaires"
       }
     ],
-    "details": "",
+    "details": "Sites: halte bus Chantefeuille, Maison de l'Enfant, école du Château.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Magazine n°164",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°159",
+        "desc": "Juin 2024"
       }
     ]
   },
@@ -1017,7 +1208,7 @@
     "budget": 0,
     "source": "Magazine",
     "importance": 1,
-    "resume": "Zéro phyto",
+    "resume": "Mise en place d'une gestion différenciée des espaces naturels pour favoriser la biodiversité et réduire l'utilisation de produits phytosanitaires (zéro phyto).",
     "chiffres": [],
     "chronologie": [
       {
@@ -1025,12 +1216,12 @@
         "evenement": "Réalisation"
       }
     ],
-    "details": "",
+    "details": "Secteurs concernés: chemin du cimetière, stade d'entraînement rugby, centre de loisirs des Corniers, pré de l'école Joliot Curie, place du Péage-de-Vizille, abords gymnase Guy Mocquet. Objectifs: favoriser biodiversité, limiter consommation ressources naturelles, ambiances végétales variées, réduire pollutions, sensibiliser à l'écocitoyenneté.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Magazine",
-        "desc": ""
+        "type": "magazine",
+        "ref": "Vivre à Vizille n°160",
+        "desc": "Juillet 2024 - Dossier"
       }
     ]
   },
@@ -1083,6 +1274,10 @@
       {
         "date": "2023",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "Déc 2023",
+        "evenement": "Proposition nomination Bernard Ughetto 8e adjoint (mobilités)"
       }
     ],
     "details": "",
@@ -1238,11 +1433,32 @@
     "source": "Bilan travaux",
     "importance": 1,
     "resume": "À venir",
-    "chiffres": [],
+    "chiffres": [
+      {
+        "valeur": "16 000 €",
+        "label": "1er versement 2024"
+      }
+    ],
     "chronologie": [
       {
         "date": "2025",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Solde subvention 2022 - 8 780€"
+      },
+      {
+        "date": "14/03/2023",
+        "evenement": "CM: Subvention 2023"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Solde subvention 2023 - 11 230€"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention 2024 MPA + 1er versement 16 000€"
       }
     ],
     "details": "",
@@ -1296,18 +1512,38 @@
     "annee_fin": "2024",
     "budget": 223623,
     "source": "Délib 2021-02-23-02",
-    "importance": 1,
-    "resume": "Budget 223 623€, centre-ville, parkings, entrées",
+    "importance": 2,
+    "resume": "Déploiement d'un système de vidéo-protection avec subvention FIPD 50%. Coordination avec CSU et gendarmerie.",
     "chiffres": [
       {
-        "valeur": "223 623 €",
-        "label": "Budget"
+        "valeur": "24+",
+        "label": "Caméras"
+      },
+      {
+        "valeur": "50%",
+        "label": "Subvention FIPD"
+      },
+      {
+        "valeur": "14 249 €",
+        "label": "Surcoût avenant (HT)"
       }
     ],
     "chronologie": [
       {
         "date": "2021",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "Virement crédits budget vidéoprotection"
+      },
+      {
+        "date": "27/11/2023",
+        "evenement": "Avenant accord-cadre vidéoprotection (14 249€ HT)"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Présentation avenant études préparatoires"
       }
     ],
     "details": "",
@@ -1421,13 +1657,30 @@
     "annee_fin": "2024",
     "budget": 0,
     "source": "Délib 2024-12-17-08",
-    "importance": 1,
-    "resume": "ISFPE filière PM",
-    "chiffres": [],
+    "importance": 2,
+    "resume": "Création et renforcement de la police municipale avec 3 agents pour la tranquillité publique.",
+    "chiffres": [
+      {
+        "valeur": "3",
+        "label": "Agents recrutés"
+      },
+      {
+        "valeur": "7j/7",
+        "label": "Présence terrain"
+      }
+    ],
     "chronologie": [
       {
         "date": "2024",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "16/12/2021",
+        "evenement": "CM: Création poste Gardien-Brigadier"
+      },
+      {
+        "date": "30/01/2023",
+        "evenement": "CM: Recrutement gardien-brigadier (avis CST 09/02/2023)"
       }
     ],
     "details": "",
@@ -1612,12 +1865,20 @@
       {
         "valeur": "29 500 €",
         "label": "Budget"
+      },
+      {
+        "valeur": "29 500 €",
+        "label": "Subvention annuelle 2024"
       }
     ],
     "chronologie": [
       {
         "date": "2020",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention objectifs 2024 Cinémas Associés - 29 500€"
       }
     ],
     "details": "",
@@ -1676,21 +1937,38 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Magazine",
-    "importance": 1,
-    "resume": "25e édition 2024, label national Jeune Public",
-    "chiffres": [],
+    "importance": 2,
+    "resume": "Festival du Film pour Enfants, le plus fréquenté de l'Isère avec label national 'Jeune Public'. Environ 40 films, jury enfants, ateliers.",
+    "chiffres": [
+      {
+        "valeur": "25 ans",
+        "label": "Ancienneté"
+      },
+      {
+        "valeur": "40",
+        "label": "Films programmés"
+      },
+      {
+        "valeur": "1er Isère",
+        "label": "Fréquentation"
+      }
+    ],
     "chronologie": [
       {
         "date": "2020",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "24 oct - 2 nov 2023",
+        "evenement": "24ème édition Festival du Film pour Enfants"
       }
     ],
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Magazine",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°161",
+        "desc": "Octobre 2024"
       }
     ]
   },
@@ -1736,7 +2014,7 @@
     "annee_fin": "",
     "budget": 7500,
     "source": "Magazine+Délib",
-    "importance": 1,
+    "importance": 2,
     "resume": "7-8 concerts/été",
     "chiffres": [
       {
@@ -1750,7 +2028,7 @@
         "evenement": "Réalisation"
       }
     ],
-    "details": "",
+    "details": "Concerts les samedis du 20/07 au 17/08/2024. Programmation par Christian Rey.",
     "sources": [
       {
         "type": "doc",
@@ -1801,7 +2079,7 @@
     "annee_fin": "",
     "budget": 4000,
     "source": "Délib 2022-12-12-21",
-    "importance": 1,
+    "importance": 2,
     "resume": "1ère édition nov 2022",
     "chiffres": [
       {
@@ -1872,15 +2150,35 @@
       {
         "valeur": "5 000 €",
         "label": "Budget"
+      },
+      {
+        "valeur": "5 000 €",
+        "label": "Budget fresque 2024"
+      },
+      {
+        "valeur": "3",
+        "label": "Fresques réalisées (2022-2024)"
       }
     ],
     "chronologie": [
       {
         "date": "2022",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "2023",
+        "evenement": "2ème œuvre façade annexe mairie-poste Péage (Elisa Capdevila)"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention Spacejunk 2024 - 5000€ (unanimité 29 voix)"
+      },
+      {
+        "date": "2024",
+        "evenement": "3ème fresque prévue dans l'espace public vizillois"
       }
     ],
-    "details": "",
+    "details": "Participation annuelle au Street Art Fest de Grenoble Alpes. La fresque 2023 du Péage a été réalisée par Elisa Capdevila, peintre et graphiste barcelonaise. Participation au Street Art Fest Grenoble Alpes initié en 2015. Fresques 2022 (Joliot-Curie), 2023 (annexe mairie-poste Péage, Elisa Capdevila), 2024 en préparation.",
     "sources": [
       {
         "type": "doc",
@@ -1907,12 +2205,32 @@
       {
         "valeur": "28 000 €",
         "label": "Budget"
+      },
+      {
+        "valeur": "16 000 €",
+        "label": "1er versement 2024"
       }
     ],
     "chronologie": [
       {
         "date": "2020",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Solde subvention 2022 - 8 780€"
+      },
+      {
+        "date": "14/03/2023",
+        "evenement": "CM: Subvention 2023"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Solde subvention 2023 - 11 230€"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention 2024 MPA + 1er versement 16 000€"
       }
     ],
     "details": "",
@@ -2026,21 +2344,33 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Magazine",
-    "importance": 1,
-    "resume": "~50 concerts en 10 ans, parrainage tuyaux",
+    "importance": 2,
+    "resume": "Restauration de l'orgue historique Callinet (1846) classé MH. Concerts mensuels de collecte par les Amis de l'Orgue de Vizille.",
     "chiffres": [],
     "chronologie": [
       {
-        "date": "2015",
-        "evenement": "Réalisation"
+        "date": "2024",
+        "evenement": "Concerts mensuels pour financement"
+      },
+      {
+        "date": "Juillet 2024",
+        "evenement": "Concerts à St-Pierre de Mésage (travaux tribune)"
+      },
+      {
+        "date": "11/07/2023",
+        "evenement": "CM: Buffet déjà restauré, instrument en cours fabrication"
+      },
+      {
+        "date": "2023",
+        "evenement": "Études complémentaires structure et sols église"
       }
     ],
-    "details": "",
+    "details": "Le buffet de l'orgue a été restauré. L'instrument est en cours de fabrication. Des études complémentaires sur la structure et les sols de l'église ont été nécessaires.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Magazine",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154-160",
+        "desc": "Concerts 2024"
       }
     ]
   },
@@ -2088,11 +2418,20 @@
     "source": "Magazine",
     "importance": 1,
     "resume": "Un peuple et son roi, Marie-Antoinette, etc.",
-    "chiffres": [],
+    "chiffres": [
+      {
+        "valeur": "29 500 €",
+        "label": "Subvention annuelle 2024"
+      }
+    ],
     "chronologie": [
       {
         "date": "2020",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention objectifs 2024 Cinémas Associés - 29 500€"
       }
     ],
     "details": "",
@@ -2277,12 +2616,20 @@
       {
         "valeur": "1 800 €",
         "label": "Budget"
+      },
+      {
+        "valeur": "130 €",
+        "label": "Cotisation annuelle"
       }
     ],
     "chronologie": [
       {
         "date": "2023",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "26/02/2024",
+        "evenement": "Renouvellement adhésion Fédération Sites Clunisiens (130€)"
       }
     ],
     "details": "",
@@ -2336,8 +2683,8 @@
     "annee_fin": "2025",
     "budget": 80000,
     "source": "Délib+Bilan travaux",
-    "importance": 1,
-    "resume": "Buffet restauré, partie instrumentale en cours",
+    "importance": 2,
+    "resume": "Restauration de l'orgue historique Callinet (1846) classé MH. Concerts mensuels de collecte par les Amis de l'Orgue de Vizille.",
     "chiffres": [
       {
         "valeur": "80 000 €",
@@ -2346,16 +2693,28 @@
     ],
     "chronologie": [
       {
-        "date": "2020",
-        "evenement": "Réalisation"
+        "date": "2024",
+        "evenement": "Concerts mensuels pour financement"
+      },
+      {
+        "date": "Juillet 2024",
+        "evenement": "Concerts à St-Pierre de Mésage (travaux tribune)"
+      },
+      {
+        "date": "11/07/2023",
+        "evenement": "CM: Buffet déjà restauré, instrument en cours fabrication"
+      },
+      {
+        "date": "2023",
+        "evenement": "Études complémentaires structure et sols église"
       }
     ],
-    "details": "",
+    "details": "Le buffet de l'orgue a été restauré. L'instrument est en cours de fabrication. Des études complémentaires sur la structure et les sols de l'église ont été nécessaires.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib+Bilan travaux",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154-160",
+        "desc": "Concerts 2024"
       }
     ]
   },
@@ -2371,7 +2730,7 @@
     "annee_fin": "",
     "budget": 310000,
     "source": "Délib 2023-12-13-17/18/19",
-    "importance": 1,
+    "importance": 3,
     "resume": "Monument Historique, 353 892€ HT",
     "chiffres": [
       {
@@ -2383,9 +2742,21 @@
       {
         "date": "2023",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "Renouvellement demande subventions DRAC/Région/Département"
+      },
+      {
+        "date": "2023",
+        "evenement": "Marché appel offres non lancé (retard architectes)"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Nouvel architecte Pierrick de Vaujany - demandes subventions renouvelées"
       }
     ],
-    "details": "",
+    "details": "Classement Monument Historique. Démission successive de deux architectes du patrimoine a causé retards importants. Nouvel architecte: Pierrick de Vaujany. Financement sollicité: DRAC, Région AURA, Département Isère.",
     "sources": [
       {
         "type": "doc",
@@ -2406,16 +2777,37 @@
     "annee_fin": "2025",
     "budget": 0,
     "source": "Délib 2025-09-30-02",
-    "importance": 1,
+    "importance": 3,
     "resume": "Programme archéologique sept 2025",
-    "chiffres": [],
+    "chiffres": [
+      {
+        "valeur": "353 892 €",
+        "label": "Coût travaux HT"
+      },
+      {
+        "valeur": "424 670 €",
+        "label": "Coût TTC"
+      }
+    ],
     "chronologie": [
       {
         "date": "2025",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "Renouvellement demande subventions DRAC/Région/Département"
+      },
+      {
+        "date": "2023",
+        "evenement": "Marché appel offres non lancé (retard architectes)"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Nouvel architecte Pierrick de Vaujany - demandes subventions renouvelées"
       }
     ],
-    "details": "",
+    "details": "Classement Monument Historique. Démission successive de deux architectes du patrimoine a causé retards importants. Nouvel architecte: Pierrick de Vaujany. Financement sollicité: DRAC, Région AURA, Département Isère.",
     "sources": [
       {
         "type": "doc",
@@ -2471,12 +2863,20 @@
     "annee_fin": "2024",
     "budget": 10875,
     "source": "Délib 2024-02-15-26",
-    "importance": 1,
-    "resume": "10 875€ TTC, subvention Département 50%",
+    "importance": 3,
+    "resume": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "chiffres": [
       {
-        "valeur": "10 875 €",
-        "label": "Budget"
+        "valeur": "192 k€",
+        "label": "Études tannerie 2024"
+      },
+      {
+        "valeur": "5 ha",
+        "label": "Site tannerie"
+      },
+      {
+        "valeur": "4",
+        "label": "Secteurs prioritaires"
       }
     ],
     "chronologie": [
@@ -2488,9 +2888,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2024-02-15-26",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°157, 161",
+        "desc": "Projet Territoire 2024"
       }
     ]
   },
@@ -2506,21 +2906,33 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib 2024-02-15-25",
-    "importance": 1,
-    "resume": "Piliers avec micropieux",
+    "importance": 2,
+    "resume": "Restauration de l'orgue historique Callinet (1846) classé MH. Concerts mensuels de collecte par les Amis de l'Orgue de Vizille.",
     "chiffres": [],
     "chronologie": [
       {
         "date": "2024",
-        "evenement": "Réalisation"
+        "evenement": "Concerts mensuels pour financement"
+      },
+      {
+        "date": "Juillet 2024",
+        "evenement": "Concerts à St-Pierre de Mésage (travaux tribune)"
+      },
+      {
+        "date": "11/07/2023",
+        "evenement": "CM: Buffet déjà restauré, instrument en cours fabrication"
+      },
+      {
+        "date": "2023",
+        "evenement": "Études complémentaires structure et sols église"
       }
     ],
-    "details": "",
+    "details": "Le buffet de l'orgue a été restauré. L'instrument est en cours de fabrication. Des études complémentaires sur la structure et les sols de l'église ont été nécessaires.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2024-02-15-25",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154-160",
+        "desc": "Concerts 2024"
       }
     ]
   },
@@ -2578,6 +2990,10 @@
       {
         "date": "2024",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "11/07/2023",
+        "evenement": "CM: Plan financement rénovation crèche + emprunt Caisse Épargne"
       }
     ],
     "details": "",
@@ -2601,8 +3017,8 @@
     "annee_fin": "2024",
     "budget": 230000,
     "source": "Magazine+Bilan travaux",
-    "importance": 1,
-    "resume": "Végétalisation, inauguration 27/06/2024",
+    "importance": 2,
+    "resume": "Désimperméabilisation et végétalisation de la cour, projet phare d'adaptation au changement climatique.",
     "chiffres": [
       {
         "valeur": "230 000 €",
@@ -2612,15 +3028,19 @@
     "chronologie": [
       {
         "date": "2023",
-        "evenement": "Réalisation"
+        "evenement": "Travaux de végétalisation"
+      },
+      {
+        "date": "27 juin 2024",
+        "evenement": "Inauguration officielle"
       }
     ],
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Magazine+Bilan travaux",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°159",
+        "desc": "Juin 2024"
       }
     ]
   },
@@ -2801,16 +3221,29 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib annuels",
-    "importance": 1,
+    "importance": 2,
     "resume": "1200-2000/an, financement Éducation Nationale",
-    "chiffres": [],
+    "chiffres": [
+      {
+        "valeur": "1 200",
+        "label": "Petits déjeuners distribués (2024)"
+      },
+      {
+        "valeur": "1,30 €",
+        "label": "Coût unitaire max"
+      },
+      {
+        "valeur": "1 560 €",
+        "label": "Budget total TTC"
+      }
+    ],
     "chronologie": [
       {
         "date": "2023",
         "evenement": "Réalisation"
       }
     ],
-    "details": "",
+    "details": "De la Petite Section au CM2, 1 jour/semaine du 2 avril au 28 juin 2024. 100% remboursé par l'Éducation Nationale.",
     "sources": [
       {
         "type": "doc",
@@ -2956,9 +3389,18 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib 2021-06-29-01",
-    "importance": 1,
-    "resume": "Recruté 1er juillet 2021",
-    "chiffres": [],
+    "importance": 2,
+    "resume": "Espace multiservices labellisé France Services avec CCAS, PIMMS, CPAM, CARSAT. Accompagnement de 3 600 personnes/an.",
+    "chiffres": [
+      {
+        "valeur": "3 600",
+        "label": "Pers. accompagnées/an"
+      },
+      {
+        "valeur": "AFNOR",
+        "label": "Certification"
+      }
+    ],
     "chronologie": [
       {
         "date": "2021",
@@ -2968,9 +3410,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2021-06-29-01",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154",
+        "desc": "Janvier 2024"
       }
     ]
   },
@@ -2986,21 +3428,46 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib 2024-05-14-21",
-    "importance": 1,
-    "resume": "Découverte nautique centres de loisirs, 2€/enfant",
-    "chiffres": [],
+    "importance": 3,
+    "resume": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
+    "chiffres": [
+      {
+        "valeur": "192 k€",
+        "label": "Études tannerie 2024"
+      },
+      {
+        "valeur": "5 ha",
+        "label": "Site tannerie"
+      },
+      {
+        "valeur": "4",
+        "label": "Secteurs prioritaires"
+      },
+      {
+        "valeur": "34",
+        "label": "Séances nautiques été 2024"
+      },
+      {
+        "valeur": "2 €/enfant",
+        "label": "Tarif réduit (vs 12€ public)"
+      }
+    ],
     "chronologie": [
       {
         "date": "2024",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "14/05/2024",
+        "evenement": "CM: Adhésion Nautic Sport 38 (16€) - 34 séances été 2024"
       }
     ],
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2024-05-14-21",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°157, 161",
+        "desc": "Projet Territoire 2024"
       }
     ]
   },
@@ -3016,21 +3483,54 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib 2021-12-14-19",
-    "importance": 1,
-    "resume": "83 enfants bénéficiaires 2021",
-    "chiffres": [],
+    "importance": 3,
+    "resume": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
+    "chiffres": [
+      {
+        "valeur": "192 k€",
+        "label": "Études tannerie 2024"
+      },
+      {
+        "valeur": "5 ha",
+        "label": "Site tannerie"
+      },
+      {
+        "valeur": "4",
+        "label": "Secteurs prioritaires"
+      },
+      {
+        "valeur": "10 €",
+        "label": "Maximum/enfant/an"
+      },
+      {
+        "valeur": "6-18 ans",
+        "label": "Tranche d'âge"
+      },
+      {
+        "valeur": "58",
+        "label": "Enfants bénéficiaires (2022)"
+      }
+    ],
     "chronologie": [
       {
         "date": "2021",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Reconduction dispositif Pass'Sport communal (unanimité)"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Reconduction dispositif 2023-2024"
       }
     ],
-    "details": "",
+    "details": "Conditions: enfants 6-18 ans domiciliés à Vizille, bénéficiaires ARS, AEEH ou AAH. Subvention versée directement aux associations sportives vizilloises.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2021-12-14-19",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°157, 161",
+        "desc": "Projet Territoire 2024"
       }
     ]
   },
@@ -3256,7 +3756,7 @@
     "annee_fin": "2024",
     "budget": 0,
     "source": "Délib 2024-03-20-01",
-    "importance": 1,
+    "importance": 2,
     "resume": "25 pour, 4 ne prend pas part",
     "chiffres": [],
     "chronologie": [
@@ -3265,12 +3765,17 @@
         "evenement": "Réalisation"
       }
     ],
-    "details": "",
+    "details": "Suite à intervention du Collectif de Citoyens du Pays Vizillois. Appel au cessez-le-feu immédiat, levée blocus, libération prisonniers/otages. Engagement jumelage/entraide.",
     "sources": [
       {
         "type": "doc",
         "ref": "Délib 2024-03-20-01",
         "desc": ""
+      },
+      {
+        "type": "cm",
+        "ref": "CM 20/03/2024",
+        "desc": "Délibération 2024-03-20-01"
       }
     ]
   },
@@ -3567,15 +4072,35 @@
       {
         "valeur": "60 000 €",
         "label": "Budget"
+      },
+      {
+        "valeur": "3 €",
+        "label": "Tarif enfant -12 ans"
+      },
+      {
+        "valeur": "5 €",
+        "label": "Tarif adulte"
+      },
+      {
+        "valeur": "25 €",
+        "label": "Carte 10 entrées adulte"
       }
     ],
     "chronologie": [
       {
         "date": "2021",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "14/05/2024",
+        "evenement": "CM: Tarifs et ouverture piscine 2024"
+      },
+      {
+        "date": "01/07-31/08/2024",
+        "evenement": "Période ouverture piscine municipale"
       }
     ],
-    "details": "",
+    "details": "Aménagements réalisés en 2023: reprise carrelage bassin, 4 voiles d'ombrage, massifs de fleurs, gazon synthétique autour du bassin, caillebotis dans le pédiluve, réfection portes cabines. Fréquentation en hausse significative, certaines journées plus de 100 personnes. Gratuité les jours de vigilance rouge canicule. Cours de natation MNS de 9h30 à 11h et 18h15 à 19h15.",
     "sources": [
       {
         "type": "doc",
@@ -3631,12 +4156,20 @@
     "annee_fin": "2023",
     "budget": 10000,
     "source": "Bilan travaux",
-    "importance": 1,
-    "resume": "10 000€",
+    "importance": 3,
+    "resume": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
     "chiffres": [
       {
-        "valeur": "10 000 €",
-        "label": "Budget"
+        "valeur": "192 k€",
+        "label": "Études tannerie 2024"
+      },
+      {
+        "valeur": "5 ha",
+        "label": "Site tannerie"
+      },
+      {
+        "valeur": "4",
+        "label": "Secteurs prioritaires"
       }
     ],
     "chronologie": [
@@ -3648,9 +4181,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Bilan travaux",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°157, 161",
+        "desc": "Projet Territoire 2024"
       }
     ]
   },
@@ -3696,21 +4229,54 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib annuels",
-    "importance": 1,
-    "resume": "50€/enfant national + 10€ communal",
-    "chiffres": [],
+    "importance": 3,
+    "resume": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
+    "chiffres": [
+      {
+        "valeur": "192 k€",
+        "label": "Études tannerie 2024"
+      },
+      {
+        "valeur": "5 ha",
+        "label": "Site tannerie"
+      },
+      {
+        "valeur": "4",
+        "label": "Secteurs prioritaires"
+      },
+      {
+        "valeur": "10 €",
+        "label": "Maximum/enfant/an"
+      },
+      {
+        "valeur": "6-18 ans",
+        "label": "Tranche d'âge"
+      },
+      {
+        "valeur": "58",
+        "label": "Enfants bénéficiaires (2022)"
+      }
+    ],
     "chronologie": [
       {
         "date": "2021",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Reconduction dispositif Pass'Sport communal (unanimité)"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Reconduction dispositif 2023-2024"
       }
     ],
-    "details": "",
+    "details": "Conditions: enfants 6-18 ans domiciliés à Vizille, bénéficiaires ARS, AEEH ou AAH. Subvention versée directement aux associations sportives vizilloises.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib annuels",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°157, 161",
+        "desc": "Projet Territoire 2024"
       }
     ]
   },
@@ -3726,21 +4292,38 @@
     "annee_fin": "2024",
     "budget": 0,
     "source": "Magazine",
-    "importance": 1,
-    "resume": "28 avril 2024, hommage cycliste vizillois",
-    "chiffres": [],
+    "importance": 3,
+    "resume": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
+    "chiffres": [
+      {
+        "valeur": "192 k€",
+        "label": "Études tannerie 2024"
+      },
+      {
+        "valeur": "5 ha",
+        "label": "Site tannerie"
+      },
+      {
+        "valeur": "4",
+        "label": "Secteurs prioritaires"
+      }
+    ],
     "chronologie": [
       {
         "date": "2024",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "11/07/2023",
+        "evenement": "CM: Présentation projet cyclosportive"
       }
     ],
-    "details": "",
+    "details": "L'association locale portera le projet et se chargera de l'organisation de l'épreuve. Les fonds récoltés seront redistribués pour les hébergements et activités.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Magazine",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°157, 161",
+        "desc": "Projet Territoire 2024"
       }
     ]
   },
@@ -3756,7 +4339,7 @@
     "annee_fin": "",
     "budget": 4000,
     "source": "Délib 2022-12-12-19",
-    "importance": 1,
+    "importance": 2,
     "resume": "9e édition 2022, 4000€ subvention",
     "chiffres": [
       {
@@ -3881,21 +4464,21 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Magazine",
-    "importance": 1,
-    "resume": "Avec Vélostival Métro",
+    "importance": 2,
+    "resume": "Le Vélostival de la Métropole à Vizille, animations vélo par l'association Chaîne de Vélo.",
     "chiffres": [],
     "chronologie": [
       {
-        "date": "2024",
-        "evenement": "Réalisation"
+        "date": "15-16 juin 2024",
+        "evenement": "Vélostival et Viziclette"
       }
     ],
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Magazine",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°156, 159",
+        "desc": "2024"
       }
     ]
   },
@@ -4187,49 +4770,37 @@
     "budget": 0,
     "source": "Magazine+Bilan travaux",
     "importance": 2,
-    "resume": "Réaménagement complet de la rue principale du centre-ville avec piétonisation, végétalisation et modernisation de l'éclairage pour créer un cœur de ville attractif.",
+    "resume": "Réaménagement complet avec piétonisation partielle, végétalisation et modernisation. Précédé par un chantier majeur de mise en conformité des réseaux (7,9 M€).",
     "chiffres": [
       {
-        "valeur": "400 m",
-        "label": "Linéaire traité"
+        "valeur": "7,9 M€",
+        "label": "Travaux réseaux"
       },
       {
-        "valeur": "2,1 M€",
-        "label": "Investissement"
-      },
-      {
-        "valeur": "30+",
-        "label": "Arbres plantés"
-      },
-      {
-        "valeur": "LED",
-        "label": "Éclairage modernisé"
+        "valeur": "8 mois",
+        "label": "Durée phase 1"
       }
     ],
     "chronologie": [
       {
-        "date": "2024",
-        "evenement": "Début des travaux phase 1"
+        "date": "Juin 2024",
+        "evenement": "Début travaux phase 1"
       },
       {
-        "date": "Été 2025",
-        "evenement": "Place Stalingrad achevée"
+        "date": "17 oct 2024",
+        "evenement": "Réunion publique aménagements"
       },
       {
-        "date": "Novembre 2025",
-        "evenement": "Fin des travaux place de l'église"
-      },
-      {
-        "date": "Automne 2025",
-        "evenement": "Végétalisation"
+        "date": "Début 2025",
+        "evenement": "Fin phase 1, début embellissement"
       }
     ],
-    "details": "Le projet comprend : pavage de qualité, mobilier urbain, fontaine, terrasses pour les commerces. Les commerçants ont été accompagnés pendant les travaux. Le marché a été maintenu.",
+    "details": "Les travaux de reconfiguration du réseau d'assainissement et d'eau potable ont débuté en juin 2024 sur le tronçon rue Carnot - route d'Uriage. Phase 2 plus complexe (rue Carnot - place Barbusse) nécessite des études géotechniques. Pendant les travaux: accès piétons et commerces maintenus, livraisons jusqu'à 11h et à partir de 18h. Objectif: piétonniser une partie de la rue pour apaiser les déplacements et dynamiser les commerces.",
     "sources": [
       {
         "type": "magazine",
-        "ref": "Vivre à Vizille n°169-171",
-        "desc": "Suivi des travaux"
+        "ref": "VàV n°158-161",
+        "desc": "2024"
       }
     ]
   },
@@ -4642,6 +5213,10 @@
       {
         "date": "2022",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Contrat bal Libération 24/08/2024 - 1 949€"
       }
     ],
     "details": "",
@@ -4819,7 +5394,7 @@
         "evenement": "Réalisation"
       }
     ],
-    "details": "",
+    "details": "En décembre 2023, les travaux d'assainissement rue du Général de Gaulle étaient interrompus depuis plusieurs mois. La Métropole invoquait un risque de fragilité lié à la vétusté des immeubles de la rue, aspect qui aurait dû être pris en compte en amont.",
     "sources": [
       {
         "type": "doc",
@@ -5170,12 +5745,16 @@
     "annee_fin": "2022",
     "budget": 28000,
     "source": "Bilan travaux",
-    "importance": 1,
-    "resume": "Square Alfred Poncet, 28 000€",
+    "importance": 2,
+    "resume": "Espace multiservices labellisé France Services avec CCAS, PIMMS, CPAM, CARSAT. Accompagnement de 3 600 personnes/an.",
     "chiffres": [
       {
-        "valeur": "28 000 €",
-        "label": "Budget"
+        "valeur": "3 600",
+        "label": "Pers. accompagnées/an"
+      },
+      {
+        "valeur": "AFNOR",
+        "label": "Certification"
       }
     ],
     "chronologie": [
@@ -5187,9 +5766,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Bilan travaux",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154",
+        "desc": "Janvier 2024"
       }
     ]
   },
@@ -5276,12 +5855,20 @@
       {
         "valeur": "145 906 €",
         "label": "Budget"
+      },
+      {
+        "valeur": "29 500 €",
+        "label": "Subvention annuelle 2024"
       }
     ],
     "chronologie": [
       {
         "date": "2024",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention objectifs 2024 Cinémas Associés - 29 500€"
       }
     ],
     "details": "",
@@ -6052,11 +6639,32 @@
     "source": "CM 24/06/2025",
     "importance": 1,
     "resume": "Phase incitative jusqu'à janvier 2028, guide architectural et chromatique",
-    "chiffres": [],
+    "chiffres": [
+      {
+        "valeur": "16 000 €",
+        "label": "1er versement 2024"
+      }
+    ],
     "chronologie": [
       {
         "date": "2025",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Solde subvention 2022 - 8 780€"
+      },
+      {
+        "date": "14/03/2023",
+        "evenement": "CM: Subvention 2023"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Solde subvention 2023 - 11 230€"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention 2024 MPA + 1er versement 16 000€"
       }
     ],
     "details": "",
@@ -6080,26 +6688,70 @@
     "annee_fin": "2028",
     "budget": 2170000,
     "source": "CM 24/06/2025",
-    "importance": 1,
-    "resume": "Ajout 6 immeubles dégradés (24 logements), extension aides propriétaires bailleurs",
+    "importance": 2,
+    "resume": "OPAH-RU 'Réno'Vizille' pour accompagner les propriétaires dans la rénovation des façades et logements du centre-ville avec subventions jusqu'à 50%.",
     "chiffres": [
       {
-        "valeur": "2 170 000 €",
-        "label": "Budget"
+        "valeur": "290 k€",
+        "label": "Budget 2024"
+      },
+      {
+        "valeur": "250",
+        "label": "Façades ciblées"
+      },
+      {
+        "valeur": "50%",
+        "label": "Subvention max"
+      },
+      {
+        "valeur": "137",
+        "label": "Immeubles ciblés (3 rues)"
+      },
+      {
+        "valeur": "366",
+        "label": "Logements concernés"
       }
     ],
     "chronologie": [
       {
+        "date": "2023",
+        "evenement": "Engagement OPAH-RU avec État et Métropole"
+      },
+      {
+        "date": "2023",
+        "evenement": "Premières prises de contact propriétaires centre-ville"
+      },
+      {
         "date": "2025",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Signature convention OPAH-RU (unanimité 27 voix)"
+      },
+      {
+        "date": "2005",
+        "evenement": "1er dispositif lutte non-décence (108 logements privé, 66 public)"
+      },
+      {
+        "date": "2017-2022",
+        "evenement": "PLH métropolitain - fiche-action n°11 'Valoriser centres anciens'"
+      },
+      {
+        "date": "15/05/2018",
+        "evenement": "Délibération Métropole: inscription Vizille Cœurs de Ville"
+      },
+      {
+        "date": "17/12/2021",
+        "evenement": "Délibération Métropole: engagement centralité vizilloise"
       }
     ],
-    "details": "",
+    "details": "3 rues ciblées: rue Jean Jaurès, rue du Général de Gaulle, avenue Aristide Briand. La commune identifiée au PLUi comme centralité métropolitaine contribuant à l'organisation polycentrique.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "CM 24/06/2025",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154, 157",
+        "desc": "2024"
       }
     ]
   },
@@ -6595,18 +7247,38 @@
     "annee_fin": "",
     "budget": 35985,
     "source": "Décision 2025-MP-10",
-    "importance": 1,
-    "resume": "Affermissement tranche optionnelle, 29 987,89€ HT",
+    "importance": 2,
+    "resume": "Déploiement d'un système de vidéo-protection avec subvention FIPD 50%. Coordination avec CSU et gendarmerie.",
     "chiffres": [
       {
-        "valeur": "35 985 €",
-        "label": "Budget"
+        "valeur": "24+",
+        "label": "Caméras"
+      },
+      {
+        "valeur": "50%",
+        "label": "Subvention FIPD"
+      },
+      {
+        "valeur": "14 249 €",
+        "label": "Surcoût avenant (HT)"
       }
     ],
     "chronologie": [
       {
         "date": "2025",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "Virement crédits budget vidéoprotection"
+      },
+      {
+        "date": "27/11/2023",
+        "evenement": "Avenant accord-cadre vidéoprotection (14 249€ HT)"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Présentation avenant études préparatoires"
       }
     ],
     "details": "",
@@ -7440,26 +8112,70 @@
     "annee_fin": "",
     "budget": 47520,
     "source": "Décision 2024-MP-19",
-    "importance": 1,
-    "resume": "47 520€ TTC, guide architectural centre-ville",
+    "importance": 2,
+    "resume": "OPAH-RU 'Réno'Vizille' pour accompagner les propriétaires dans la rénovation des façades et logements du centre-ville avec subventions jusqu'à 50%.",
     "chiffres": [
       {
-        "valeur": "47 520 €",
-        "label": "Budget"
+        "valeur": "290 k€",
+        "label": "Budget 2024"
+      },
+      {
+        "valeur": "250",
+        "label": "Façades ciblées"
+      },
+      {
+        "valeur": "50%",
+        "label": "Subvention max"
+      },
+      {
+        "valeur": "137",
+        "label": "Immeubles ciblés (3 rues)"
+      },
+      {
+        "valeur": "366",
+        "label": "Logements concernés"
       }
     ],
     "chronologie": [
       {
+        "date": "2023",
+        "evenement": "Engagement OPAH-RU avec État et Métropole"
+      },
+      {
+        "date": "2023",
+        "evenement": "Premières prises de contact propriétaires centre-ville"
+      },
+      {
         "date": "2024",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Signature convention OPAH-RU (unanimité 27 voix)"
+      },
+      {
+        "date": "2005",
+        "evenement": "1er dispositif lutte non-décence (108 logements privé, 66 public)"
+      },
+      {
+        "date": "2017-2022",
+        "evenement": "PLH métropolitain - fiche-action n°11 'Valoriser centres anciens'"
+      },
+      {
+        "date": "15/05/2018",
+        "evenement": "Délibération Métropole: inscription Vizille Cœurs de Ville"
+      },
+      {
+        "date": "17/12/2021",
+        "evenement": "Délibération Métropole: engagement centralité vizilloise"
       }
     ],
-    "details": "",
+    "details": "3 rues ciblées: rue Jean Jaurès, rue du Général de Gaulle, avenue Aristide Briand. La commune identifiée au PLUi comme centralité métropolitaine contribuant à l'organisation polycentrique.",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Décision 2024-MP-19",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°154, 157",
+        "desc": "2024"
       }
     ]
   },
@@ -7645,9 +8361,22 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib 2025-04-08-08",
-    "importance": 1,
-    "resume": "Report interdiction VUL/PL diesel de juillet 2025 à juillet 2028",
-    "chiffres": [],
+    "importance": 3,
+    "resume": "Opération de Revitalisation du Territoire pilotée avec la Métropole. 4 secteurs prioritaires: Tannerie, Tissages, Centre historique, Place du Château.",
+    "chiffres": [
+      {
+        "valeur": "192 k€",
+        "label": "Études tannerie 2024"
+      },
+      {
+        "valeur": "5 ha",
+        "label": "Site tannerie"
+      },
+      {
+        "valeur": "4",
+        "label": "Secteurs prioritaires"
+      }
+    ],
     "chronologie": [
       {
         "date": "2025",
@@ -7657,9 +8386,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib 2025-04-08-08",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°157, 161",
+        "desc": "Projet Territoire 2024"
       }
     ]
   },
@@ -7681,15 +8410,39 @@
       {
         "valeur": "6 000 €",
         "label": "Budget"
+      },
+      {
+        "valeur": "5 000 €",
+        "label": "Budget fresque 2024"
+      },
+      {
+        "valeur": "3",
+        "label": "Fresques réalisées (2022-2024)"
       }
     ],
     "chronologie": [
       {
+        "date": "2022",
+        "evenement": "1ère œuvre sur mur école Joliot-Curie"
+      },
+      {
+        "date": "2023",
+        "evenement": "2ème œuvre façade annexe mairie-poste Péage (Elisa Capdevila)"
+      },
+      {
         "date": "2025",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention Spacejunk 2024 - 5000€ (unanimité 29 voix)"
+      },
+      {
+        "date": "2024",
+        "evenement": "3ème fresque prévue dans l'espace public vizillois"
       }
     ],
-    "details": "",
+    "details": "Participation annuelle au Street Art Fest de Grenoble Alpes. La fresque 2023 du Péage a été réalisée par Elisa Capdevila, peintre et graphiste barcelonaise. Participation au Street Art Fest Grenoble Alpes initié en 2015. Fresques 2022 (Joliot-Curie), 2023 (annexe mairie-poste Péage, Elisa Capdevila), 2024 en préparation.",
     "sources": [
       {
         "type": "doc",
@@ -8180,21 +8933,25 @@
     "annee_fin": "2025",
     "budget": 0,
     "source": "Délib",
-    "importance": 1,
-    "resume": "Désimperméabilisation de la cour de l'école Jean Jaurès",
+    "importance": 2,
+    "resume": "Désimperméabilisation et végétalisation de la cour, projet phare d'adaptation au changement climatique.",
     "chiffres": [],
     "chronologie": [
       {
-        "date": "2024",
-        "evenement": "Réalisation"
+        "date": "2023",
+        "evenement": "Travaux de végétalisation"
+      },
+      {
+        "date": "27 juin 2024",
+        "evenement": "Inauguration officielle"
       }
     ],
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°159",
+        "desc": "Juin 2024"
       }
     ]
   },
@@ -8300,16 +9057,37 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Magazine",
-    "importance": 1,
+    "importance": 3,
     "resume": "Arrêtés pendant vacances scolaires décembre-janvier",
-    "chiffres": [],
+    "chiffres": [
+      {
+        "valeur": "353 892 €",
+        "label": "Coût travaux HT"
+      },
+      {
+        "valeur": "424 670 €",
+        "label": "Coût TTC"
+      }
+    ],
     "chronologie": [
       {
         "date": "2025",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "Renouvellement demande subventions DRAC/Région/Département"
+      },
+      {
+        "date": "2023",
+        "evenement": "Marché appel offres non lancé (retard architectes)"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Nouvel architecte Pierrick de Vaujany - demandes subventions renouvelées"
       }
     ],
-    "details": "",
+    "details": "Classement Monument Historique. Démission successive de deux architectes du patrimoine a causé retards importants. Nouvel architecte: Pierrick de Vaujany. Financement sollicité: DRAC, Région AURA, Département Isère.",
     "sources": [
       {
         "type": "doc",
@@ -8577,11 +9355,32 @@
     "source": "Magazine",
     "importance": 1,
     "resume": "Producteur Adrian Bushby, 2ème album en préparation",
-    "chiffres": [],
+    "chiffres": [
+      {
+        "valeur": "16 000 €",
+        "label": "1er versement 2024"
+      }
+    ],
     "chronologie": [
       {
         "date": "2025",
         "evenement": "Réalisation"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Solde subvention 2022 - 8 780€"
+      },
+      {
+        "date": "14/03/2023",
+        "evenement": "CM: Subvention 2023"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Solde subvention 2023 - 11 230€"
+      },
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Convention 2024 MPA + 1er versement 16 000€"
       }
     ],
     "details": "",
@@ -8635,9 +9434,18 @@
     "annee_fin": "",
     "budget": 0,
     "source": "Délib",
-    "importance": 1,
-    "resume": "Baisse température -2°C, isolation, LED, capteurs",
-    "chiffres": [],
+    "importance": 2,
+    "resume": "Engagement dans le Plan Climat-Air-Énergie métropolitain depuis 2021. Nombreuses actions environnementales.",
+    "chiffres": [
+      {
+        "valeur": "11 500 kg",
+        "label": "Textiles collectés"
+      },
+      {
+        "valeur": "+30%",
+        "label": "Évolution collecte"
+      }
+    ],
     "chronologie": [
       {
         "date": "2022",
@@ -8647,9 +9455,9 @@
     "details": "",
     "sources": [
       {
-        "type": "doc",
-        "ref": "Délib",
-        "desc": ""
+        "type": "magazine",
+        "ref": "VàV n°160",
+        "desc": "Juillet 2024"
       }
     ]
   },
@@ -8680,6 +9488,207 @@
         "type": "doc",
         "ref": "Délib",
         "desc": ""
+      }
+    ]
+  },
+  {
+    "titre": "Travaux urgence Prieuré Notre-Dame (MH)",
+    "domaine": "Patrimoine",
+    "importance": 3,
+    "resume": "Travaux de sauvegarde d'urgence de l'église prieurale Notre-Dame, classée Monument Historique. Projet retardé par démission de deux architectes.",
+    "chronologie": [
+      {
+        "date": "2022",
+        "evenement": "Lancement projet consolidation urgence"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Renouvellement demandes subventions"
+      },
+      {
+        "date": "2023",
+        "evenement": "Retard - démission 2 architectes successifs"
+      },
+      {
+        "date": "13/12/2023",
+        "evenement": "CM: Nouvel architecte Pierrick de Vaujany"
+      }
+    ],
+    "chiffres": [
+      {
+        "valeur": "353 892 €",
+        "label": "Coût travaux HT"
+      },
+      {
+        "valeur": "424 670 €",
+        "label": "Coût TTC"
+      }
+    ],
+    "details": "Église classée Monument Historique. Financement: DRAC, Région AURA, Département Isère.",
+    "sources": [
+      {
+        "type": "cm",
+        "ref": "CM 12/12/2022, 13/12/2023",
+        "desc": "Délibérations renouvellement subventions"
+      }
+    ]
+  },
+  {
+    "titre": "Semi-marathon Grenoble-Vizille (partenariat)",
+    "domaine": "Sports",
+    "importance": 2,
+    "resume": "Partenariat avec l'Entente Athlétique de Grenoble pour le semi-marathon annuel.",
+    "chronologie": [
+      {
+        "date": "03/04/2022",
+        "evenement": "9ème édition"
+      },
+      {
+        "date": "12/12/2022",
+        "evenement": "CM: Subvention 4000€ EAG (unanimité)"
+      }
+    ],
+    "chiffres": [
+      {
+        "valeur": "4 000 €",
+        "label": "Subvention municipale"
+      },
+      {
+        "valeur": "9",
+        "label": "Éditions"
+      }
+    ],
+    "sources": [
+      {
+        "type": "cm",
+        "ref": "CM 12/12/2022",
+        "desc": "Délibération 2022-12-12-19"
+      }
+    ]
+  },
+  {
+    "titre": "Réseau de chaleur Vizille (intention)",
+    "domaine": "Environnement",
+    "importance": 2,
+    "resume": "Délibération d'intention pour le développement d'un réseau de chaleur à Vizille.",
+    "chronologie": [
+      {
+        "date": "01/01/2015",
+        "evenement": "Métropole autorité organisatrice distribution chaleur"
+      },
+      {
+        "date": "30/01/2023",
+        "evenement": "CM: Délibération d'intention"
+      }
+    ],
+    "sources": [
+      {
+        "type": "cm",
+        "ref": "CM 30/01/2023",
+        "desc": "Délibération 2023-01-30-05"
+      }
+    ]
+  },
+  {
+    "titre": "Vœu Gaza - cessez-le-feu et paix durable",
+    "domaine": "Vie municipale",
+    "importance": 2,
+    "resume": "Vœu du Conseil Municipal appelant au cessez-le-feu dans la bande de Gaza et à la construction d'une paix juste et durable.",
+    "chronologie": [
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Adoption vœu (25 pour, 4 NPPV)"
+      }
+    ],
+    "details": "Suite à intervention du Collectif de Citoyens du Pays Vizillois. Demande cessez-le-feu immédiat, aide humanitaire, libération prisonniers/otages. Engagement jumelage/entraide avec commune locale.",
+    "sources": [
+      {
+        "type": "cm",
+        "ref": "CM 20/03/2024",
+        "desc": "Délibération 2024-03-20-01"
+      }
+    ]
+  },
+  {
+    "titre": "Saison culturelle 2024-2025 (13 spectacles)",
+    "domaine": "Culture",
+    "importance": 2,
+    "resume": "Programmation de 13 spectacles variés au Jeu de Paume pour la saison 2024-2025.",
+    "chronologie": [
+      {
+        "date": "20/03/2024",
+        "evenement": "CM: Contrats cession saison culturelle"
+      }
+    ],
+    "chiffres": [
+      {
+        "valeur": "13",
+        "label": "Spectacles programmés"
+      },
+      {
+        "valeur": "6 €",
+        "label": "Carte abonné individuel"
+      },
+      {
+        "valeur": "10 €",
+        "label": "Carte abonné famille"
+      }
+    ],
+    "details": "Spectacles sept 2024 à avril 2025: Goldman, Les Désaxés, La Ligne Rose, Prohibition, Algorithme, etc. Gratuité abonnement si QF CAF < 1200.",
+    "sources": [
+      {
+        "type": "cm",
+        "ref": "CM 20/03/2024",
+        "desc": "Délibération 2024-03-20-23"
+      }
+    ]
+  },
+  {
+    "titre": "Estivales 2024 (5 concerts)",
+    "domaine": "Culture",
+    "importance": 2,
+    "resume": "Programmation de 5 concerts les samedis d'été 2024 sur la place du Château.",
+    "chronologie": [
+      {
+        "date": "14/05/2024",
+        "evenement": "CM: Convention Estivales 2024"
+      }
+    ],
+    "chiffres": [
+      {
+        "valeur": "5",
+        "label": "Concerts"
+      },
+      {
+        "valeur": "5 500 €",
+        "label": "Budget artistique"
+      }
+    ],
+    "details": "Concerts du 20/07 au 17/08/2024. Programmation par Christian Rey.",
+    "sources": [
+      {
+        "type": "cm",
+        "ref": "CM 14/05/2024",
+        "desc": "Délibération 2024-05-14-24"
+      }
+    ]
+  },
+  {
+    "titre": "Agent Surveillance Voie Publique (ASVP)",
+    "domaine": "Sécurité",
+    "importance": 1,
+    "resume": "Recrutement d'un agent contractuel de surveillance de la voie publique.",
+    "chronologie": [
+      {
+        "date": "14/05/2024",
+        "evenement": "CM: Création emploi ASVP"
+      }
+    ],
+    "sources": [
+      {
+        "type": "cm",
+        "ref": "CM 14/05/2024",
+        "desc": "Délibération 2024-05-14-04"
       }
     ]
   }
